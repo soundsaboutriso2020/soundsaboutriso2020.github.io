@@ -4,7 +4,7 @@
 }
 
 body{
-	height:100vh;
+	height:100%;
 background: linear-gradient(180deg, #2E416A 0%, #62A8E5 76.04%, #FF8311 84.9%, #AC936E 88.54%);
     font-family: 'Authentic-Sans';
     font-size:24px;
