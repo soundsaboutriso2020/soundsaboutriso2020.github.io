@@ -39,7 +39,7 @@
 
 <style style="text/css">
 .marquee {
- height: 50px;	
+ height: 80px;	
  overflow: hidden;
  position: relative;
  font-size:0.8em;
@@ -61,6 +61,16 @@
  -webkit-animation: scroll-left 15s linear infinite;
  animation: scroll-left 15s linear infinite;
 }
+
+.marquee p:hover{
+
+    -webkit-animation-play-state: paused;
+    -moz-animation-play-state: paused;
+    -o-animation-play-state: paused;
+    animation-play-state: paused;
+}
+
+
 /* Move it (define the animation) */
 @-moz-keyframes scroll-left {
  0%   { -moz-transform: translateX(100%); }
