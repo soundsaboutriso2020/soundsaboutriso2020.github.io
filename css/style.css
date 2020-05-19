@@ -3,17 +3,23 @@
     src: url("/fonts/AUTHENTIC-Sans.otf") format("opentype");
 }
 
+@font-face {
+    font-family: 'Century';
+    src: url("/fonts/century.woff") format("opentype");
+}
+
 
 body{
     font-family: 'Authentic-Sans';
-    font-size:18px;
+    font-size:15px;
       margin: 2vh 2vw;
       width:96vw;
   padding: 0;
+    cursor: url('http://www.rw-designer.com/cursor-extern.php?id=10017'), auto;	
 }
 
 .space{
-	height: 15vh;
+	height: 20vh;
 }
 
 .flex{
@@ -46,7 +52,7 @@ body{
 
 .desc{
 
-		font-family: Courier;
+		font-family: 'Century', monospace;
 text-transform:uppercase;
 font-size: 0.75em;
 }
@@ -128,6 +134,7 @@ nav{
 	position:fixed;
 	display: flex;
 	margin-bottom: 5vh;
+	  z-index:100;
 }
 
 nav a, .logo{
@@ -136,18 +143,31 @@ nav a, .logo{
 
 }
 
+.b1{
+	margin: 0 1vw;
+}
+
 .button-container{
 			margin-top:10px;
 		}
 
 .button{
-		background: #000000;
+	background-color: silver;
 border-radius: 20px;
 padding: 10px 25px;
+  mix-blend-mode: multiply;
+  	opacity: 70%;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.4);
+
 }
 
 nav a{
-	color: #DFDFDC;
+	color: #000;
+}
+
+.button:hover{
+	opacity: 90%;
+	  	box-shadow: 0px 0px 0px;
 }
 
 .logo{
@@ -157,59 +177,122 @@ nav a{
 .logo-text, .events-page h1{
 	font-weight:normal;
 	text-transform: uppercase;
-	font-size: 0.8em;
-	font-family: "Courier New", Courier, monospace;
-	color: #000;
+		font-family: 'Century', monospace;
+/*	font-family: "Courier New", Courier, monospace;
+*/	color: #000;
 }
+
+.logo-text{
+	margin-top:0.5vh;
+}
+
+/*BACKGROUND COLORS */
+
+/* event bg */
+
+.events-page{
+    background: linear-gradient(272deg, #c2bedf, #a7f086, #8bacec, #81d026);
+    background-size: 800% 800%;
+
+    -webkit-animation: eventbg 17s ease infinite;
+    -moz-animation: eventbg 17s ease infinite;
+    animation: eventbg 17s ease infinite;
+}
+
+@-webkit-keyframes eventbg {
+    0%{background-position:79% 0%}
+    50%{background-position:22% 100%}
+    100%{background-position:79% 0%}
+}
+@-moz-keyframes eventbg {
+    0%{background-position:79% 0%}
+    50%{background-position:22% 100%}
+    100%{background-position:79% 0%}
+}
+@keyframes eventbg {
+    0%{background-position:79% 0%}
+    50%{background-position:22% 100%}
+    100%{background-position:79% 0%}
+}
+
+
+/* directory bg */
+
+.directory-page {
+    background: linear-gradient(358deg, #9cbcb6, #9d7ad2, #c2dd34, #dade2b, #9d7ad2);
+    background-size: 1000% 1000%;
+
+    -webkit-animation: dirbg 35s ease infinite;
+    -moz-animation: dirbg 35s ease infinite;
+    animation: dirbg 35s ease infinite;
+}
+
+@-webkit-keyframes dirbg {
+    0%{background-position:43% 0%}
+    50%{background-position:58% 100%}
+    100%{background-position:43% 0%}
+}
+@-moz-keyframes dirbg {
+    0%{background-position:43% 0%}
+    50%{background-position:58% 100%}
+    100%{background-position:43% 0%}
+}
+@keyframes dirbg {
+    0%{background-position:43% 0%}
+    50%{background-position:58% 100%}
+    100%{background-position:43% 0%}
+}
+
 
 /* event page */
 
-.events-page{
-	background: linear-gradient(180deg, #ACD1F3 0%, #C2BEDF 40.1%, #8BACEC 70.31%, #6287E4 90.1%, #C2BEDF 96.88%), #FFFFFF;
-}
+
+
 
 .events-page h1{
-	margin: 3vh 0 1vh 0;
+	font-size: 1.5em;
+	margin: 6vh 0 3vh 0;
 }
 
 .events{
-	width:30vw;
+	width:40vw;
 	margin-right:10vw;
 	line-height:30px;
+	font-size: 1.5em;
+
 }
 
 
 .day{
 	margin:2vh 0;
-	font-size:1.8em;
 }
 
 .time{
-		font-family: "Courier New", Courier, monospace;
-			font-size: 0.8em;
+		font-family: 'Century', monospace;
 
+}
+
+.event-info{
 }
 
 /* directory page */
 
 .directory-container{
 	background: linear-gradient(0deg, #F3F1FF, #F3F1FF), #ACD1F3;
-box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
 padding: 1vh 1vw;
+transition: box-shadow 0.5s ease;
 }
 
-.interviews-container{
-background: linear-gradient(0deg, #A6E1A5, #A6E1A5), #ACD1F3;
-box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
-padding: 1vh 1vw;
-
+.directory-container:hover{
+box-shadow: 10px 10px 50px rgba(164, 27, 133, 0.5);
 }
+
 
 .row{
 	display:flex;
 	width:100%;
-	margin: 1.25vh 0;
-	font-size:0.8em;
+	font-size:1em;
+	line-height: 2em;
 }
 
 .row a{
@@ -218,7 +301,7 @@ padding: 1vh 1vw;
 }
 
 .row1{
-			font-family: "Courier New", Courier, monospace;
+		font-family: 'Century', monospace;
 			text-transform:uppercase;
 			margin-bottom: 1.5vh;
 }
