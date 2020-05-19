@@ -19,7 +19,7 @@ kramdown:
   parse_block_html: true
 permalink: pretty
 collections:
-  artists:
+  works:
     output: true
 
 # defaults:

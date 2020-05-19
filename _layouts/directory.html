@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en-ca" id="html">
+
+{% include head.html %}
+
+
+<body onload="setInterval(step,100)">
+
+<html>
+  <body>
+{% include nav.html %}
+<div class="space"></div>
+
+<div class="directory-container">
+	<div class="list">
+	<div class="row row1">
+		<div class="column1">
+			Artwork
+		</div>
+		<div class="column2">
+			Participant
+		</div>
+		<div class="column3">
+			Room
+		</div>
+		<div class="column4">
+			Interview
+		</div>
+	</div>
+	{% assign works = site.works | sort: 'artist' %}
+  {% for book in works %}
+  <div class="row">
+    <div class="column1">
+    	<a href="{{site.baseurl}}{{book.url}}">{{book.title}} {% include linksvg.html %}
+    	</a>
+    </div>
+    <div class="column2">
+    	    	{{book.participant}}
+    </div>
+    <div class="column3">
+    	book room
+    </div>
+    <div class="column4">
+    	    	    	{{book.type}}
+    </div>
+</div>
+  {% endfor %}
+</div>
+</div>
+  </body>
+</html>
+</body>

@@ -1,0 +1,237 @@
+@font-face {
+    font-family: 'Authentic-Sans';
+    src: url("/fonts/AUTHENTIC-Sans.otf") format("opentype");
+}
+
+
+body{
+    font-family: 'Authentic-Sans';
+    font-size:18px;
+      margin: 2vh 2vw;
+      width:96vw;
+  padding: 0;
+}
+
+.space{
+	height: 15vh;
+}
+
+.flex{
+	display:flex;
+	flex-direction: column;
+	justify-content:space-between;
+	height:100%;
+}
+
+.flex-row{
+	display:flex;
+	flex-direction:row;
+}
+
+.headerimg{
+	width:40vw;
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:10vh;
+}
+
+.copy{
+	text-align:center;
+		padding-bottom:10vh;
+}
+
+.title{
+	font-size: 1.4em;
+}
+
+.desc{
+
+		font-family: Courier;
+text-transform:uppercase;
+font-size: 0.75em;
+}
+
+/*marquee*/
+
+.marquee {
+ height: 80px;	
+ overflow: hidden;
+ position: relative;
+ font-size:0.75em;
+ letter-spacing: 0.1em;
+}
+.marquee p {
+ position: absolute;
+ width: 120%;
+ height: 100%;
+ margin: 0;
+ line-height: 50px;
+ text-align: center;
+ /* Starting position */
+ -moz-transform:translateX(100%);
+ -webkit-transform:translateX(100%);	
+ transform:translateX(100%);
+ /* Apply animation to this element */	
+ -moz-animation: scroll-left 25s linear infinite;
+ -webkit-animation: scroll-left 25s linear infinite;
+ animation: scroll-left 25s linear infinite;
+}
+
+.marquee p:hover{
+
+    -webkit-animation-play-state: paused;
+    -moz-animation-play-state: paused;
+    -o-animation-play-state: paused;
+    animation-play-state: paused;
+}
+
+
+/* Move it (define the animation) */
+@-moz-keyframes scroll-left {
+ 0%   { -moz-transform: translateX(100%); }
+ 100% { -moz-transform: translateX(-100%); }
+}
+@-webkit-keyframes scroll-left {
+ 0%   { -webkit-transform: translateX(100%); }
+ 100% { -webkit-transform: translateX(-100%); }
+}
+@keyframes scroll-left {
+ 0%   { 
+ -moz-transform: translateX(100%); /* Browser bug fix */
+ -webkit-transform: translateX(100%); /* Browser bug fix */
+ transform: translateX(100%); 		
+ }
+ 100% { 
+ -moz-transform: translateX(-100%); /* Browser bug fix */
+ -webkit-transform: translateX(-100%); /* Browser bug fix */
+ transform: translateX(-100%); 
+ }
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+font-size: 18px;  }
+
+.marquee p {
+	 width: 150%;
+ /* Apply animation to this element */	
+ -moz-animation: scroll-left 15s linear infinite;
+ -webkit-animation: scroll-left 15s linear infinite;
+ animation: scroll-left 15s linear infinite;
+}
+}
+
+/*nav styles */
+
+
+nav{
+	position:fixed;
+	display: flex;
+	margin-bottom: 5vh;
+}
+
+nav a, .logo{
+	text-decoration:none;
+	margin-right: 2vw;
+
+}
+
+.button-container{
+			margin-top:10px;
+		}
+
+.button{
+		background: #000000;
+border-radius: 20px;
+padding: 10px 25px;
+}
+
+nav a{
+	color: #DFDFDC;
+}
+
+.logo{
+	width:250px;
+}
+
+.logo-text, .events-page h1{
+	font-weight:normal;
+	text-transform: uppercase;
+	font-size: 0.8em;
+	font-family: "Courier New", Courier, monospace;
+	color: #000;
+}
+
+/* event page */
+
+.events-page{
+	background: linear-gradient(180deg, #ACD1F3 0%, #C2BEDF 40.1%, #8BACEC 70.31%, #6287E4 90.1%, #C2BEDF 96.88%), #FFFFFF;
+}
+
+.events-page h1{
+	margin: 3vh 0 1vh 0;
+}
+
+.events{
+	width:30vw;
+	margin-right:10vw;
+	line-height:30px;
+}
+
+
+.day{
+	margin:2vh 0;
+	font-size:1.8em;
+}
+
+.time{
+		font-family: "Courier New", Courier, monospace;
+			font-size: 0.8em;
+
+}
+
+/* directory page */
+
+.directory-container{
+	background: linear-gradient(0deg, #F3F1FF, #F3F1FF), #ACD1F3;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+padding: 1vh 1vw;
+}
+
+.interviews-container{
+background: linear-gradient(0deg, #A6E1A5, #A6E1A5), #ACD1F3;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+padding: 1vh 1vw;
+
+}
+
+.row{
+	display:flex;
+	width:100%;
+	margin: 1.25vh 0;
+	font-size:0.8em;
+}
+
+.row a{
+	text-decoration:none;
+	color:#000;
+}
+
+.row1{
+			font-family: "Courier New", Courier, monospace;
+			text-transform:uppercase;
+			margin-bottom: 1.5vh;
+}
+
+.column1, .column2, .column3{
+	width:20vw;
+	margin-right:4vw;
+}
+
+.interview-column1{
+	font-size:1.4em;
+}
+
+.linksvg{
+	width:0.75vw;
+}
