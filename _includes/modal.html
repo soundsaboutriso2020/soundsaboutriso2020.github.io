@@ -1,0 +1,148 @@
+
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="modal-header">
+    	<img src="{{site.baseurl}}/img/gif/1.gif"> SOUNDS
+    	<img src="{{site.baseurl}}/img/gif/2.gif"> ABOUT
+    	    	<img src="{{site.baseurl}}/img/gif/3.gif"> RISO
+    	<img src="{{site.baseurl}}/img/gif/4.gif"> ONLINE
+    </div><br><br>
+      	  <div class="modal-inner">
+    <span class="authentic">You’ve landed on sounds about riso .online<br><br></span>
+
++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We have curated 5 rooms of curated risograph works by 50 (final number pending) artists and publishers from North America. For the full list of works and artist interviews about their process, head over to the <a href="{{site.baseurl}}/directory">directory</a>.<br><br>
+
+*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Each product page will link to the artists' and press’ own form of purchase so that they can keep 100% of their proceeds while we all operate this at a safe distance.<br><br>
+
++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{site.baseurl}}/risoTV">risoTV</a> is a limited-time live stream of events running throughout the launch weekend 5/23-24, be sure to check it out!<br><br>
+
+*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take a moment to explore the site and if able, shop the prints, zines, and books to show your support for the individual artists, printmakers, & the risograph community!<br><br>
+
++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can find out about how sounds about riso came together or read the credits at the <a href="{{site.baseurl}}/risoTV">info desk fix link </a> : ) We also have a guest book where you can leave a note and say hi! <br><br>
+
+We hope you enjoy your stay!<br><br>
+
+alex, amanda, chuck, ritu, zack</p>
+  </div>
+
+</div>
+</div>
+
+<style>
+
+	#myBtn{
+	text-transform: uppercase;
+	font-family: "Courier New", Courier, monospace;
+	border: 0 !important;
+	background-color: pink;
+	}
+/* The Modal (background) */
+
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1000; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto;
+  /* Enable scroll if needed */
+/*  background-color: rgb(0,0,0);*/ /* Fallback color */
+  /*background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+/*  -webkit-filter: blur(4px);  Chrome, Safari, Opera 
+  filter: blur(4px);*/
+  }
+
+  .modal a{
+  	text-decoration: underline;
+  	color: #FF48B0;
+  	text-transform:uppercase;
+  	  	font-family: "Courier New", Courier, monospace;
+
+  }
+
+  .modal a:hover{
+  	color:red;
+  }
+
+  .authentic{
+  	  	  	font-family: "Authentic Sans", monospace !important;
+  	  	  	text-align:center;
+  	  	  	font-size:14px;
+  }
+
+.modal-header{
+	font-size:1em;
+text-align:center;
+background-color: #DEE6E4;	
+margin-left:auto;
+	margin-right:auto;
+	padding-top:2vh;
+}
+  .modal-header img{
+  	height:5vh;
+  }
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #DEE6E4;
+  margin: 5% auto; /* 15% from the top and centered */
+  padding: 2vh 2vw;
+  width: 60%; /* Could be more or less, depending on screen size */
+  	  	  	font-family: "Authentic Sans", monospace !important;
+font-size:14px;
+}
+
+.modal-inner{
+	background-color: #D3D6BC;
+	padding: 7vh 5vw;
+}
+
+/* The Close Button */
+.close {
+  color: #000;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+</style>
+<script>
+	// Get the modal
+var modal = document.getElementById("myModal");
+
+// Get the button that opens the modal
+var btn = document.getElementById("myBtn");
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on the button, open the modal
+btn.onclick = function() {
+  modal.style.display = "block";
+}
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+}
+</script>
