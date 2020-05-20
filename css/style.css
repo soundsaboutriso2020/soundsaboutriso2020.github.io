@@ -311,6 +311,10 @@ height: 73vh;
 overflow-y: scroll; 
 }
 
+.imghover{
+	display:none;
+}
+
 /* directory scrollbar settings */
 
 .schedule-container::-webkit-scrollbar,

@@ -7,10 +7,14 @@
   <div class="modal-content">
     <span class="close">&times;</span>
     <div class="modal-header">
-      <img src="{{site.baseurl}}/img/gif/1.gif"> SOUNDS
-      <img src="{{site.baseurl}}/img/gif/2.gif"> ABOUT
-            <img src="{{site.baseurl}}/img/gif/3.gif"> RISO
-      <img src="{{site.baseurl}}/img/gif/4.gif"> ONLINE
+      <img src="{{site.baseurl}}/img/gif/1.gif">
+      <div>SOUNDS</div>
+      <img src="{{site.baseurl}}/img/gif/2.gif">
+            <div>ABOUT</div>
+            <img src="{{site.baseurl}}/img/gif/3.gif">
+                  <div>RISO</div>
+      <img src="{{site.baseurl}}/img/gif/4.gif">
+            <div>ONLINE</div>
     </div><br><br>
           <div class="modal-inner">
     <span class="authentic">You’ve landed on sounds about riso .online<br><br></span>
@@ -78,22 +82,27 @@ alex, amanda, chuck, ritu, zack</p>
   }
 
 .modal-header{
-	font-size:1em;
+	font-size:1.5em;
 text-align:center;
 background-color: #DEE6E4;	
 margin-left:auto;
 	margin-right:auto;
-	padding-top:2vh;
+	padding-top:5vh;
+          font-family: "Courier New", Courier, monospace;
+          display:flex;
+         align-items:center;
+         justify-content:space-around;
+         width:80%;
+
 }
   .modal-header img{
-  	height:5vh;
+  	height:7vh;
   }
 
 /* Modal Content/Box */
 .modal-content {
   background-color: #DEE6E4;
   margin: 5% auto; /* 15% from the top and centered */
-  padding: 2vh 2vw;
   width: 60%; /* Could be more or less, depending on screen size */
   	  	  	font-family: "Authentic Sans", monospace !important;
 font-size:14px;
@@ -110,6 +119,8 @@ font-size:14px;
   float: right;
   font-size: 28px;
   font-weight: bold;
+  margin-right:2vw;
+  margin-top:1vh;
 }
 
 .close:hover,

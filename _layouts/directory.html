@@ -31,6 +31,7 @@
   {% assign works = site.works | sort: 'participant' %}
   {% for book in works %}
   <div class="row">
+    <img class="imghover" src="{{site.baseurl}}/img/products/{{book.img1}}">
     <div class="column1">
     	<a href="{{site.baseurl}}{{book.url}}">{{book.title}} {% include linksvg.html %}
     	</a>
