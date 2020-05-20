@@ -10,8 +10,8 @@ publisher:
 publisherurl: 
 howpurchase: Direct Message on Social Media Platform
 producturl: IG @whitemalepainter
-img1: 
-img2: 
+img1: spicyxxxx-taeheeWhang01.jpg
+img2: spicyxxxx-taeheeWhang02.jpg
 img3: 
 img4: 
 img5: 
@@ -20,7 +20,7 @@ type: Print
 year: 2020
 price: 30
 desc: A triptych prints of mysteriou summer beach night scene. Binded with riso printed paper and ricepaste. 
-size: 23in x 10.5in
+size: 23" x 10.5"
 color: Federal blue& gray
-notes: 
+specs: 
 ---

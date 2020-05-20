@@ -3,15 +3,55 @@
 {% include head.html %}
 
 
-<body>
+<body class="product-page">
 
 {% include nav.html %}
-
-	<div class="container">
+<div class="space"></div>
+	<div class="product-container">
+	<div class="flex-row space-between">
 		<div class="product-left">
+						<img src="{{site.baseurl}}/img/products/{{page.img1}}">
+
 		</div>
 		<div class="product-right">
+						<div class="participant">
+				{{page.participant}}     
+				<a href="{{page.artisturl}}" target="_blank" class="century-sub">Website</a>
+			</div>
+		<div class="work-title">
+			{{page.title}}
 		</div>
-{{content}}
+		<div class="work-desc">
+			{{page.desc}}<br>
+			{{page.specs}}
+		</div>
+
+		<div class="buy-button button">
+			${{page.price}}
+			Buy via <a href="{{page.producturl}}" target="_blank">{{page.howpurchase}}</a>
+		</div>
+					<div class="details century-sub">
+					{{page.size}} /	Riso colors used: {{page.color}} / <a href="{{page.publisherurl}}" target="_blank">{{page.publisher}}</a> / {{page.year}}
+			</div>
+		</div>
+	</div>
+		<div class="flex-row space-between">
+		<div class="product-left">
+			<div class="moreimg">
+			<img src="{{site.baseurl}}/img/products/{{page.img2}}">
+			<img src="{{site.baseurl}}/img/products/{{page.img3}}">
+			<img src="{{site.baseurl}}/img/products/{{page.img4}}">
+			<img src="{{site.baseurl}}/img/products/{{page.img5}}">
+			<img src="{{site.baseurl}}/img/products/{{page.img6}}">
+		</div>
+		</div>
+		<div class="product-right">
+
+		</div>
+	</div>
+
+	</div>
+	{% include new-nav.html %}
+
   </body>
 </html>

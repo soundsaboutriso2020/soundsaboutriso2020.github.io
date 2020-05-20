@@ -22,5 +22,5 @@ price:
 desc: 
 size: 
 color: 
-notes: 
+specs: 
 ---

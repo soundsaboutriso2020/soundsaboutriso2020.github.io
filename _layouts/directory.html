@@ -27,7 +27,8 @@
 			Interview
 		</div>
 	</div>
-	{% assign works = site.works | sort: 'artist' %}
+<div class="directory-info">	
+  {% assign works = site.works | sort: 'participant' %}
   {% for book in works %}
   <div class="row">
     <div class="column1">
@@ -47,6 +48,8 @@
   {% endfor %}
 </div>
 </div>
+</div>
+{% include new-nav.html %}
   </body>
 </html>
 </body>

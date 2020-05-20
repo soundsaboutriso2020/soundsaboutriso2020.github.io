@@ -10,7 +10,7 @@ publisher:
 publisherurl: 
 howpurchase: Online Shop
 producturl: https://www.etsy.com/shop/keeponreading?ref=ss_profile
-img1: 
+img1: Percolator-SeanSuchara.jpg
 img2: 
 img3: 
 img4: 
@@ -20,7 +20,7 @@ type: Print
 year: 2017
 price: 15
 desc: ~sounds of coffee percolating~
-size: 8.5x11
+size: 8.5" x 11"
 color: Cornflower, Black, Pink & Melon
-notes: 
+specs: 
 ---

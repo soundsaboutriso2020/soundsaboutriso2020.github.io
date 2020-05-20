@@ -10,7 +10,7 @@ publisher:
 publisherurl: 
 howpurchase: Online Shop
 producturl: http://wrenmcdonald.storenvy.com/
-img1: 
+img1: TargetedAdvertising-WrenMcdonald.jpg
 img2: 
 img3: 
 img4: 
@@ -20,7 +20,7 @@ type: Print
 year: 2019
 price: 20
 desc: Risograph print of a busy dystopian city overrun with ads.
-size: 11 X 15.3 inches
+size: 11" X 15.3"
 color: Blue, fluorescent pink, and yellow
-notes: 
+specs: 
 ---

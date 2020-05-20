@@ -10,7 +10,7 @@ publisher:
 publisherurl: 
 howpurchase: Online Shop
 producturl: timpeacock.storenvy.com
-img1: 
+img1: Village-TimPeacock.jpg
 img2: 
 img3: 
 img4: 
@@ -20,7 +20,7 @@ type: Print
 year: 2019
 price: 12
 desc: Village, 3 color risograph print
-size: 8.5x11
+size: 8.5" x 11"
 color: Red, Yellow, Black
-notes: You can use website or insta or both, whatever it seems the trend is. 
+specs: You can use website or insta or both, whatever it seems the trend is. 
 ---

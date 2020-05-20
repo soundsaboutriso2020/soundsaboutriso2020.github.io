@@ -10,7 +10,7 @@ publisher: Secret Riso Club
 publisherurl: https://www.secretrisoclub.com
 howpurchase: Online Shop
 producturl: https://www.secretrisoclub.com/shop/action-poster-1
-img1: 
+img1: Action-SecretRisoClub.png
 img2: 
 img3: 
 img4: 
@@ -20,7 +20,7 @@ type: Print
 year: 2019
 price: 20
 desc: Action poster is an experimentation with gradients, printed using a CYMK simulation. The term action is referring to the movement of the shapes in the design.
-size: 11"x17"
+size: 11" x 17"
 color: Bright Red, Yellow, Medium Blue, Black
-notes: 
+specs: 
 ---

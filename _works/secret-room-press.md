@@ -10,17 +10,17 @@ publisher: Secret Room Press
 publisherurl: http://instagram.com/secretroompdx
 howpurchase: Online Shop
 producturl: https://www.secretroompress.com/shop/secret-rag
-img1: 
-img2: 
-img3: 
-img4: 
+img1: SecretRag3Pack-SecretRoom01.png
+img2: SecretRag3Pack-SecretRoom02.png
+img3: SecretRag3Pack-SecretRoom03.png
+img4: SecretRag3Pack-SecretRoom04.png
 img5: 
 img6: 
 type: zine
 year: 2019
 price: 5
 desc: Secret Rag is our quarterly-ish showcase of fun art, comics, and activities. Each issue is risograph printed on a sheet of colorful 11x17 paper at Secret Room H.Q. in Portland, Oregon.
-size: 11x17
+size: 11" x 17"
 color: cornflower, melon, orchid
-notes: Super fun, cool to read, makes you cool to share with your friends.
+specs: Super fun, cool to read, makes you cool to share with your friends.
 ---

@@ -10,8 +10,8 @@ publisher:
 publisherurl: 
 howpurchase: instagram- @james.bascara, or Venmo- @James-Bascara
 producturl: instagram- @james.bascara, Venmo- @James-Bascara
-img1: 
-img2: 
+img1: Flan-JamesBascara01,jpg
+img2: Flan-JamesBascara02,jpg
 img3: 
 img4: 
 img5: 
@@ -22,5 +22,5 @@ price: 10
 desc: Sharing dessert (Includes recipe for leche flan)
 size: 8.5" x 2.5"
 color: gold
-notes: 
+specs: 
 ---

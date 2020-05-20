@@ -10,7 +10,7 @@ publisher:
 publisherurl: https://www.instagram.com/ipsybipsystudio/
 howpurchase: Online Shop
 producturl: https://www.ipsybipsystudio.com/shop
-img1: 
+img1: WeShareOurMothersHealth-EricaFederhen.jpg
 img2: 
 img3: 
 img4: 
@@ -20,7 +20,7 @@ type: Print
 year: 2020
 price: 15
 desc: part of a series honoring mamas and mama earth 
-size: 6x9"
+size: 6" x 9"
 color: black & bright red 
-notes: ack so sorry i forgot to submit this earlier this week! understand if you can't include but figured I'd send it anyways, thanks all 💕
+specs: 
 ---

@@ -22,5 +22,5 @@ price: 15
 desc: Smiley, a bit creepy, isn't it?
 size: 8.3'' x 5.4''
 color: yellow, black
-notes: 
+specs: 
 ---

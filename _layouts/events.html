@@ -7,7 +7,8 @@
 
     {% include nav.html %}
 <div class="space"></div>
-
+<div class="event-container flex-row">
+<div class="video">
     <!-- Add a placeholder for the Twitch embed -->
     <div id="twitch-embed"></div>
 
@@ -22,8 +23,9 @@
         channel: "luckyrisograph",
       });
     </script>
-    <h1>Schedule →</h1>
-    <div class="flex-row">
+</div>
+    <div class="schedule-container">
+    <h1>Schedule</h1>
     <div class="events">
 <div class="day">
   {{page.event1-day}}
@@ -50,5 +52,7 @@
 </div>
 </div>
 </div>
+</div>
+{% include new-nav.html %}
   </body>
 </html>

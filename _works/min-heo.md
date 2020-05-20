@@ -10,7 +10,7 @@ publisher:
 publisherurl: 
 howpurchase: Direct Message on Social Media Platform
 producturl: https://www.instagram.com/minstudio_/
-img1: 
+img1: EmotionalSupportSystem-MinHeo.png
 img2: 
 img3: 
 img4: 
@@ -22,5 +22,5 @@ price: 15
 desc: Hugging bunnies in a warm embrace :) 
 size: 8.125" x 8.125"
 color: Yellow/Black
-notes: Color may vary depending on screen.
+specs: Pages- 104 Edition of 500 with 25 printer's proofs. Color may vary depending on screen.
 ---

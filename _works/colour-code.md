@@ -10,8 +10,8 @@ publisher: Colour Code
 publisherurl: https://shop.colourcodeprinting.com/
 howpurchase: Online Shop
 producturl: https://shop.colourcodeprinting.com/product/stone-star-bloom-loop
-img1: 
-img2: 
+img1: StoneStarBloomLoop-ColourCode01.jpg
+img2: StoneStarBloomLoop-ColourCode02.png
 img3: 
 img4: 
 img5: 
@@ -20,7 +20,7 @@ type: zine
 year: 2019
 price: 20
 desc: Drawings by Juli Majer, Sun/Unranus/Neptune/Moon in Capricorn, Sagittarius rising
-size: 6.5"X9"
+size: 6.5" X 9"
 color: Aqua, Yellow, Fluorescent Red & Black.
-notes: 16 pages,, Edition of 400.
+specs: 16 pages,, Edition of 400.
 ---
