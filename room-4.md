@@ -15,7 +15,7 @@ layout: room
   {% endfor %}
 </div>
 
-{% assign room4zine = site.works | where: 'room', 'room3zine' %}
+{% assign room4zine = site.works | where: 'room', 'room4zine' %}
 
 <div class="zines room1 flex-row">
   {% for post in room4zine %}
