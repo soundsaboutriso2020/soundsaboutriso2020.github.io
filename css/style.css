@@ -202,6 +202,16 @@ nav a{
 	color: #000;
 }
 
+.courier{
+	font-weight:bold;
+	font-family: "Courier New", Courier, monospace;
+	color: #000;
+		text-transform: uppercase;
+
+
+}
+
+
 .logo-text{
 	margin-top:0.5vh;
 }
