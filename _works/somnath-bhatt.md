@@ -5,6 +5,8 @@ participant: Somnath Bhatt
 email: somnath@somnathbhatt.com
 artist: Somnath Bhatt
 title: Radiant Being
+type: Print
+room: room4print
 artisturl: https://www.instagram.com/m0henjodaro/?hl=en
 publisher: 
 publisherurl: https://www.instagram.com/m0henjodaro/?hl=en
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: Print
 year: 2020
 price: 15
 desc: A drawing of a being. 

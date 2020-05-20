@@ -5,6 +5,8 @@ participant: Nichole Shinn
 email: nshinn42@gmail.com
 artist: Days Like Pronoia
 title: Nichole Shinn
+type: zine
+room: room3zine
 artisturl: https://www.nicholeshinn.com
 publisher: TXTBooks
 publisherurl: https://www.txtbooks.us 
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: zine
 year: 2019
 price: 30
 desc: Days Like Pronoia is a collection of digital drawings and poems accumulated over the course of a year. It's CMYK 4 color Risograph printed and 42 pages. Edition of 120. 

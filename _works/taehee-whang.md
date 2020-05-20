@@ -5,6 +5,8 @@ participant: Taehee Whang
 email: taehee.whang@gmail.com
 artist: Taehee Whang
 title: Spicy XXXX 짬찌 맵다 
+type: Print
+room: room4print
 artisturl: http://taehee-whang.com/
 publisher: 
 publisherurl: 
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: Print
 year: 2020
 price: 30
 desc: A triptych prints of mysteriou summer beach night scene. Binded with riso printed paper and ricepaste. 

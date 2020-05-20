@@ -5,6 +5,8 @@ participant: Natalie Andrewson
 email: natalieandrewson@gmail.com
 artist: Natalie Andrewson
 title: Little Fantasy World' Print
+type: Print
+room: room3print
 artisturl: https://www.instagram.com/natandrewson/
 publisher: 
 publisherurl: 
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: Print
 year: 2020
 price: 20
 desc: An improvised drawing featuring fun fantasy creatures interacting.

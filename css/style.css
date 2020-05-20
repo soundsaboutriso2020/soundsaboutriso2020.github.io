@@ -46,6 +46,21 @@ body{
 	flex-direction:row;
 }
 
+.fair-nav{
+	justify-content:space-between;
+		width:96vw;
+}
+
+.black-stroke{
+		  border: 2px solid black;
+
+}
+
+
+.left-fair-nav{
+	display:flex;
+	margin-top:15px;
+}
 
 a{
 		text-decoration:none !important;
@@ -98,9 +113,8 @@ nav a{
 .logo-text, .events-page h1{
 	font-weight:normal;
 	text-transform: uppercase;
-		font-family: 'Century', monospace;
-/*	font-family: "Courier New", Courier, monospace;
-*/	color: #000;
+	font-family: "Courier New", Courier, monospace;
+	color: #000;
 }
 
 .logo-text{
@@ -195,7 +209,7 @@ background-color: #D9CBA7;
 }
 
 .time{
-		font-family: 'Century', monospace;
+	font-family: "Courier New", Courier, monospace;
 
 }
 
@@ -205,8 +219,7 @@ background-color: #D9CBA7;
 /* directory page */
 
 .directory-container, .schedule-container{
-	background:#CFE0AC;
-	border-radius: 20px;
+background: linear-gradient(0deg, #F3F1FF, #F3F1FF), #ACD1F3;
 padding: 2vh 1vw;
 transition: box-shadow 0.5s ease;
 height: 73vh;
@@ -262,7 +275,7 @@ box-shadow: 10px 10px 50px rgba(164, 27, 133, 0.5);
 }
 
 .row1{
-		font-family: 'Century', monospace;
+	font-family: "Courier New", Courier, monospace;
 			text-transform:uppercase;
 			margin-bottom: 1.5vh;
 			position: fixed;
@@ -321,7 +334,7 @@ box-shadow: 10px 10px 50px rgba(164, 27, 133, 0.5);
 .work-desc{
 			font-size:1.25em;
 					margin-top:5vh;
-		font-family: 'Century', monospace;
+	font-family: "Courier New", Courier, monospace;
 	}
 
 
@@ -333,6 +346,16 @@ box-shadow: 10px 10px 50px rgba(164, 27, 133, 0.5);
 }
 
 .century-sub{
-			font-family: 'Century', monospace;
+	font-family: "Courier New", Courier, monospace;
 	font-size: 0.75em;
+}
+
+/* FAIR PAGES */
+
+/*room 1*/
+
+.prints{
+}
+.room1 .product{
+	width:12vw;
 }

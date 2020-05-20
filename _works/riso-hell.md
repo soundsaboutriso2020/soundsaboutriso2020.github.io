@@ -5,6 +5,8 @@ participant: Riso Hell
 email: risohellpress@gmail.com
 artist: Brandon Bandy
 title: Teenage Witch
+type: zine
+room: room3zine
 artisturl: http://brandonbandy.com
 publisher: Riso Hell
 publisherurl: https://www.risohell.com
@@ -16,7 +18,6 @@ img3: TeenageWitch-RisoHell03.png
 img4: TeenageWitch-RisoHell04.png
 img5: TeenageWitch-RisoHell05.png
 img6: 
-type: zine
 year: 2019
 price: 20
 desc: Artist book by Brandon Bandy exploring the continuation and recycling of images, Tumblr aesthetics, teen girl culture, digitally manifested fantasy, 90’s nostalgia, and being an Instagram native. Includes essays by Marina May and Brandon Bandy

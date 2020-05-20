@@ -5,6 +5,8 @@ participant: Jeong Lee
 email: yjn0al@gmail.com
 artist: jeong lee
 title: sweet dreams of passion thru the night
+type: Print
+room: room2print
 artisturl: http://jeonglee.space
 publisher: 
 publisherurl: 
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: Print
 year: 2020
 price: 10
 desc: "I want to get into motion, A better devotion, So I can make it through the night, So the music is playin', You know what I'm saying, Now everything will be alright, Ola ola eh ola ola eh, Ola ola eh eh ola ola eh, Rhythm is a creation a better sensation, That will lead you through the night"

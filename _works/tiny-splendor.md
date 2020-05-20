@@ -5,6 +5,8 @@ participant: Tiny Splendor
 email: info@tinysplendor.com
 artist: Max Stadnik
 title: Hot Dog
+type: Print
+room: room4print
 artisturl: https://www.instagram.com/tinysplendor/
 publisher: Tiny Splendor 
 publisherurl: https://www.instagram.com/tinysplendor/
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: Print
 year: 2018
 price: 20
 desc: Hot Dogs & Apple Pie 

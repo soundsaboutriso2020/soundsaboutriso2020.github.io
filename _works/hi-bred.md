@@ -5,6 +5,8 @@ participant: Hi-Bred
 email: ian@hi-bred.net
 artist: Ian Mackay
 title: Women with figs
+type: Print
+room: room1print
 artisturl: https://www.hi-bred.net/
 publisher: Hi-Bred
 publisherurl: 
@@ -16,7 +18,6 @@ img3: WomenWithFigs-Hi-Bred03.jpg
 img4: WomenWithFigs-Hi-Bred04.jpg
 img5: WomenWithFigs-Hi-Bred05.jpg
 img6: 
-type: Print
 year: 2019
 price: 26
 desc: This 3-color risograph print is part of my Neu Renaissance series.

@@ -5,6 +5,8 @@ participant: Grace Ritchie
 email: gritchie@mica.edu
 artist: Grace Ritchie
 title: Car Crash
+type: Print
+room: room1print
 artisturl: https://www.instagram.com/lastplacegrace/
 publisher: 
 publisherurl: 
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: Print
 year: 2019
 price: 12
 desc: 2 color print on black and fluorescent green paper printed with Lucky Risograph fall of 2019

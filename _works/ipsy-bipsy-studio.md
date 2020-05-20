@@ -5,6 +5,8 @@ participant: Ipsy Bipsy Studio
 email: ipsybipsystudio@gmail.com
 artist: erica federhen 
 title: we share our mother's health 
+type: Print
+room: room2print
 artisturl: https://www.ipsybipsystudio.com/
 publisher: 
 publisherurl: https://www.instagram.com/ipsybipsystudio/
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: Print
 year: 2020
 price: 15
 desc: part of a series honoring mamas and mama earth 

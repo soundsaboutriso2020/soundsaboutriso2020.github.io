@@ -5,6 +5,8 @@ participant: Chuck Kuan
 email: 
 artist: Chuck Kuan
 title: 
+type: 
+room: 
 artisturl: 
 publisher: 
 publisherurl: 
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: 
 year: 
 price: 
 desc: 

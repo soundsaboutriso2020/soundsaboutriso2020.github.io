@@ -5,6 +5,8 @@ participant: Tim Peacock
 email: peacockdraws@gmail.com
 artist: Tim Peacock
 title: Village
+type: Print
+room: room4print
 artisturl: http://www.timpeacock.com
 publisher: 
 publisherurl: 
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: Print
 year: 2019
 price: 12
 desc: Village, 3 color risograph print

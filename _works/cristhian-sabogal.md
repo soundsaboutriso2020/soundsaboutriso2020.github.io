@@ -5,6 +5,8 @@ participant: Cristhian Sabogal
 email: sabogalcc@gmail.com
 artist: Cristhian Sabogal
 title: Earth Layers
+type: Print
+room: room1print
 artisturl: https://www.instagram.com/cristhian.sabogal/
 publisher: 
 publisherurl: 
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: Print
 year: 2020
 price: 15
 desc: Digital Collage

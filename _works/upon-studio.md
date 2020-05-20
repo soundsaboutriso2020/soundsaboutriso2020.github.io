@@ -5,6 +5,8 @@ participant: Upon Studio
 email: hey@upon.studio
 artist: Ivy Zheyu Chen
 title: Smiley
+type: zine
+room: room4zine
 artisturl: https://upon.studio/
 publisher: UPON
 publisherurl: https://www.instagram.com/upon.studio/
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: zine
 year: 2018
 price: 15
 desc: Smiley, a bit creepy, isn't it?

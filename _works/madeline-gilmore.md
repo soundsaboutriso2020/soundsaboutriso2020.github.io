@@ -5,6 +5,8 @@ participant: Madeline Gilmore
 email: gilmore.maddie@gmail.com
 artist: Chuck Kuan, Ritu Ghiya, Madeline Gilmore, and Daniel Hardisty
 title: Ring & Tuscany
+type: Print
+room: room3print
 artisturl: https://www.instagram.com/volumepoetry/
 publisher: lucky risograph
 publisherurl: https://luckyrisograph.press/
@@ -16,7 +18,6 @@ img3: RingTuscany-Volume03.jpg
 img4: 
 img5: 
 img6: 
-type: Print
 year: 2020
 price: 15
 desc: A collaboration between Volume magazine and lucky risograph, this edition comes with a pair of poems by Madeline Gilmore and Daniel Hardisty.

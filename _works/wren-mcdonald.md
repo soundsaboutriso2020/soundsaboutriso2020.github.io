@@ -5,6 +5,8 @@ participant: Wren McDonald
 email: wrenxmcdonald@gmail.com
 artist: Wren McDonald
 title: Targeted Advertising
+type: Print
+room: room4print
 artisturl: https://wrenmcdonald.com/
 publisher: 
 publisherurl: 
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: Print
 year: 2019
 price: 20
 desc: Risograph print of a busy dystopian city overrun with ads.

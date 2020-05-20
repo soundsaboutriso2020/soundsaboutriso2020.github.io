@@ -5,6 +5,8 @@ participant: Sean Suchara
 email: seansuchara@gmail.com
 artist: Sean Suchara
 title: Percolator
+type: Print
+room: room3print
 artisturl: http://seansuchara.info/
 publisher: 
 publisherurl: 
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: Print
 year: 2017
 price: 15
 desc: ~sounds of coffee percolating~

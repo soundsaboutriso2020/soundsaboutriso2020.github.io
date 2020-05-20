@@ -5,6 +5,8 @@ participant: Authorized to Work
 email: cemkocyildirim@gmail.com
 artist: Various Artists - Full list on website
 title: Drums on Paper - Collector's Edition
+type: Print
+room: room1print
 artisturl: https://authorizedtowork.us 
 publisher: Authorized to Work in the US Press
 publisherurl: https://www.instagram.com/authorizedtowork/
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: Print
 year: 2017
 price: 200
 desc: Drums on Paper – Collector’s Edition includes 17 risograph prints from Authorized to Work in the US Press' 2017 show. You can see the full list of artists on our website. 

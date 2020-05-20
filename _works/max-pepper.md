@@ -5,6 +5,8 @@ participant: Max Pepper
 email: maxwellpepper@gmail.com
 artist: Max Pepper
 title: Idols
+type: zine
+room: room2zine
 artisturl: https://www.instagram.com/maxwellpepper/
 publisher: Max Pepper
 publisherurl: 
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: zine
 year: 2019
 price: 8
 desc: 32 risograph-printed pages of masks, totems, and statuettes in a variety of two and three color combinations. Some based on existing artifacts found in museums and international travels, and others completely invented. All colorful!,  , Available in red and blue covers., , Edition of 80, signed and numbered. Finished with black cloth book tape and gold-printed end pages.

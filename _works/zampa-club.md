@@ -5,6 +5,8 @@ participant: Zampa Club/Elizabeth Goodpseed
 email: zampaaa.club@gmail.com
 artist: Elizabeth Goodspeed 
 title: Jello
+type: Print
+room: room5print
 artisturl: http://elizabethgoodspeed.com/
 publisher: Lucky Risograph & Zampa Club
 publisherurl: https://zampaclub.smvi.co/
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: Print
 year: 2019
 price: 18
 desc: A print highlighting the peculiarity and ever-changing depictions of jello in media and advertising across its 100+ year history. Compiled from archival materials collected and scanned by Elizabeth Goodspeed. Printed in collaboration with Lucky Risograph and Zampa Club.

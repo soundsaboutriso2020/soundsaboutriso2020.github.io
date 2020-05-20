@@ -5,6 +5,8 @@ participant: Min Heo
 email: heejeminheo@gmail.com
 artist: Min Heo
 title: Emotional Support System
+type: Print
+room: room3print
 artisturl: https://www.minstudio.us
 publisher: 
 publisherurl: 
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: Print
 year: 2020
 price: 15
 desc: Hugging bunnies in a warm embrace :) 

@@ -5,6 +5,8 @@ participant: Kevin VQ Dam
 email: kevin@kevinvqdam.com
 artist: Kevin VQ Dam
 title: Sriracha
+type: Print
+room: room2print
 artisturl: https://www.kevinvqdam.com
 publisher: 
 publisherurl: https://www.instagram.com/kevinvqdam/
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: Print
 year: 2018
 price: 15
 desc: A full color piece from my risograph zine "You Are A Vase Now", a lighthearted reflection on purpose and acceptance.

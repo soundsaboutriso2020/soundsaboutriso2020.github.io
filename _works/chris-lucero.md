@@ -5,6 +5,8 @@ participant: Chris Lucero
 email: 
 artist: Chris Lucero
 title: 
+type: 
+room: 
 artisturl: 
 publisher: 
 publisherurl: 
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: 
 year: 
 price: 
 desc: 

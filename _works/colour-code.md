@@ -5,6 +5,8 @@ participant: Colour Code
 email: info@colourcodeprinting.com
 artist: Juli Majer
 title: Stone/Star Bloom/Loop
+type: zine
+room: room1zine
 artisturl: https://www.instagram.com/julimajer/
 publisher: Colour Code
 publisherurl: https://shop.colourcodeprinting.com/
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: zine
 year: 2019
 price: 20
 desc: Drawings by Juli Majer, Sun/Unranus/Neptune/Moon in Capricorn, Sagittarius rising

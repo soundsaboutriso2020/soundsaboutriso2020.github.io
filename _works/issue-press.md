@@ -5,6 +5,8 @@ participant: Issue Press
 email: info@issue.press
 artist: Clay Hickson
 title: Every Good Boy Deserves Fudge
+type: zine
+room: room2zine
 artisturl: https://instagram.com/clayhickson
 publisher: Issue Press
 publisherurl: https://issue.press
@@ -16,7 +18,6 @@ img3: EveryGoodBoy-IssuePress03.jpg
 img4: EveryGoodBoy-IssuePress04.jpg
 img5: EveryGoodBoy-IssuePress05.jpg
 img6: 
-type: zine
 year: 2019
 price: 40
 desc: Every Good Boy Deserves Fudge is the culmination of a multi-year exploration of color, psychedelia and storytelling.Through found text and subtle clues of the passage of time, loose narratives reveal themselves in this hallucinatory day trip from inner-city to a country cabin. A journey from the pleasures of the material world into the mysterious richness of the human psyche. By working mainly in fluorescent inks, Hickson attempts to create imagery that is simultaneously familiar, inviting and disorienting., 

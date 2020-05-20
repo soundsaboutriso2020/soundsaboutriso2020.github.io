@@ -5,6 +5,8 @@ participant: James Bascara
 email: jbascara@gmail.com
 artist: James Bascara
 title: Flan
+type: zine
+room: room2zine
 artisturl: http://www.jamesbascara.com
 publisher: 
 publisherurl: 
@@ -16,7 +18,6 @@ img3:
 img4: 
 img5: 
 img6: 
-type: zine
 year: 2019
 price: 10
 desc: Sharing dessert (Includes recipe for leche flan)

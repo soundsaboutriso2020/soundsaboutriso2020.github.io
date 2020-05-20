@@ -5,6 +5,8 @@ participant: Bekzin
 email: bekzin@bekzin.com
 artist: Bekzin
 title: The book of Avocado Toast
+type: zine
+room: room1zine
 artisturl: https://instagram.com/bekzinart
 publisher: selfpublished
 publisherurl: 
@@ -16,7 +18,6 @@ img3: BookOfAvocadoToast-BekzinStudio03.jpg
 img4: BookOfAvocadoToast-BekzinStudio04.jpg
 img5: 
 img6: 
-type: zine
 year: 2020
 price: 25
 desc: A short story about what ‘avocado toast means’ had become for the artist who moved to America with some tips for making avocado toasts., 

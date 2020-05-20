@@ -5,6 +5,8 @@ participant: Woolly Press
 email: info@woollypress.com
 artist: Colin Sutherland
 title: That's Better
+type: zine
+room: room5zine
 artisturl: http://www.colinsutherland.com/
 publisher: Woolly Press
 publisherurl: https://www.woollypress.com/
@@ -16,7 +18,6 @@ img3: ThatsBetter-WoollyPress03.jpg
 img4: ThatsBetter-WoollyPress04.jpg
 img5: ThatsBetter-WoollyPress05.jpg
 img6: 
-type: zine
 year: 2019
 price: 15
 desc: That’s Better is a beautiful children’s book written and illustrated by Colin Sutherland that explores the in’s and out’s of opposites.
