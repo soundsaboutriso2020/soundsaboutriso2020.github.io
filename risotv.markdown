@@ -2,6 +2,8 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
+title: risoTV
+
 layout: events
 event1-day: Saturday
 event1-time: "12:30-1PM EST"

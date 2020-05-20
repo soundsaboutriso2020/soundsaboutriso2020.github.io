@@ -8,19 +8,21 @@
 	<div class="left-fair-nav">
 		<div class="courier-main"> Go to: </div>
 	<div class="button-container b2 dropdown">
-    <button class="dropbtn button black-stroke"> Room 1   <span class="arrow">{% include down-arrow.svg %}</span>  </button>
+    <button class="dropbtn button dotted"> {{page.title}} <span class="arrow">{% include down-arrow.svg %}</span>  </button>
     <div class="dropdown-content">
+    	<a href="{{site.baseurl}}/room-1">Room 1</a>
       <a href="{{site.baseurl}}/room-2">Room 2</a>
       <a href="{{site.baseurl}}/room-3">Room 3</a>
       <a href="{{site.baseurl}}/room-4">Room 4</a>
+      <a href="{{site.baseurl}}/room-5">Room 5</a>
     </div>
   </div> 
   <div class="button-container b3">
-    <button class="button black-stroke">
-		<a href="index.html">Next Room<br><br>{% include door.svg %}</a>
+    <button class="button dotted">
+		<a href="index.html" class="flex-row space-around">Next Room {% include door.svg %}</a>
 	</button>
 	</div>
 <!-- Trigger/Open The Modal -->
-<button id="myBtn" class="button black-stroke">Hi From us! </button>
+<button id="myBtn" class="button ">Hi From us! </button>
 	</div>
 </nav>

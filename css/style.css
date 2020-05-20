@@ -11,7 +11,7 @@
 
 body{
     font-family: 'Authentic-Sans';
-    font-size:15px;
+    font-size:14px;
       margin: 2vh 2vw;
       width:96vw;
   padding: 0;
@@ -20,7 +20,7 @@ body{
 
 button{
 	font-family: 'Authentic-Sans';
-    font-size: 15px;
+    font-size: 1em;
 }
 
 .silver{
@@ -32,14 +32,22 @@ button{
 	 background-color:white !important;
 }
 
-.silver a:hover{
-		 text-decoration:underline;
 
-}
+/* guestbook page */
 
 .guestbook{
 	width:96vw;
-	height: 80vh;
+	height: 90vh;
+}
+
+.guestbook-overlay{
+	position:fixed;
+	top:0;
+	left:0;
+	height:10vh;
+	width:100vw;
+	background: radial-gradient(100% 100% at 100% 4.83%, #F5C3C3 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #9CBCB6 15.65%, #9D7AD2 42.59%, #FFB511 57.04%, #DADE2B 71.79%, #9D7AD2 100%);
+
 }
 
 
@@ -54,6 +62,10 @@ button{
 	height: 15vh;
 }
 
+.space-short{
+	height: 5vh;
+}
+
 .flex{
 	display:flex;
 	flex-direction: column;
@@ -66,6 +78,11 @@ button{
 	flex-direction:row;
 }
 
+.space-around{
+	width:100%;
+	justify-content:space-around;
+}
+
 .fair-nav{
 	justify-content:space-between;
 		width:96vw;
@@ -74,6 +91,15 @@ button{
 .black-stroke{
 		  border: 2px solid black;
 
+}
+
+.dotted{
+	border: 1px dashed black !important;
+	border-radius: 0px !important;
+}
+
+.dotted:hover{
+				  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.4) !important;
 }
 
 .live{
@@ -143,7 +169,7 @@ nav{
 }
 
 .dropdown-content a:hover {
-  background-color: yellow;
+  background-color: #D3D6BC;
 }
 
 .dropdown:hover .dropdown-content {
@@ -168,11 +194,17 @@ nav a, .logo{
 */		}
 
 .button{
-	background-color: transparent;
 border-radius: 20px;
 padding: 10px 25px;
   	opacity: 90%;
 }
+
+.button:hover{
+	opacity: 90%;
+	  	box-shadow: 0px 0px 0px;
+	  	background-color:white;
+}
+
 
 nav a{
 	color: #000;
@@ -185,11 +217,7 @@ nav a{
 .courier-main, .button-container
 {margin-right: 2vw;}
 
-.button:hover{
-	opacity: 90%;
-	  	box-shadow: 0px 0px 0px;
-	  	background-color:white;
-}
+
 
 .logo{
 	width:30vw;
@@ -276,8 +304,10 @@ nav a{
 /* product bg */
 
 .product-page{
-background-color: #D9CBA7;
+background-color: #F8F0C6;
 }
+
+
 
 /* event page */
 
@@ -405,6 +435,18 @@ box-shadow: 10px 10px 50px rgba(164, 27, 133, 0.5);
 	margin: 0 auto;
 }
 
+.product-container a{
+	color: #0078BF;
+}
+
+.product-container a:hover{
+	color: #D3D6BC;
+}
+
+.back-to{
+	width:10vw;
+}
+
 .product-left{
 }
 
@@ -454,7 +496,138 @@ box-shadow: 10px 10px 50px rgba(164, 27, 133, 0.5);
 /*room 1*/
 
 .prints{
+
 }
-.room1 .product{
-	width:12vw;
+
+#room1prints{
+	position:fixed;
+	background: linear-gradient(180deg, #ECDA9A 9.03%, #D96727 25.48%, #FFB511 46.05%, #ECDA9A 61.47%, #B04F19 99.45%);	
+	top:0;
+	left:0;
+	width:100vw;
+	height:100vw;
+	z-index:-2;
 }
+
+#room1zines{
+background: linear-gradient(180deg, #D6C0F8 18.23%, #E6FFFA 100%);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	width:100vw;
+	height:35vh;
+	z-index:10;
+	margin-top:5%;
+	padding-top:2%;
+}
+
+.full-width {
+	left: 50%;
+	margin-left: -50vw;
+	margin-right: -50vw;
+	max-width: 100vw;
+	position: relative;
+	right: 50%;
+	width: 100vw;
+}
+
+.product{
+	width:11vw;
+	height:auto;
+}
+
+.product img{
+		box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.product img:hover{
+		box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.7);
+
+}
+
+/*room2*/
+
+#room2prints{
+	position:fixed;
+top:0;
+	left:0;
+	width:100vw;
+	height:100vw;
+	z-index:-2;
+background: radial-gradient(100% 100% at 100% 4.83%, #F5C3C3 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #9CBCB6 15.65%, #9D7AD2 42.59%, #FFB511 57.04%, #DADE2B 71.79%, #9D7AD2 100%);
+}
+
+#room2zines{
+	background: linear-gradient(180deg, #FFABBA 33.55%, #FFD986 51.56%, #D6C0F8 78.36%, #E6FFFA 100%), #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	width:100vw;
+	height:35vh;
+	z-index:10;
+	margin-top:5%;
+	padding-top:2%;
+}
+
+/*room 3*/
+
+#room3prints{
+	position:fixed;
+top:0;
+	left:0;
+	width:100vw;
+	height:100vw;
+	z-index:-2;
+background: linear-gradient(180deg, #FF48B0 33.55%, #399CF3 71.24%, #D6C0F8 78.36%, #64FF21 85.48%);}
+
+#room3zines{
+background: radial-gradient(100% 100% at 100% 4.83%, #F5C3C3 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #9CBCB6 15.65%, #9D7AD2 42.59%, #FFB511 57.04%, #DADE2B 71.79%, #9D7AD2 100%);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	width:100vw;
+	height:35vh;
+	z-index:10;
+	margin-top:5%;
+	padding-top:2%;
+}
+
+/*room 4*/
+
+#room4prints{
+	position:fixed;
+top:0;
+	left:0;
+	width:100vw;
+	height:100vw;
+	z-index:-2;
+	background: linear-gradient(180deg, #ECDA9A 9.03%, #D96727 25.48%, #FFB511 46.05%, #ECDA9A 61.47%, #B04F19 99.45%);	
+}
+
+#room4zines{
+background: radial-gradient(100% 100% at 100% 4.83%, #F5C3C3 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #9CBCB6 15.65%, #9D7AD2 42.59%, #FFB511 57.04%, #DADE2B 71.79%, #9D7AD2 100%);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	width:100vw;
+	height:35vh;
+	z-index:10;
+	margin-top:5%;
+	padding-top:2%;
+}
+
+/*room 5*/
+
+#room5prints{
+	position:fixed;
+top:0;
+	left:0;
+	width:100vw;
+	height:100vw;
+	z-index:-2;
+background: linear-gradient(180deg, #FF48B0 33.55%, #399CF3 71.24%, #D6C0F8 78.36%, #64FF21 85.48%);}
+
+#room5zines{
+	background: linear-gradient(180deg, #ACD1F3 0%, #C2BEDF 40.1%, #8BACEC 70.31%, #6287E4 90.1%, #C2BEDF 96.88%);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	width:100vw;
+	height:35vh;
+	z-index:10;
+	margin-top:5%;
+	padding-top:2%;
+}
+
+
