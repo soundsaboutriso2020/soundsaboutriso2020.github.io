@@ -21,6 +21,8 @@ permalink: pretty
 collections:
   works:
     output: true
+  interviews:
+    output: true
 
 # defaults:
 #   -

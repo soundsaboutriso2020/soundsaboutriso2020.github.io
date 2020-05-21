@@ -4,6 +4,7 @@
 
 layout: guestbook
 title: Guestbook
+next: /room-1
 
 ---
 <div class="guestbook-overlay"></div>

@@ -9,46 +9,22 @@
 <html>
   <body>
 {% include fair-nav.html %}
-    {% include modal.html %}
-<div class="space">
-<div class="interviews-container">
-	<div class="list">
-	<div class="row row1">
-		<div class="column1">
-			Interviews
+    {% include modal.html %}    <div class="space"></div>
+
+
+		<div >
+			Interview
 		</div>
-<!-- 		<div class="column2">
-			Artist
-		</div>
-		<div class="column3">
-			Room
-		</div>
-		<div class="column4">
-			Format
-		</div> -->
-	</div>
-	{% assign works = site.works | sort: 'artist' %}
-  {% for book in works %}
-  <div class="row">
-    <div class="interview-column1">
-    	<a href="{{site.baseurl}}{{book.url}}">{{book.title}} {% include linksvg.html %}
+
+	{% assign interviews = site.interviews | sort: 'participant' %}
+  {% for book in interviews %}
+
+    	<a href="{{site.baseurl}}{{book.url}}">{{book.participant}} {% include linksvg.html %}
     	</a>
-    </div>
-<!--     <div class="column2">
-    	    	{{book.artist}}
-    </div>
-    <div class="column3">
-    	book room
-    </div>
-    <div class="column4">
-    	    	    	{{book.type}}
-    </div> -->
-</div>
+
   {% endfor %}
-</div>
-</div>
+
 {% include footer.html %}
 
   </body>
 </html>
-</body>

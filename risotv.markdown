@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: risoTV
+next: /room-1
 
 layout: events
 event1-day: Saturday

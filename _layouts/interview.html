@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en-ca" id="html">
+{% include head.html %}
+
+
+<body>
+
+<html>
+  <body>
+  	{% include fair-nav.html %}
+    {% include modal.html %} 
+  	<div class="space"></div>
+
+{{page.participant}} Answers...
+
+<div class="qa">
+<div class="q1 question">What's your favorite riso color or color combo? </div>
+<div class="a1 answer">{{page.q1}}</div>
+<div class="qa-images">
+{% if page.imgq1_1 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq1_1}}">{% endif %}
+{% if page.imgq1_2 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq1_2}}">{% endif %}
+{% if page.imgq1_3 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq1_3}}">{% endif %}
+</div>
+</div>
+
+<div class="qa">
+<div class="q2 question">Share 1-3 things about your technical process.  (ie. how do you color separate?, how do you decide which colors, binding method, or paper to use?, is your process traditional, digital, or both?, if it's collaborative what does the back and forth look like?)</div>
+<div class="a2 answer">{{page.q2}}</div>
+<div class="qa-images">
+{% if page.imgq2_1 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq2_1}}">{% endif %}
+{% if page.imgq2_2 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq2_2}}">{% endif %}
+{% if page.imgq2_3 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq2_3}}">{% endif %}
+{% if page.imgq2_4 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq2_4}}">{% endif %}
+{% if page.imgq2_5 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq2_5}}">{% endif %}
+</div>
+</div>
+
+<div class="qa">
+<div class="q3 question">Share 1-3 things about your creative/conceptualizing process. </div>
+<div class="a3 answer">{{page.q3}}</div>
+<div class="qa-images">
+{% if page.imgq3_1 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq3_1}}">{% endif %}
+{% if page.imgq3_2 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq3_2}}">{% endif %}
+{% if page.imgq3_3 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq3_3}}">{% endif %}
+</div>
+</div>
+
+<div class="qa">
+<div class="q4 question">What did you have on your mind when you were working on this project/piece (or in general)?  (ie. Does your work (this or other) relate to a particular current movement or concept?)
+</div>
+<div class="a4 answer">{{page.q4}}</div>
+<div class="qa-images">
+{% if page.imgq4_1 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq4_1}}">{% endif %}
+{% if page.imgq4_2 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq4_2}}">{% endif %}
+{% if page.imgq4_3 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq4_3}}">{% endif %}
+{% if page.imgq4_4 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq4_4}}">{% endif %}
+</div>
+</div>
+
+<div class="qa">
+<div class="q5 question">Do you have any risograph-related tips and tricks you'd like to share?
+</div>
+<div class="a5 answer">{{page.q5}}</div>
+<div class="qa-images">
+{% if page.imgq5 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq5}}">{% endif %}
+</div>
+</div>
+
+<div class="qa">
+<div class="q6 question">If you would like to include your own Q&A that you would like to share or re-word any of these questions in a different way, add it below -
+</div>
+<div class="a6 answer">{{page.q4}}</div>
+<div class="qa-images">
+{% if page.imgq6 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq6}}">{% endif %}
+</div>
+</div>
+
+<div class="qa">
+<div class="q7 question">What is something that you would like to say to anyone reading this right now?
+</div>
+<div class="a7 answer">{{page.q7}}</div>
+<div class="qa-images">
+{% if page.imgq7 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq7}}">{% endif %}
+</div>
+</div>
+
+{% include footer.html %}
+  </body>
+</html>
+</body>

@@ -3,10 +3,6 @@
 
 {% include head.html %}
 
-
-<body onload="setInterval(step,100)">
-
-<html>
   <body>
 {% include fair-nav.html %}
         {% include modal.html %}
@@ -44,7 +40,8 @@
     	book room
     </div>
     <div class="column4">
-    	    	    	{{book.type}}
+    	 <a href="{{site.baseurl}}/interviews/{{book.code}}">{% include linksvg.html %}
+      </a>
     </div>
 </div>
   {% endfor %}

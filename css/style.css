@@ -3,19 +3,13 @@
     src: url("/fonts/AUTHENTIC-Sans.otf") format("opentype");
 }
 
-@font-face {
-    font-family: 'Century';
-    src: url("/fonts/century.woff") format("opentype");
-}
-
-
 body{
     font-family: 'Authentic-Sans';
     font-size:14px;
       margin: 2vh 2vw;
       width:96vw;
   padding: 0;
-    cursor: url('http://www.rw-designer.com/cursor-extern.php?id=10017'), auto;	
+    cursor: url(http://cur.cursors-4u.net/nature/nat-10/nat994.cur), auto !important;
 }
 
 button{
@@ -44,7 +38,7 @@ button{
 	position:fixed;
 	top:0;
 	left:0;
-	height:10vh;
+	height:15vh;
 	width:100vw;
 	background: radial-gradient(100% 100% at 100% 4.83%, #F5C3C3 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #9CBCB6 15.65%, #9D7AD2 42.59%, #FFB511 57.04%, #DADE2B 71.79%, #9D7AD2 100%);
 
@@ -86,6 +80,7 @@ button{
 .fair-nav{
 	justify-content:space-between;
 		width:96vw;
+
 }
 
 .black-stroke{
@@ -96,6 +91,12 @@ button{
 .dotted{
 	border: 1px dashed black !important;
 	border-radius: 0px !important;
+
+}
+
+.b3glow{
+	box-shadow: 5px 5px 50px #15C4FB;
+
 }
 
 .dotted:hover{
@@ -127,6 +128,11 @@ nav{
 	  z-index:100;
 }
 
+button{
+	background-color:inherit !important;
+
+}
+
 .dropdown {
   overflow: hidden;
 }
@@ -135,9 +141,16 @@ nav{
   outline: none;
   color: black;
   background-color: inherit;
-  font-family: inherit;
+  	font-family: "Courier New", Courier, monospace;
+  	font-weight:bold;
     font-size: inherit;
   margin: 0;
+    	text-transform:uppercase;
+}
+
+.b3{
+	background-color:transparent !important;
+
 }
 
 
@@ -151,10 +164,13 @@ nav{
   display: none;
   position: absolute;
   background-color: #fff;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   border-radius: 20px;
-  width: 125px;
+  width: 225px;
   z-index: 1;
+  	font-family: "Courier New", Courier, monospace;
+  	font-weight:bold;
+  	text-transform:uppercase;
+  				    	  box-shadow: 10px 10px 50px rgba(164, 27, 133, .9);
 }
 
 .dropdown-content a {
@@ -169,7 +185,8 @@ nav{
 }
 
 .dropdown-content a:hover {
-  background-color: #D3D6BC;
+  background-color: silver;
+  color:white;
 }
 
 .dropdown:hover .dropdown-content {
@@ -628,6 +645,12 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 	z-index:10;
 	margin-top:5%;
 	padding-top:2%;
+}
+
+/* interview styles */
+
+.qa-images{
+	width:20vw;
 }
 
 

@@ -4,6 +4,7 @@
 
 layout: room
 title: Room 3
+next: /room-4
 ---
 
 <div id="room3prints"></div>
@@ -13,7 +14,7 @@ title: Room 3
 
 <div class="prints room3 flex-row space-around">
   {% for post in room3print %}
-  <div class="print product">
+  <div class="print product hvr-bob">
   	 <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/products/{{post.img1}}"></a>
 </div>
   {% endfor %}
@@ -24,7 +25,7 @@ title: Room 3
 
 <div class="zines room3 flex-row space-around">
   {% for post in room3zine %}
-   <div class="zine product">
+   <div class="zine product hvr-float">
   	 <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/products/{{post.img1}}"></a>
 </div>
   {% endfor %}
