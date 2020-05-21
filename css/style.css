@@ -50,9 +50,10 @@ box-shadow: 5px 5px 50px gold;
 
 .footer{
 	position:fixed;
-	margin-bottom:0vh ;
 		bottom:3vh ;
 		left:2vw;
+		display:flex;
+		z-index:100;
 }
 
 .space{
@@ -83,6 +84,9 @@ box-shadow: 5px 5px 50px gold;
 .fair-nav{
 	justify-content:space-between;
 		width:96vw;
+			display: flex;
+	margin-bottom: 5vh;
+	  z-index:100;
 
 }
 
@@ -107,9 +111,8 @@ box-shadow: 5px 5px 50px gold;
 }
 
 .live{
-	background-color: #DEE6E4 !important;
-	color:#FF48B0 !important;
-	margin-left: 1vw;
+	background-color: yellow !important;
+	color:black !important;
 	text-decoration:underline;
 }
 
@@ -133,9 +136,6 @@ a{
 
 nav{
 	position:fixed;
-	display: flex;
-	margin-bottom: 5vh;
-	  z-index:100;
 }
 
 button{
@@ -749,9 +749,9 @@ body{
 /* modal mobile*/
 
 .modal-content{
-	width:400px;
+	width:80vw;
 	font-size: 1em;
-	max-height: 90vh;
+	max-height: 80vh;
 overflow-y: scroll; 
 border-radius: 15px !important;
 }
@@ -807,6 +807,22 @@ border-radius: 15px !important;
 
 .schedule-container{
 	margin-bottom:2vh;
+}
+
+.button{
+	opacity:100%;
+}
+
+.button:hover{
+	opacity:100%;
+}
+
+.footer,
+.fair-nav{
+	font-size:12px;
+}
+
+.button-container{
 }
 }
 
