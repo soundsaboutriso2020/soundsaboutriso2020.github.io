@@ -4,7 +4,7 @@
 
 layout: room
 title: Room 1
-next: room-2
+next: /room-2
 ---
 
 <div id="room1prints"></div>
