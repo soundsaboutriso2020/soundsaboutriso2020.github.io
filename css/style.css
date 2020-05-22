@@ -501,7 +501,7 @@ overflow-y: scroll;
 
 
 .column1, .column2, .column3{
-	width:20vw;
+	width:25vw;
 	margin-right:4vw;
 }
 
@@ -1075,7 +1075,7 @@ body{
 }
 
 .directory-info{
-	padding-top: 4vh;
+	padding-top: 9vh;
 }
 
 /*event page */
