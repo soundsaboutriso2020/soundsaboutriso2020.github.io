@@ -47,7 +47,8 @@ button{
 
 .guestbook{
 	width:96vw;
-	height: 90vh;
+	margin-top:10vh;
+	height: 80vh;
 }
 
 .guestbook-overlay{
