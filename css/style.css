@@ -580,7 +580,26 @@ transform: rotate(-1.5deg);
 }
 
 .back-to{
-	width:10vw;
+	width:100%;
+	justify-content:space-between;
+	margin-top:0vh;
+}
+
+.back-to-top{
+		margin-bottom:5vh;
+}
+
+.back-to-bottom{
+	margin-top:5vh;
+		margin-bottom:15vh;
+}
+
+.margin-right{
+	margin-right: 2vw;
+}
+
+.margin-left{
+	margin-left: 2vw;
 }
 
 .product-left{
@@ -961,7 +980,7 @@ body{
 }
 
 .back-to{
-	width: 40vw;
+	width: 100vw;
 }
 
 .product-right{
@@ -1106,5 +1125,10 @@ font-size: 1.25em;
 		margin-left:0vw;
 }
 
+/*product page */
+
+.link1{
+	margin-bottom:2vh;
+}
 }
 

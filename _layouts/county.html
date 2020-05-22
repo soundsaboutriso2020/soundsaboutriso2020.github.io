@@ -10,9 +10,17 @@
 <div class="space"></div>
 
 	<div class="product-container">
-			<div class="back-to">
-				<a href="index.html" class="flex-row">{% include door.svg %} Back to Room </a><br>
-	</div>
+			<div class="back-to-top flex-row">
+			<div class="link2">
+				{% if page.previous.url %}
+    			<a class="prev margin-right" href="{{page.previous.url}}">&laquo; {% include linksvg.html %}  Previous Work: {{page.previous.title}} </a>
+  				{% endif %}
+  				/
+  				{% if page.next.url %}
+    			<a class="prev margin-left" href="{{page.next.url}}"> Next Work: {{page.next.title}} {% include linksvg.html %}  &raquo; </a>
+  				{% endif %}
+			</div>
+			</div>
 	<div class="flex-row space-between">
 		<div class="product-left">
 						<img src="{{site.baseurl}}/img/products/{{page.img1}}">
@@ -54,8 +62,16 @@
 
 		</div>
 	</div>
-
+			<div class="back-to-bottom flex-row">
+				<div class="link1">
+				<a href="index.html" class="margin-right" >{% include linksvg.html %}  Go back to Room </a> / 
+				<a href="index.html" class="margin-left"> {% include linksvg.html %}  Go to Artists' Interview  </a>
+				</div>
+			</div>
 	</div>
+
+
+
 	{% include footer.html %}
 
   </body>
