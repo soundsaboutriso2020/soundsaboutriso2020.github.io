@@ -684,6 +684,15 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 	width:20vw;
 }
 
+.desktop-visibility{
+	visibility:visible;
+}
+
+.mobile-visibility{
+	visibility:hidden;
+}
+
+
 
 /*MOBILE STYLES */
 
@@ -698,6 +707,16 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 body{
 }
+
+.desktop-visibility{
+	visibility:hidden;
+}
+
+.mobile-visibility{
+	visibility:visible;
+}
+
+
 
 .button{
 /*	padding:5px;
@@ -748,38 +767,42 @@ body{
 
 /* modal mobile*/
 
-.modal-content{
-	width:80vw;
-	font-size: 1em;
-	max-height: 50vh;
-overflow-y: scroll; 
-border-radius: 15px !important;
+.headerhi img{
+	width:5vw;
 }
 
-.modal-content::-webkit-scrollbar {
-    -webkit-appearance: none;
-}
+.hi{
+	  text-transform: uppercase;
+  font-family: "Courier New", Courier, monospace;
+  box-shadow: 10px 10px 50px gold;
+  background-color: green !important;
+    color:white;
+    border-radius:0px !important;
+    border-width:0px;
+    height:10vh;
+    padding:3vh 2vw;
+    	  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.4);
+  }
 
-.modal-content::-webkit-scrollbar:vertical {
-    width: 20px;
-}
+  .hi:hover{color:red;}
 
-.modal-content::-webkit-scrollbar:horizontal {
-    height: 20px;
-}
+  .headerhi{
+  	padding-top:10vh;
+  	padding-bottom:3vh;
+  }
 
-.modal-content::-webkit-scrollbar-thumb {
-    border-radius: 8px;
-    border: 2px solid #CFE0AC; /* should match background, can't be transparent */
-    background-color: black;
-}
 
-.modal-header{
-	font-size: 1em !important;
-	padding-top:1vh !important;
-	display:none !important;
-}
+  .header a{
+  	    text-decoration: underline;
+    color: #FF48B0;
+    text-transform:uppercase;
+        font-family: "Courier New", Courier, monospace;
+        font-size: 1.1em;
+  }
 
+  .header a:hover{
+  	color:red;
+  }
 /*directory */
 
 .linksvg{
@@ -825,5 +848,7 @@ border-radius: 15px !important;
 
 .button-container{
 }
+
+
 }
 
