@@ -28,6 +28,20 @@ button{
 	 background-color:white !important;
 }
 
+/* font styles */
+
+.fs15{
+	font-size: 1.5em;
+}
+
+.fs125{
+	font-size: 1.25em;
+}
+
+.fs2{
+	font-size: 2em;
+}
+
 
 /* guestbook page */
 
@@ -379,19 +393,16 @@ background-color: #DEE6E4;}
 
 .schedule-container{
 	height:30vh;
-	margin-top:2vh;
+		padding: 1vh 1vw;
 }
 
 .events-page h1{
-	font-size: 1.5em;
 	margin: 0 0 3vh 0;
 }
 
 .events{
 	margin-right:10vw;
 	line-height:30px;
-	font-size: 1.5em;
-
 }
 
 
@@ -411,11 +422,11 @@ background-color: #DEE6E4;}
 
 .directory-container{
 	height: 73vh;
+	padding: 1vh 2vw;
 }
 
 .directory-container, .schedule-container{
 background: linear-gradient(0deg, #F3F1FF, #F3F1FF), #ACD1F3;
-padding: 1vh 2vw;
 transition: box-shadow 0.5s ease;
 overflow-y: scroll; 
 }
@@ -452,7 +463,7 @@ overflow-y: scroll;
 /*end */
 
 .directory-container:hover{
-box-shadow: 10px 10px 50px rgba(164, 27, 133, 0.5);
+	box-shadow: 5px 5px 50px #15C4FB;
 }
 
 .directory-info{
@@ -463,7 +474,6 @@ box-shadow: 10px 10px 50px rgba(164, 27, 133, 0.5);
 .row{
 	display:flex;
 	width:100%;
-	font-size:1em;
 	line-height: 2em;
 }
 
@@ -487,10 +497,6 @@ box-shadow: 10px 10px 50px rgba(164, 27, 133, 0.5);
 .column1, .column2, .column3{
 	width:20vw;
 	margin-right:4vw;
-}
-
-.interview-column1{
-	font-size:1.5em;
 }
 
 .linksvg{
@@ -537,10 +543,6 @@ box-shadow: 10px 10px 50px rgba(164, 27, 133, 0.5);
 
 /* interview page */
 
-.interviewh1{
-	font-size:1.5em;
-}
-
 .qa{
 	margin: 10vh 0;
 	width:80vw;
@@ -549,11 +551,9 @@ box-shadow: 10px 10px 50px rgba(164, 27, 133, 0.5);
 .question{
 margin: 0 0 5vh 0;
 transform: rotate(-1.5deg);
-font-size: 1.25em;
 }
 
 .answer{
-	font-size:1.5em;
 	font-family: "Courier New", Courier, monospace;
 	width:600px;
 }
@@ -593,12 +593,7 @@ font-size: 1.25em;
 .moreimg{
 }
 
-.participant{
-	font-size:1.5em;
-}
-
 .work-title{
-		font-size:2em;
 		margin-top:1vh;
 
 }
@@ -608,7 +603,6 @@ font-size: 1.25em;
 }
 
 .work-desc{
-			font-size:1.25em;
 					margin-top:5vh;
 	font-family: "Courier New", Courier, monospace;
 	}
@@ -618,7 +612,6 @@ font-size: 1.25em;
 	margin:5vh 0;
 	  border: 2px solid black;
 	  padding:10px;
-	  font-size: 1.25em;
 }
 
 .century-sub{
@@ -765,12 +758,84 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 	padding-top:2%;
 }
 
+/*fundraiser page */
+
+.fundraiser-page{
+	background: linear-gradient(180deg, #ACD1F3 0%, #C2BEDF 40.1%, #8BACEC 70.31%, #6287E4 90.1%, #C2BEDF 96.87%), #C4C4C4;
+/*	height:100vh;
+*/}
+
+.fundraiser-right a{
+	    color: #FF48B0;
+}
+
+.fundraiser-right a:hover{
+	color:red;
+}
+.fundraiser-container{
+		background: #E6FFFA;
+/*			margin: 5vh 5vw;
+*/
+}
 
 
-/* modal mobile*/
+.fundraiser-container, .credits-container{
+	width:35vw;
+			padding: 2vh 2vw 4vh 2vw;
+}
+
+.credits-container{
+	background: #FFB511;
+		font-size:0.9em;
+}
+
+.long{
+	line-height: 1.3em;
+}
+
+.fundraiser-block{
+	padding:3vh 0;
+}
+
+.fundraiser-list{
+	padding: 1.5vh 0vw;
+		  text-transform: uppercase;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.fundraiser-left{
+	z-index:0;
+}
+
+.fundraiser-right{
+	margin: 0 0 0 5vw;
+}
+
+
+.star{
+	width: 60vw;
+	height: auto;
+	position: fixed;
+	top: 0%;
+	left:40vw;
+	z-index:-10;
+}
+
+.star-text{
+	font-size:0.9em;
+	top:14%;
+	text-align:center;
+	padding: 0 18%;
+	left:0;
+}
+
+
+
+
+/* modal mobile + fundraiser styles */
 
 .headerhi img{
-	width:5vw;
+	width:1.5vw;
 }
 
 .hi{
@@ -810,6 +875,24 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   }
 
 
+@media only screen and (max-width: 1100px) {
+
+.star{
+	width: 80vw;
+	height: auto;
+	position: fixed;
+	top: 0%;
+	left:32vw;
+	z-index:-10;
+}
+
+.raffle-container{
+	background: #DADE2B;
+	padding:1vh 1vw;
+	margin-bottom:2vh;
+}
+
+}
 
 /*MOBILE STYLES */
 
@@ -823,6 +906,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
 body{
+	margin-bottom: 10vh;
 }
 
 .desktop-visibility{
@@ -833,6 +917,9 @@ body{
 	visibility:visible;
 }
 
+.headerhi img{
+	width:5vw;
+}
 
 
 .button{
@@ -947,11 +1034,6 @@ body{
 /* interview page */
 
 
-
-.interviewh1{
-	font-size:1.5em;
-}
-
 .qa{
 	margin: 10vh 0;
 	width:96vw;
@@ -973,6 +1055,54 @@ font-size: 1.25em;
 	width:96vw;
 	margin-left:0;
 	margin-top:10vh;
+}
+
+/*fundraiser page */
+
+
+
+.fundraiser-container{
+		background: #E6FFFA;
+		margin:10vh 0 5vh 0;
+
+}
+
+
+.fundraiser-container, .credits-container{
+	width:96vw;
+			padding: 2vh 2vw 4vh 2vw;
+}
+
+.credits-container{
+	background: #FFB511;
+		font-size:0.9em;
+}
+
+.raffle-container{
+	background: #DADE2B;
+	padding:1vh 1vw;
+}
+.long{
+	line-height: 1.3em;
+}
+
+.fundraiser-block{
+	padding:3vh 0;
+}
+
+.fundraiser-list{
+	padding: 1.5vh 0vw;
+		  text-transform: uppercase;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.fundraiser-left{
+	z-index:0;
+}
+
+.fundraiser-right{
+		margin-top:2vh;
+		margin-left:0vw;
 }
 
 }
