@@ -8,7 +8,7 @@ next: /room-1
 
 ---
 
-<div class="header">
+<div class="hello">
 <div class="headerhi">
 <img src="{{site.baseurl}}/img/gif/1.gif">
 SOUNDS

@@ -782,7 +782,6 @@ body{
     height:10vh;
     padding:3vh 2vw;
     	  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.4);
-    	  	margin-bottom:5vh;
   }
 
   .hi:hover{color:red;}
@@ -792,8 +791,11 @@ body{
   	padding-bottom:3vh;
   }
 
+.hello{
+	    	  	margin-bottom:15vh;
+}
 
-  .header a{
+  .hello a{
   	    text-decoration: underline;
     color: #FF48B0;
     text-transform:uppercase;
@@ -801,7 +803,7 @@ body{
         font-size: 1.1em;
   }
 
-  .header a:hover{
+  .hello a:hover{
   	color:red;
   }
 /*directory */
