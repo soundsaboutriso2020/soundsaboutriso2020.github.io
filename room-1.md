@@ -15,9 +15,7 @@ next: /room-2
 <div class="prints room1 flex-row space-around">
   {% for post in room1print %}
   <div class="print product hvr-hang">
-  <a href="{{site.baseurl}}{{post.url}}">
-  	{% image_tag src=post.imgsrc height=page.cover_image_height width="650"%}
-  </a>
+   <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/products/{{post.img1}}"></a>
 </div>
   {% endfor %}
 </div>
