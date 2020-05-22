@@ -501,8 +501,8 @@ overflow-y: scroll;
 
 
 .column1, .column2, .column3{
-	width:25vw;
-	margin-right:4vw;
+	width:30vw;
+	margin-right:3vw;
 }
 
 .linksvg{
