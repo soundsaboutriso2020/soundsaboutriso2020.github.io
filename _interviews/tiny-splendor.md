@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: tiny-splendor
+room: moon-room
 layout: interview
 participant: Tiny Splendor
-email_address: info@tinysplendor.com
+email: info@tinysplendor.com
 q1: Red + Black
 imgq1_1: 
 imgq1_2: 

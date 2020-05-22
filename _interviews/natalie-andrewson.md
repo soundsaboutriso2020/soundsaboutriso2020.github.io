@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: natalie-andrewson
+room: wild-berry-room
 layout: interview
 participant: Natalie Andrewson
-email_address: natalieandrewson@gmail.com
+email: natalieandrewson@gmail.com
 q1: It's always changing! I love the fluorescent orange that a 25% yellow value and 100% fluorescent pink make. But I also love a good deep purple with Blue, Pink and yellow combined.
 imgq1_1: 
 imgq1_2: 

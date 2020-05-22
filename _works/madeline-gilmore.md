@@ -1,19 +1,22 @@
 ---
 layout: county 
 code: madeline-gilmore
+room: solarium
+room_name: Solarium
+roomtype: solarium-print
+order: 5
+imgsize: s
 participant: Madeline Gilmore
 email: gilmore.maddie@gmail.com
 artist: Chuck Kuan, Ritu Ghiya, Madeline Gilmore, and Daniel Hardisty
 title: Ring & Tuscany
-room: 
-type: Print
-room: room3print
+type: print
 artisturl: https://www.instagram.com/volumepoetry/
 publisher: lucky risograph
 publisherurl: https://luckyrisograph.press/
 howpurchase: Direct Message on Social Media Platform
 producturl: https://www.instagram.com/maddieglmre/
-img1: RingTuscany-Volume01.png
+img1: RingTuscany-Volume01.jpg
 img2: RingTuscany-Volume02.jpg
 img3: RingTuscany-Volume03.jpg
 img4: 

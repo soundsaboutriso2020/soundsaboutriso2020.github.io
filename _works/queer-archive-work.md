@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: queer-archive-work
+room: moon-room
+room_name: Moon Room
+roomtype: moon-room-zine
+order: 1
+imgsize: m
 participant: Queer.Archive.Work
 email: queer.archive.work@gmail.com
 artist: Paul Soulellis (editor) & 110 contributors
 title: Urgency Reader 2
-room: 
 type: zine
-room: 
 artisturl: https://soulellis.com/work/urgencyreader2/index.html
 publisher: Queer.Archive.Work
 publisherurl: https://queer.archive.work/

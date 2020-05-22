@@ -28,8 +28,8 @@
 		</div>
 		<div class="product-right">
 						<div class="fs15">
-				{{page.participant}}     
-				<a href="{{page.artisturl}}" target="_blank" class="century-sub">Website</a>
+				{{page.participant}}<br>
+
 			</div>
 		<div class="work-title fs2">
 			{{page.title}}
@@ -41,8 +41,10 @@
 
 		<div class="buy-button fs125 button">
 			${{page.price}}
-			Buy via <a href="{{page.producturl}}" target="_blank">{{page.howpurchase}}</a>
+			Purchase via <a href="{{page.producturl}}" target="_blank">{{page.howpurchase}}</a>
 		</div>
+						<a href="{{page.artisturl}}" target="_blank" class="">Artist Website</a> +
+				<a href="{{site.baseurl}}/interviews/{{page.code}}" target="_blank" class="">Artist Interview</a>
 					<div class="details century-sub">
 					{{page.size}} /	Riso colors used: {{page.color}} / <a href="{{page.publisherurl}}" target="_blank">{{page.publisher}}</a> / {{page.year}}
 			</div>
@@ -64,8 +66,8 @@
 	</div>
 			<div class="back-to-bottom flex-row">
 				<div class="link1">
-				<a href="index.html" class="margin-right" >{% include linksvg.html %}  Go back to Room </a> / 
-				<a href="index.html" class="margin-left"> {% include linksvg.html %}  Go to Artists' Interview  </a>
+				<a href="{{site.baseurl}}/{{page.room}}" class="margin-right" >{% include linksvg.html %}  Go back to Room </a> / 
+				<a href="{{site.baseurl}}/interviews/{{page.code}}" class="margin-left"> {% include linksvg.html %}  Go to Artists' Interview  </a>
 				</div>
 			</div>
 	</div>

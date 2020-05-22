@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: zampa-club
+room: wild-berry-room
+room_name: Wild Berry Room
+roomtype: wild-berry-room-print
+order: 2
+imgsize: l
 participant: Zampa Club/Elizabeth Goodpseed
 email: zampaaa.club@gmail.com
 artist: Elizabeth Goodspeed 
 title: Jello
-room: 
-type: Print
-room: room5print
+type: print
 artisturl: http://elizabethgoodspeed.com/
 publisher: Lucky Risograph & Zampa Club
 publisherurl: https://zampaclub.smvi.co/

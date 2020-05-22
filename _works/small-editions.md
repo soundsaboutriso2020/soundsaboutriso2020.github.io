@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: small-editions
+room: rumble-room
+room_name: Rumble Room
+roomtype: rumble-room-zine
+order: 3
+imgsize: m
 participant: Small Editions
 email: hannah@smalleditions.nyc
 artist: Adrienne Bennett, Alli Gelles, Anna Gregor, Charles O'Leary, Dane Mainella, Emmet Elliott, Helen Galioto, Hiram Trejo, Jordan Delzell, Kaiyu Huang, Lily Hyde, Matias Botero, Morgan Hayes, Ren Schwarz, Sahar Sephadari, Sam Margevicius, Summer Krounbi
 title: lōkē magazine vol.2 
-room: 
 type: zine
-room: room4zine
 artisturl: https://www.instagram.com/lowkey_editions/
 publisher: lōkē editions
 publisherurl: https://www.instagram.com/lowkey_editions/

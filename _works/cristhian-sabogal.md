@@ -1,18 +1,21 @@
 ---
 layout: county 
 code: cristhian-sabogal
+room: rumble-room
+room_name: Rumble Room
+roomtype: rumble-room-print
+order: 2
+imgsize: l
 participant: Cristhian Sabogal
 email: sabogalcc@gmail.com
 artist: Cristhian Sabogal
 title: Earth Layers
-room: 
-type: Print
-room: room1print
+type: print
 artisturl: https://www.instagram.com/cristhian.sabogal/
 publisher: 
 publisherurl: 
-howpurchase: I don't have a method of sale and would like to list the item on lucky risograph/zine hug's website
-producturl: https://www.instagram.com/cristhian.sabogal/
+howpurchase: Online Shop
+producturl: https://luckyrisograph.press/store/earth-layers-print
 img1: EarthLayers-CristhianSabogal01.jpg
 img2: EarthLayers-CristhianSabogal02.jpg
 img3: 

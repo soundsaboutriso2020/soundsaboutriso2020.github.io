@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: wenting-li
+room: palm-room
 layout: interview
 participant: Wenting Li
-email_address: wenting.draws@gmail.com
+email: wenting.draws@gmail.com
 q1: I've never tried this but i love seeing CMYK riso printing - would love to try aqua/ flo red/ yellow/ black CMYK separation in a print
 imgq1_1: 
 imgq1_2: 

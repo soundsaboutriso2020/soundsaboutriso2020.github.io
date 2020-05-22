@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: wren-mcdonald
+room: solarium
 layout: interview
 participant: Wren McDonald
-email_address: wrenxmcdonald@gmail.com
+email: wrenxmcdonald@gmail.com
 q1: Hmm, it's hard to say. I think it depends on the project and what's accessible. I like how combos like Blue, Yellow, and Fluorescent Pink can be layered to make a wider range of colors.
 imgq1_1: WrenMcDonald_Q1.jpg
 imgq1_2: 

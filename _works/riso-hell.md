@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: riso-hell
+room: wild-berry-room
+room_name: Wild Berry Room
+roomtype: wild-berry-room-zine
+order: 4
+imgsize: m
 participant: Riso Hell
 email: risohellpress@gmail.com
 artist: Brandon Bandy
 title: Teenage Witch
-room: 
 type: zine
-room: room3zine
 artisturl: http://brandonbandy.com
 publisher: Riso Hell
 publisherurl: https://www.risohell.com

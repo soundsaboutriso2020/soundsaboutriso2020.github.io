@@ -1,18 +1,21 @@
 ---
 layout: county 
 code: taehee-whang
+room: moon-room
+room_name: Moon Room
+roomtype: moon-room-print
+order: 4
+imgsize: xxl
 participant: Taehee Whang
 email: taehee.whang@gmail.com
 artist: Taehee Whang
 title: Spicy XXXX 짬찌 맵다 
-room: 
-type: Print
-room: room4print
+type: print
 artisturl: http://taehee-whang.com/
 publisher: 
 publisherurl: 
 howpurchase: Direct Message on Social Media Platform
-producturl: IG @whitemalepainter
+producturl: http://instagram.com/whitemalepainter
 img1: spicyxxxx-taeheeWhang01.jpg
 img2: spicyxxxx-taeheeWhang02.jpg
 img3: 

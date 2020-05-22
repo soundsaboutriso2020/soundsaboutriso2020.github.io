@@ -1,19 +1,22 @@
 ---
 layout: county 
 code: upon-studio
+room: rumble-room
+room_name: Rumble Room
+roomtype: rumble-room-zine
+order: 1
+imgsize: s
 participant: Upon Studio
 email: hey@upon.studio
 artist: Ivy Zheyu Chen
 title: Smiley
-room: 
 type: zine
-room: room4zine
 artisturl: https://upon.studio/
 publisher: UPON
 publisherurl: https://www.instagram.com/upon.studio/
-howpurchase: I don't have a method of sale and would like to list the item on lucky risograph/zine hug's website
-producturl: https://www.instagram.com/upon.studio/
-img1: 
+howpurchase: Online Shop
+producturl: https://luckyrisograph.press/store/smiley
+img1: Smiley-UponStudio01.png
 img2: 
 img3: 
 img4: 

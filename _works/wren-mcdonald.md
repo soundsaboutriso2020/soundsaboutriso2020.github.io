@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: wren-mcdonald
+room: solarium
+room_name: Solarium
+roomtype: solarium-print
+order: 4
+imgsize: l
 participant: Wren McDonald
 email: wrenxmcdonald@gmail.com
 artist: Wren McDonald
 title: Targeted Advertising
-room: 
-type: Print
-room: room4print
+type: print
 artisturl: https://wrenmcdonald.com/
 publisher: 
 publisherurl: 

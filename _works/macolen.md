@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: macolen
+room: wild-berry-room
+room_name: Wild Berry Room
+roomtype: wild-berry-room-print
+order: 1
+imgsize: l
 participant: Macolen
 email: hola@macolen.com
 artist: Alejandra Ballesteros
 title: Amanecer / Atardecer
-room: 
-type: Print
-room: room2print
+type: print
 artisturl: https://www.instagram.com/aleebaes/
 publisher: MACOLEN & KEVELYN
 publisherurl: https://www.instagram.com/_macolen/

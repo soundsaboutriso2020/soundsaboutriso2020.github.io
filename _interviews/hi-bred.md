@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: hi-bred
+room: palm-room
 layout: interview
 participant: Hi-Bred
-email_address: ian@hi-bred.net
+email: ian@hi-bred.net
 q1: yellow, flo pink, blue
 imgq1_1: 
 imgq1_2: 

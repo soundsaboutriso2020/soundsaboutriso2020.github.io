@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: secret-riso-club
+room: solarium
 layout: interview
 participant: Secret Riso Club
-email_address: secretrisoclub@gmail.com
+email: secretrisoclub@gmail.com
 q1: Fluorescent pink and yellow; feels like eating ice cream.
 imgq1_1: 
 imgq1_2: 

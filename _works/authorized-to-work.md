@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: authorized-to-work
+room: moon-room
+room_name: Moon Room
+roomtype: moon-room-print
+order: 2
+imgsize: l
 participant: Authorized to Work
 email: cemkocyildirim@gmail.com
 artist: Various Artists - Full list on website
 title: Drums on Paper - Collector's Edition
-room: 
-type: Print
-room: room1print
+type: print
 artisturl: https://authorizedtowork.us 
 publisher: Authorized to Work in the US Press
 publisherurl: https://www.instagram.com/authorizedtowork/

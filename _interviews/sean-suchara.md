@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: sean-suchara
+room: rumble-room
 layout: interview
 participant: Sean Suchara
-email_address: seansuchara@gmail.com
+email: seansuchara@gmail.com
 q1: Cornflower or Violet
 imgq1_1: 
 imgq1_2: 

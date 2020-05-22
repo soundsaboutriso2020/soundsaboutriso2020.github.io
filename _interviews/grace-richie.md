@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: grace-richie
+room: wild-berry-room
 layout: interview
 participant: Grace Ritchie
-email_address: gritchie@mica.edu
+email: gritchie@mica.edu
 q1: Federal Blue, Flo Pink, Yellow
 imgq1_1: 
 imgq1_2: 

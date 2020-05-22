@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: min-heo
+room: angel-wing
+room_name: Angel Wing
+roomtype: angel-wing-print
+order: 4
+imgsize: m
 participant: Min Heo
 email: heejeminheo@gmail.com
 artist: Min Heo
 title: Emotional Support System
-room: 
-type: Print
-room: room3print
+type: print
 artisturl: https://www.minstudio.us
 publisher: 
 publisherurl: 

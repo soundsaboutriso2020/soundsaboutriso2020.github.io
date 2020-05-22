@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: max-pepper
+room: moon-room
+room_name: Moon Room
+roomtype: moon-room-zine
+order: 2
+imgsize: m
 participant: Max Pepper
 email: maxwellpepper@gmail.com
 artist: Max Pepper
 title: Idols
-room: 
 type: zine
-room: room2zine
 artisturl: https://www.instagram.com/maxwellpepper/
 publisher: Max Pepper
 publisherurl: 

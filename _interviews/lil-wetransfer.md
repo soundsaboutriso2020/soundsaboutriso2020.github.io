@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: lil-wetransfer
+room: moon-room
 layout: interview
 participant: Lil WeTransfer
-email_address: jefeingold@gmail.com
+email: jefeingold@gmail.com
 q1: Cornflower
 imgq1_1: 
 imgq1_2: 

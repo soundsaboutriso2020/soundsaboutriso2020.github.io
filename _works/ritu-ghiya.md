@@ -1,18 +1,21 @@
 ---
 layout: county 
 code: ritu-ghiya
+room: angel-wing
+room_name: Angel Wing
+roomtype: angel-wing-print
+order: 3
+imgsize: s
 participant: Ritu Ghiya
 email: ritughiya@gmail.com
 artist: Ritu Ghiya
 title: Feeling Better
-room: 
-type: Print
-room: 
+type: print
 artisturl: https://www.ritu.online/
 publisher: 
 publisherurl: 
-howpurchase: email
-producturl: 
+howpurchase: Email
+producturl: mailto:ritughiya@gmail.com?subject=Sounds About Riso .Online Print Purchase
 img1: FeelingBetter-RituGhiya01.png
 img2: 
 img3: 

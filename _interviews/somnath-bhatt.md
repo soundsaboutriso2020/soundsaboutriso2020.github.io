@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: somnath-bhatt
+room: angel-wing
 layout: interview
 participant: Somnath Bhatt
-email_address: somnath@somnathbhatt.com
+email: somnath@somnathbhatt.com
 q1: Cornflower and Metallic Gold 
 imgq1_1: 
 imgq1_2: 

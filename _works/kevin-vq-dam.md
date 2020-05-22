@@ -1,17 +1,20 @@
 ---
 layout: county 
 code: kevin-vq-dam
+room: palm-room
+room_name: Palm Room
+roomtype: palm-room-print
+order: 3
+imgsize: m
 participant: Kevin VQ Dam
 email: kevin@kevinvqdam.com
 artist: Kevin VQ Dam
 title: Sriracha
-room: 
-type: Print
-room: room2print
+type: print
 artisturl: https://www.kevinvqdam.com
 publisher: 
 publisherurl: https://www.instagram.com/kevinvqdam/
-howpurchase: I don't have a method of sale and would like to list the item on lucky risograph/zine hug's website
+howpurchase: Online Shop
 producturl: https://luckyrisograph.press/
 img1: Sriracha-KevinVQDam.png
 img2: 

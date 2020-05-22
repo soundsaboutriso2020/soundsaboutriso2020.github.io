@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: woolly-press
+room: palm-room
 layout: interview
 participant: Woolly Press
-email_address: info@woollypress.com
+email: info@woollypress.com
 q1: Mint and Bright Red
 imgq1_1: 
 imgq1_2: 

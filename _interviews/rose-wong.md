@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: rose-wong
+room: wild-berry-room
 layout: interview
 participant: Rose Wong
-email_address: rosewongart@gmail.com
+email: rosewongart@gmail.com
 q1: Copper, green and black
 imgq1_1: 
 imgq1_2: 

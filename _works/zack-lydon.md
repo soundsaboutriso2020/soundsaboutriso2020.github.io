@@ -1,29 +1,32 @@
 ---
 layout: county 
 code: zack-lydon
+room: angel-wing
+room_name: Angel Wing
+roomtype: angel-wing-print
+order: 1
+imgsize: s
 participant: Zack Lydon
-email: 
+email: zlydon@gmail.com
 artist: Zack Lydon
-title: 
-room: 
-type: 
-room: 
-artisturl: 
-publisher: 
-publisherurl: 
-howpurchase: 
-producturl: 
-img1: 
+title: Special Delivery
+type: print
+artisturl: http://zacklydon.com
+publisher: Zine Hug
+publisherurl: http://zinehug.com
+howpurchase: Online Shop
+producturl: http://zinehug.storenvy.com/products/30331144-p-s-special-delivery
+img1: SpecialDelivery_ZackLydon.png
 img2: 
 img3: 
 img4: 
 img5: 
 img6: 
-year: 
-price: 
-desc: 
-size: 
-color: 
+year: 2020
+price: 5
+desc: This postcard was created for Zine Hug's Postcards for Solidarity project, attempting to facilitate analog communication during social distancing and raising money for a charity of the artist's choice.  All money raised from this print will be donated to Frontline Foods NYC
+size: 4" x 6"
+color: Mint, Sunflower, Fluorescent Pink, Black
 specs: 
 temp_notes: 
 ---

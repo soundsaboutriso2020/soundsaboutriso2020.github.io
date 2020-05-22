@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: txtbooks
+room: moon-room
 layout: interview
 participant: TXTbooks
-email_address: txtbooks.us@gmail.com
+email: txtbooks.us@gmail.com
 q1: We are huge fans of Cornflower and basically any other color. It's got a great name, and kind of a perfect tonality for pairing. It does not necessarily mix great, but it's a challenge we can work with.
 imgq1_1: 
 imgq1_2: 

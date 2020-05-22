@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: txtbooks
+room: moon-room
+room_name: Moon Room
+roomtype: moon-room-zine
+order: 5
+imgsize: s
 participant: TXTbooks
 email: txtbooks.us@gmail.com
 artist: Sally Thurer, Scott Gelber, Mitchell Lyne, Luiza Dale, Mel Nguyen, Paige Landesberg, Jacob Simon, Benfield, Gabriella Cossens
 title: TXTreader Volume 2
-room: 
 type: zine
-room: room4zine
 artisturl: http://www.txtbooks.us/txtreader-2
 publisher: TXTbooks
 publisherurl: http://www.txtbooks.us

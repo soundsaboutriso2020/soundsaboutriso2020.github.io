@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: perfectly-acceptable
+room: solarium
 layout: interview
 participant: Perfectly Acceptable Press
-email_address: info@perfectly-acceptable.com
+email: info@perfectly-acceptable.com
 q1: Sunflower and Mint
 imgq1_1: 
 imgq1_2: 

@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: ipsy-bipsy-studio
+room: wild-berry-room
 layout: interview
 participant: Ipsy Bipsy Studio
-email_address: ipsybipsystudio@gmail.com
+email: ipsybipsystudio@gmail.com
 q1: 
 imgq1_1: IpsyBipsy_Q1.jpg
 imgq1_2: 

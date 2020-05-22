@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: mega-press
+room: angel-wing
 layout: interview
 participant: Mega Press/Panayiotis Terzis
-email_address: panterzis@gmail.com
+email: panterzis@gmail.com
 q1: I don't have favorites! I think it depends on the context-but the more unusual combinations sometimes hit the spot-orange and violet, yellow and cornflower; bright red and cornflower are pretty nice too. One combo I tell my students to avoid is pink and blue-everyone wants to use that combo! It looks amazing, but whatever you make will blend into the background because it's so common. 
 imgq1_1: PanTerzis_Q1.jpg
 imgq1_2: 

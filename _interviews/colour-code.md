@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: colour-code
+room: solarium
 layout: interview
 participant: Colour Code
-email_address: info@colourcodeprinting.com
+email: info@colourcodeprinting.com
 q1: Violet or Orchid with Sunflower Yellow
 imgq1_1: ColourCode_Q1_1.jpg
 imgq1_2: ColourCode_Q1_2.jpg

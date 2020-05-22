@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: secret-riso-club
+room: solarium
+room_name: Solarium
+roomtype: solarium-print
+order: 3
+imgsize: l
 participant: Secret Riso Club
 email: secretrisoclub@gmail.com
 artist: Gonzalo Guerrero
 title: Action
-room: 
-type: Print
-room: room3print
+type: print
 artisturl: https://www.instagram.com/secret_riso_club/?hl=en
 publisher: Secret Riso Club
 publisherurl: https://www.secretrisoclub.com

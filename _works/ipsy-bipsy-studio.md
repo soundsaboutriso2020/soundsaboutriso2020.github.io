@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: ipsy-bipsy-studio
+room: wild-berry-room
+room_name: Wild Berry Room
+roomtype: wild-berry-room-print
+order: 5
+imgsize: s
 participant: Ipsy Bipsy Studio
 email: ipsybipsystudio@gmail.com
 artist: erica federhen 
-title: we share our mother's health 
-room: 
-type: Print
-room: room2print
+title: We Share Our Mother's Health
+type: print
 artisturl: https://www.ipsybipsystudio.com/
 publisher: 
 publisherurl: https://www.instagram.com/ipsybipsystudio/

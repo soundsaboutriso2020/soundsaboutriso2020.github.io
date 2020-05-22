@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: perfectly-acceptable
+room: solarium
+room_name: Solarium
+roomtype: solarium-zine
+order: 3
+imgsize: l
 participant: Perfectly Acceptable Press
 email: info@perfectly-acceptable.com
 artist: Daria Tessler
 title: Loop of the Sun
-room: 
 type: zine
-room: room3zine
 artisturl: http://www.animalsleepstories.com
 publisher: Perfectly Acceptable Press
 publisherurl: https://www.perfectly-acceptable.com/

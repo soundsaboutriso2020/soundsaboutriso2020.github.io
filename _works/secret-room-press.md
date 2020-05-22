@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: secret-room-press
+room: palm-room
+room_name: Palm Room
+roomtype: palm-room-zine
+order: 5
+imgsize: l
 participant: Secret Room Press
 email: SecretRoomPress@gmail.com
 artist: Secret Room
 title: Secret Rag 3-Pack
-room: 
 type: zine
-room: room4zine
 artisturl: http://secretroompress.com
 publisher: Secret Room Press
 publisherurl: http://instagram.com/secretroompdx

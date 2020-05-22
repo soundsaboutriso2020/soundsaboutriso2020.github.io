@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: irrelevant-press
+room: palm-room
+room_name: Palm Room
+roomtype: palm-room-zine
+order: 2
+imgsize: m
 participant: Irrelevant Press
 email: irrelpress@gmail.com
 artist: Wei Keong Tan and Mollie Underwood
 title: Between Us Two
-room: 
 type: zine
-room: room1zine
 artisturl: http://www.irrelevantpress.com
 publisher: Irrelevant Press
 publisherurl: 

@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: min-heo
+room: angel-wing
 layout: interview
 participant: Min Heo
-email_address: heejeminheo@gmail.com
+email: heejeminheo@gmail.com
 q1: neon pink
 imgq1_1: MinHeo_Q1.png
 imgq1_2: 

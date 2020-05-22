@@ -1,18 +1,21 @@
 ---
 layout: county 
 code: grace-richie
+room: wild-berry-room
+room_name: Wild Berry Room
+roomtype: wild-berry-room-print
+order: 4
+imgsize: m
 participant: Grace Ritchie
 email: gritchie@mica.edu
 artist: Grace Ritchie
 title: Car Crash
-room: 
-type: Print
-room: room1print
+type: print
 artisturl: https://www.instagram.com/lastplacegrace/
 publisher: 
 publisherurl: 
-howpurchase: I don't have a method of sale and would like to list the item on lucky risograph/zine hug's website
-producturl: https://luckyrisograph.press/store
+howpurchase: Online Shop
+producturl: https://luckyrisograph.press/store/car-crash-print
 img1: CarCrash-GraceRitchie01.jpg
 img2: CarCrash-GraceRitchie02.jpg
 img3: 

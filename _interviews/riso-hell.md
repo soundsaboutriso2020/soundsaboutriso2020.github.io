@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: riso-hell
+room: wild-berry-room
 layout: interview
 participant: Riso Hell
-email_address: risohellpress@gmail.com
+email: risohellpress@gmail.com
 q1: Orchid and Orange
 imgq1_1: 
 imgq1_2: 

@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: secret-room-press
+room: palm-room
 layout: interview
 participant: Secret Room Press
-email_address: SecretRoomPress@gmail.com
+email: SecretRoomPress@gmail.com
 q1: Our favorite riso color combo is melon and cornflower. Why, you ask? Because they look realllllllll good together! A very handsome couple o' colors that delight and charm.
 imgq1_1: 
 imgq1_2: 

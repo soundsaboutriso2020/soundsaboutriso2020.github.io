@@ -1,18 +1,21 @@
 ---
 layout: county 
 code: lil-wetransfer
+room: moon-room
+room_name: Moon Room
+roomtype: moon-room-print
+order: 1
+imgsize: l
 participant: Lil WeTransfer
 email: jefeingold@gmail.com
 artist: Lil WeTransfer
 title: We Are Us. Who Are You? 
-room: 
-type: Print
-room: room2print
+type: print
 artisturl: https://lilwe.online/
 publisher: 
 publisherurl: 
-howpurchase: I don't have a method of sale and would like to list the item on lucky risograph/zine hug's website
-producturl: lucky riso website
+howpurchase: Online Shop
+producturl: https://luckyrisograph.press/store/we-are-us-print
 img1: WeAreUs-LilWeTransfer.jpg
 img2: 
 img3: 

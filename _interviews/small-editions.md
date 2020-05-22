@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: small-editions
+room: rumble-room
 layout: interview
 participant: Small Editions
-email_address: hannah@smalleditions.nyc
+email: hannah@smalleditions.nyc
 q1: Fluorescent Pink & Medium Blue (typical, but also very versatile!)
 imgq1_1: 
 imgq1_2: 

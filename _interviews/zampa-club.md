@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: zampa-club
+room: wild-berry-room
 layout: interview
 participant: Zampa Club/Elizabeth Goodspeed
-email_address: hello@elizabethgoodspeed.com
+email: hello@elizabethgoodspeed.com
 q1: Cornflower blue!
 imgq1_1: 
 imgq1_2: 

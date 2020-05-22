@@ -3,29 +3,29 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: room
-title: Room 3
-next: /room-4
+title: Angel Wing
+next: /rumble-room
 ---
 
 <div id="room3prints"></div>
 
 
-{% assign room3print = site.works | where: 'room', 'room3print' %}
+{% assign room3print = site.works | where: 'roomtype', 'angel-wing-print' | sort: 'order' %}
 
-<div class="prints room3 flex-row space-around">
+<div class="prints room3 flex-row space-around aligncenter">
   {% for post in room3print %}
-  <div class="print product hvr-bob">
+  <div class="print product hvr-bob {{post.imgsize}}">
   	 <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/products/{{post.img1}}"></a>
 </div>
   {% endfor %}
 </div>
 
 <div id="room3zines" class="full-width">
-{% assign room3zine = site.works | where: 'room', 'room3zine' %}
+{% assign room3zine = site.works | where: 'roomtype', 'angel-wing-zine' | sort: 'order' %}
 
-<div class="zines room3 flex-row space-around">
+<div class="zines room3 flex-row space-around aligncenter">
   {% for post in room3zine %}
-   <div class="zine product hvr-float">
+   <div class="zine product hvr-bob {{post.imgsize}}">
   	 <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/products/{{post.img1}}"></a>
 </div>
   {% endfor %}

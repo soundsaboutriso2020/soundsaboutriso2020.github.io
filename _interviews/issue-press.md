@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: issue-press
+room: solarium
 layout: interview
 participant: Issue Press
-email_address: info@issue.press
+email: info@issue.press
 q1: Fluorescent Orange & Light Teal
 imgq1_1: 
 imgq1_2: 

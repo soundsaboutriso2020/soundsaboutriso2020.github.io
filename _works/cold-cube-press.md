@@ -1,15 +1,18 @@
 ---
 layout: county 
 code: cold-cube-press
+room: solarium
+room_name: Solarium
+roomtype: solarium-zine
+order: 1
+imgsize: m
 participant: Cold Cube Press
 email: coldcubepress@gmail.com
 artist: Cynthia Alfonso
 title: The One Who Weeps
-room: 
 type: zine
-room: room1zine
 artisturl: http://www.coldcubepress.com/shop/the-one-who-weeps-cynthia-alfonso
-publisher: Cold Cube Press
+publisher: 
 publisherurl: http://www.coldcubepress.com/
 howpurchase: Online Shop
 producturl: http://www.coldcubepress.com/shop/the-one-who-weeps-cynthia-alfonso
@@ -25,5 +28,5 @@ desc: Cynthia Alfonso’s The One Who Weeps is a visual examination of the cycle
 size: 7.25" x 10"
 color: Red, Black, Aqua, Yellow
 specs: 48 pages, perfect bound, soft-touch laminate on cover 
-temp_notes: not necessary, but the description on cold cube press uses a colon- "The book itself is about a persistent cycle of instability– that each day must be spent reconstructing the past in order to move forward through grief and fear." and our description uses a "-"
+temp_notes: 
 ---

@@ -1,9 +1,10 @@
 ---
 layout: county 
-code: jecelyn-tsaih
+code: jocelyn-tsaih
+room: angel-wing
 layout: interview
 participant: Jocelyn Tsaih
-email_address: jocelyntsaih@gmail.com
+email: jocelyntsaih@gmail.com
 q1: 
 imgq1_1: 
 imgq1_2: 

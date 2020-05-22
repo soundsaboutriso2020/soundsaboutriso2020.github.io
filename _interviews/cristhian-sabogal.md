@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: cristhian-sabogal
+room: rumble-room
 layout: interview
 participant: Cristhian Sabogal
-email_address: sabogalcc@gmail.com
+email: sabogalcc@gmail.com
 q1: gold / black 
 imgq1_1: 
 imgq1_2: 

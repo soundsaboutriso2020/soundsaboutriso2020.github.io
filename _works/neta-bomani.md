@@ -1,17 +1,20 @@
 ---
 layout: county 
 code: neta-bomani
+room: angel-wing
+room_name: Angel Wing
+roomtype: angel-wing-zine
+order: 3
+imgsize: s
 participant: Neta Bomani
 email: netanyabomani@gmail.com
-artist: mariame kaba and neta bomani
+artist: Mariame Kaba and Neta Bomani
 title: Groundhog Day–The Killing of Bonita Carter
-room: 
 type: zine
-room: room3zine
 artisturl: http://usprisonculture.com
 publisher: Irrelevant Press
 publisherurl: http://irrelevantpress.com
-howpurchase: Screenshot of donation to Survived & Punish mutual aid fund for digital download
+howpurchase: Email screenshot of donation to Survived & Punish mutual aid fund for digital download
 producturl: Venmo @netabomani 
 img1: BonitaCarter-NetaBomani01.jpg
 img2: BonitaCarter-NetaBomani02.png

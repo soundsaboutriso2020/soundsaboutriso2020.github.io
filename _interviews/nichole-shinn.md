@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: nichole-shinn
+room: wild-berry-room
 layout: interview
 participant: Nichole Shinn
-email_address: nshinn42@gmail.com
+email: nshinn42@gmail.com
 q1: My favorite riso color is probably florescent pink or florescent orange as they mix really nice with other colors.
 imgq1_1: 
 imgq1_2: 

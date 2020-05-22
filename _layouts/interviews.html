@@ -23,14 +23,13 @@
 
     <div class="interview-container">
 
-		<div class="courier" id="interview">Interviews</div> <br><br>
+		<div class="courier" id="interview">Interviews</div><br><br>
 
-   {% include interviews.svg %} <br><br>
 	{% assign interviews = site.interviews | sort: 'participant' %}
   {% for book in interviews %}
 
     	<a href="{{site.baseurl}}{{book.url}}" class="url">{{book.participant}} {% include linksvg.html %}
-    	</a> / 
+    	</a>  /
 
   {% endfor %}
 </div>

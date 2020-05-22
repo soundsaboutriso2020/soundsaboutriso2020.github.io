@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: cold-cube-press
+room: solarium
 layout: interview
 participant: Cold Cube Press
-email_address: coldcubepress@gmail.com
+email: coldcubepress@gmail.com
 q1: tough question! We love Light Teal + Red + Yellow. As for a single color, we love Mint! 
 imgq1_1: ColdCube_Q1.jpg
 imgq1_2: 

@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: woolly-press
+room: palm-room
+room_name: Palm Room
+roomtype: palm-room-zine
+order: 1
+imgsize: s
 participant: Woolly Press
 email: info@woollypress.com
 artist: Colin Sutherland
 title: That's Better
-room: 
 type: zine
-room: room5zine
 artisturl: http://www.colinsutherland.com/
 publisher: Woolly Press
 publisherurl: https://www.woollypress.com/

@@ -1,18 +1,21 @@
 ---
 layout: county 
 code: jeong-lee
+room: palm-room
+room_name: Palm Room
+roomtype: palm-room-print
+order: 4
+imgsize: s
 participant: Jeong Lee
 email: yjn0al@gmail.com
-artist: jeong lee
-title: sweet dreams of passion thru the night
-room: 
-type: Print
-room: room2print
+artist: Jeong Lee
+title: Sweet Dreams Of Passion Thru The Night
+type: print
 artisturl: http://jeonglee.space
 publisher: 
 publisherurl: 
-howpurchase: venmo @NRBking
-producturl: venmo preferred @NRBking; or DM ig @yourlocalpreacher
+howpurchase: Venmo @NRBking
+producturl: https://venmo.com/NRBking
 img1: SweetDreams-JeongLee.jpg
 img2: 
 img3: 

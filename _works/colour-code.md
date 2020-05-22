@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: colour-code
+room: solarium
+room_name: Solarium
+roomtype: solarium-zine
+order: 4
+imgsize: m
 participant: Colour Code
 email: info@colourcodeprinting.com
 artist: Juli Majer
 title: Stone/Star Bloom/Loop
-room: 
 type: zine
-room: room1zine
 artisturl: https://www.instagram.com/julimajer/
 publisher: Colour Code
 publisherurl: https://shop.colourcodeprinting.com/

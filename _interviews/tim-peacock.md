@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: tim-peacock
+room: rumble-room
 layout: interview
 participant: Tim Peacock
-email_address: PEACOCKDRAWS@GMAIL.COM
+email: PEACOCKDRAWS@GMAIL.COM
 q1: Teal+Red~50% and Fluorescent Pink+Orange 100% for a real color blast 
 imgq1_1: 
 imgq1_2: 

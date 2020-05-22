@@ -1,18 +1,21 @@
 ---
 layout: county 
 code: somnath-bhatt
+room: angel-wing
+room_name: Angel Wing
+roomtype: angel-wing-print
+order: 2
+imgsize: l
 participant: Somnath Bhatt
 email: somnath@somnathbhatt.com
 artist: Somnath Bhatt
-title: Radiant Being
-room: 
-type: Print
-room: room4print
+title: Wave / Shrine
+type: print
 artisturl: https://www.instagram.com/m0henjodaro/?hl=en
 publisher: 
 publisherurl: https://www.instagram.com/m0henjodaro/?hl=en
-howpurchase: I don't have a method of sale and would like to list the item on lucky risograph/zine hug's website
-producturl: https://www.instagram.com/m0henjodaro/?hl=en
+howpurchase: Online Shop
+producturl: https://luckyrisograph.press/store/radiant-being
 img1: RadiantBeing-SomnathBhatt.jpg
 img2: 
 img3: 

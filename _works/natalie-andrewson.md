@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: natalie-andrewson
+room: wild-berry-room
+room_name: Wild Berry Room
+roomtype: wild-berry-room-print
+order: 3
+imgsize: m
 participant: Natalie Andrewson
 email: natalieandrewson@gmail.com
 artist: Natalie Andrewson
-title: Little Fantasy World' Print
-room: 
-type: Print
-room: room3print
+title: Little Fantasy World
+type: print
 artisturl: https://www.instagram.com/natandrewson/
 publisher: 
 publisherurl: 

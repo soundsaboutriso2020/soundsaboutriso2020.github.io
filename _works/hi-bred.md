@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: hi-bred
+room: palm-room
+room_name: Palm Room
+roomtype: palm-room-print
+order: 2
+imgsize: l
 participant: Hi-Bred
 email: ian@hi-bred.net
 artist: Ian Mackay
 title: Women with figs
-room: 
-type: Print
-room: room1print
+type: print
 artisturl: https://www.hi-bred.net/
 publisher: Hi-Bred
 publisherurl: 

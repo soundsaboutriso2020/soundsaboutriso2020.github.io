@@ -1,25 +1,28 @@
 ---
 layout: county 
 code: chuck-kuan
+room: rumble-room
+room_name: Rumble Room
+roomtype: rumble-room-print
+order: 1
+imgsize: m
 participant: Chuck Kuan
-email: 
+email: chuck.kuan@gmail.com
 artist: Chuck Kuan
-title: 
-room: 
-type: 
-room: 
-artisturl: 
-publisher: 
-publisherurl: 
-howpurchase: 
+title: No Sweat
+type: print
+artisturl: https://instagram.com/duckduck.chuck
+publisher: Lucky Risograph
+publisherurl: luckyrisograph.press
+howpurchase: Online Shop
 producturl: 
-img1: 
+img1: NoSweat-ChuckKuan.jpg
 img2: 
 img3: 
 img4: 
 img5: 
 img6: 
-year: 
+year: 2020
 price: 
 desc: 
 size: 

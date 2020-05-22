@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: jeong-lee
+room: palm-room
 layout: interview
 participant: Jeong Lee
-email_address: yjn0al@gmail.com
+email: yjn0al@gmail.com
 q1: blue/fluo pink/yellow or black/aqua/fluo pink/yellow
 imgq1_1: 
 imgq1_2: 

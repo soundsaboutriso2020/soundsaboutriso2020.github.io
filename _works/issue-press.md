@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: issue-press
+room: solarium
+room_name: Solarium
+roomtype: solarium-zine
+order: 2
+imgsize: xl
 participant: Issue Press
 email: info@issue.press
 artist: Clay Hickson
 title: Every Good Boy Deserves Fudge
-room: 
 type: zine
-room: room2zine
 artisturl: https://instagram.com/clayhickson
 publisher: Issue Press
 publisherurl: https://issue.press

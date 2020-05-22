@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: chris-lucero
+room: palm-room
+room_name: Palm Room
+roomtype: palm-room-print
+order: 1
+imgsize: l
 participant: Chris Lucero
 email: 
 artist: Chris Lucero
-title: 
-room: 
-type: 
-room: 
+title: Oasis
+type: print
 artisturl: 
 publisher: 
 publisherurl: 

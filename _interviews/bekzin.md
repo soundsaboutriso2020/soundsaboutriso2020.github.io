@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: bekzin
+room: angel-wing
 layout: interview
 participant: Bekzin
-email_address: bekzin@bekzin.com
+email: bekzin@bekzin.com
 q1: I'm really into the deep green color that 'Teal' and 'Yellow' make these days. It gives a nice grain and the right level of saturation. It was the perfect shade of green for the avocados.
 imgq1_1: 
 imgq1_2: 

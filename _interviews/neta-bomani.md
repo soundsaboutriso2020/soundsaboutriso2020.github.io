@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: neta-bomani
+room: angel-wing
 layout: interview
 participant: Neta Bomani
-email_address: netanyabomani@gmail.com
+email: netanyabomani@gmail.com
 q1: Really into brown plus another vibrant color. Looking forward to experimenting with brown and hot pink.
 imgq1_1: 
 imgq1_2: 

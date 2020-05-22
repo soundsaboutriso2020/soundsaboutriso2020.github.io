@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: macolen
+room: wild-berry-room
 layout: interview
 participant: Macolen
-email_address: hola@macolen.com
+email: hola@macolen.com
 q1: Bright red + medium blue 
 imgq1_1: 
 imgq1_2: 

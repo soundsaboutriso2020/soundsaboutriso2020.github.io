@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: gender-fail
+room: rumble-room
+room_name: Rumble Room
+roomtype: rumble-room-zine
+order: 2
+imgsize: m
 participant: Gender Fail
 email: genderfailproject@gmail.com
 artist: Liz Barr
 title: Body Works
-room: 
 type: zine
-room: room1zine
 artisturl: https://www.instagram.com/lizbarrrr/?hl=en
 publisher: GenderFail
 publisherurl: http://genderfailpress.com/

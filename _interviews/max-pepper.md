@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: max-pepper
+room: moon-room
 layout: interview
 participant: Max Pepper
-email_address: maxwellpepper@gmail.com
+email: maxwellpepper@gmail.com
 q1: Tough one! Teal and orange is a great, and a somewhat lesser used combo. Purple and green is also fun. Combining new colors is half the fun for me! (Bonus, for a more deluxe look, I'm a big fan of gold ink on dark paper!)
 imgq1_1: MaxPepper_Q1.jpg
 imgq1_2: 

@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: kevin-vq-dam
+room: palm-room
 layout: interview
 participant: Kevin VQ Dam
-email_address: kevin@kevinvqdam.com
+email: kevin@kevinvqdam.com
 q1: Fluorescent Pink and anything.
 imgq1_1: 
 imgq1_2: 
@@ -28,5 +29,5 @@ imgq5:
 q6: 
 imgq6: 
 q7: 
-imgq7: KavinDam_Q7.jpg
+imgq7: KevinDam_Q7.jpg
 ---

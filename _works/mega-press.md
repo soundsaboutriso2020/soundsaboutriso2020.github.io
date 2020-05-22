@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: mega-press
+room: angel-wing
+room_name: Angel Wing
+roomtype: angel-wing-zine
+order: 1
+imgsize: m
 participant: Mega Press/Panayiotis Terzis
 email: panterzis@gmail.com
-artist: Various Artists2
+artist: Various Artists
 title: An Unknown Power
-room: 
 type: zine
-room: room2zine
 artisturl: http://www.mega-press.us/
 publisher: Mega Press
 publisherurl: https://www.instagram.com/mmegapress/?hl=en

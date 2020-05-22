@@ -1,18 +1,21 @@
 ---
 layout: county 
 code: rose-wong
+room: wild-berry-room
+room_name: Wild Berry Room
+roomtype: wild-berry-room-zine
+order: 3
+imgsize: s
 participant: Rose Wong
 email: rosewongart@gmail.com
 artist: Rose Wong
 title: Okay Okay
-room: 
 type: zine
-room: room3zine
 artisturl: http://www.rosewongart.com
 publisher: 
 publisherurl: 
 howpurchase: Email
-producturl: http://rosewongart.com
+producturl: mailto:rosewongart@gmail.com?subject=Sounds About Riso .Online Print Purchase
 img1: OkayOkay-RoseWong01.png
 img2: OkayOkay-RoseWong02.jpg
 img3: OkayOkay-RoseWong03.jpg

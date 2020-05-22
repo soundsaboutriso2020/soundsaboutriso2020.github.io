@@ -15,20 +15,21 @@
 	<div class="left-fair-nav">
 <!-- 			<div class="mobile-menu">
  -->
-		<div class="courier-main"> Go to: </div>
+		<div class="courier-main go-to"> Go to: </div>
 	<div class="button-container b2 dropdown">
     <button class="dropbtn button dotted"> {{page.title}} <span class="arrow">{% include down-arrow.svg %}</span>  </button>
     <div class="dropdown-content">
-    	<a href="{{site.baseurl}}/room-1">Room 1</a>
-      <a href="{{site.baseurl}}/room-2">Room 2</a>
-      <a href="{{site.baseurl}}/room-3">Room 3</a>
-      <a href="{{site.baseurl}}/room-4">Room 4</a>
-      <a href="{{site.baseurl}}/room-5">Room 5</a>
+    	<a href="{{site.baseurl}}/solarium">Solarium</a>
+      <a href="{{site.baseurl}}/moon-room">Moon Room</a>
+      <a href="{{site.baseurl}}/angel-wing">Angel Wing</a>
+      <a href="{{site.baseurl}}/rumble-room">Rumble Room</a>
+      <a href="{{site.baseurl}}/palm-room">Palm Room</a>
+            <a href="{{site.baseurl}}/wild-berry-room">Wild Berry Room</a>
       <a href="{{site.baseurl}}/interviews">Interview Palace</a>
     </div>
   </div> 
   <div class="button-container b3 courier">
-    <button class="button dotted b3glow courier hvr-grow">
+    <button class="button dotted b3glow courier hvr-grow" style="background-color: {{page.background-color}}">
 		<a href="{{site.url}}{{page.next}}" class="flex-row space-around">Next Room {% include door.svg %}</a>
 	</button>
 	</div>

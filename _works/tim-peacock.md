@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: tim-peacock
+room: rumble-room
+room_name: Rumble Room
+roomtype: rumble-room-print
+order: 3
+imgsize: l
 participant: Tim Peacock
 email: peacockdraws@gmail.com
 artist: Tim Peacock
 title: Village
-room: 
-type: Print
-room: room4print
+type: print
 artisturl: http://www.timpeacock.com
 publisher: 
 publisherurl: 

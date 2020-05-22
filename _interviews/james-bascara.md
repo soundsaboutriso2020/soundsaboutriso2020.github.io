@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: james-bascara
+room: rumble-room
 layout: interview
 participant: James Bascara
-email_address: jbascara@gmail.com
+email: jbascara@gmail.com
 q1: Gold
 imgq1_1: 
 imgq1_2: 

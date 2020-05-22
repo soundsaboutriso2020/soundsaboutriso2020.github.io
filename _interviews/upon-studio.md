@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: upon-studio
+room: rumble-room
 layout: interview
 participant: Upon Studio
-email_address: hey@upon.studio
+email: hey@upon.studio
 q1: I'd say Fluorescent Pink. It adds a click of light to the page and blends really well with other colors. Sometimes you get a nice new overlay color.
 imgq1_1: UponStudio_Q1_1.png
 imgq1_2: UponStudio_Q1_2.png

@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: tiny-splendor
+room: moon-room
+room_name: Moon Room
+roomtype: moon-room-print
+order: 3
+imgsize: l
 participant: Tiny Splendor
 email: info@tinysplendor.com
 artist: Max Stadnik
 title: Hot Dog
-room: 
-type: Print
-room: room4print
+type: print
 artisturl: https://www.instagram.com/tinysplendor/
 publisher: Tiny Splendor 
 publisherurl: https://www.instagram.com/tinysplendor/

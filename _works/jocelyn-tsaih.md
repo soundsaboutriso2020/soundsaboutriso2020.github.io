@@ -1,17 +1,20 @@
 ---
 layout: county 
 code: jocelyn-tsaih
+room: angel-wing
+room_name: Angel Wing
+roomtype: angel-wing-zine
+order: 4
+imgsize: l
 participant: Jocelyn Tsaih
 email: jocelyntsaih@gmail.com
 artist: Jocelyn Tsaih
 title: Belonging
-room: 
 type: zine
-room: room2zine
 artisturl: http://www.instagram.com/jocelyntsaih
 publisher: Zinehug
 publisherurl: https://www.zinehug.com/
-howpurchase: Email
+howpurchase: Online Shop
 producturl: https://www.zinehug.com/Belonging
 img1: Belonging-JocelynTsaih01.jpg
 img2: Belonging-JocelynTsaih02.jpg

@@ -1,18 +1,21 @@
 ---
 layout: county 
 code: wenting-li
+room: palm-room
+room_name: Palm Room
+roomtype: palm-room-zine
+order: 3
+imgsize: s
 participant: Wenting Li
 email: wenting.draws@gmail.com
 artist: Wenting Li 
 title: Our Lady
-room: 
 type: zine
-room: room5zine
 artisturl: https://www.wentingli.com/
 publisher: Pindot Press 
 publisherurl: https://www.pindotpress.com/
 howpurchase: Email
-producturl: wenting.draws@gmail.com
+producturl: mailto:wenting.draws@gmail.com?subject=Sounds About Riso .Online Print Purchase
 img1: OurLady-WentingLi01.jpg
 img2: OurLady-WentingLi02.jpg
 img3: 

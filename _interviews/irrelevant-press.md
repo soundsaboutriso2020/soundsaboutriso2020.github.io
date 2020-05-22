@@ -1,9 +1,10 @@
 ---
 layout: county 
 code: irrelevant-press
+room: palm-room
 layout: interview
 participant: Irrelevant Press
-email_address: irrelpress@gmail.com
+email: irrelpress@gmail.com
 q1: Pink/purple and green
 imgq1_1: 
 imgq1_2: 

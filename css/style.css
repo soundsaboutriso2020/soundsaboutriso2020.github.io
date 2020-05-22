@@ -72,7 +72,7 @@ box-shadow: 5px 5px 50px gold;
 }
 
 .space{
-	height: 15vh;
+	height: 12vh;
 }
 
 .space-short{
@@ -129,6 +129,7 @@ box-shadow: 5px 5px 50px gold;
 	background-color: yellow !important;
 	color:black !important;
 	text-decoration:underline;
+	margin-left:2vw;
 }
 
 .live:hover{
@@ -272,6 +273,9 @@ nav a{
 	color: #000;
 }
 
+.go-to{
+	margin-right: 0.5vw !important;
+}
 .courier{
 	font-weight:bold;
 	font-family: "Courier New", Courier, monospace;
@@ -386,6 +390,7 @@ background-color: #DEE6E4;}
 .event-right{
 	margin-left: 2vw;
 	height: 80vh;
+	width:40vw;
 }
 
 .twitch-video{
@@ -504,6 +509,10 @@ overflow-y: scroll;
 	width:0.75vw;
 }
 
+.doorsvg{
+	width:2vw;
+}
+
 .linksvg:hover{
 	fill:red;
 }
@@ -516,9 +525,10 @@ overflow-y: scroll;
 .interview-container{
 	text-align:center;
 	line-height: 2;
-	width:35vw;
+	width:60vw;
 	margin: 0 auto 25vh auto;
 	color:#FFFFFF;
+	font-size: 1.2em;
 }
 
 #james1{
@@ -571,18 +581,20 @@ transform: rotate(-1.5deg);
 	margin: 0 auto;
 }
 
-.product-container a{
+.product-container a,
+.back-to a{
 	color: #0078BF;
 }
 
-.product-container a:hover{
+.product-container a:hover,
+.back-to a:hover{
 	color: #D3D6BC;
 }
 
 .back-to{
 	width:100%;
 	justify-content:space-between;
-	margin-top:0vh;
+	margin-top:5vh;
 }
 
 .back-to-top{
@@ -641,16 +653,42 @@ transform: rotate(-1.5deg);
 
 /* FAIR PAGES */
 
+/*product size */
+
+.s{
+width: 9vw;
+}
+
+.m{
+	width: 12vw;
+}
+
+.l{
+	width: 15vw;
+
+}
+
+.xl{
+	width: 18vw;
+}
+
+.xxl{
+	width:20vw;
+}
 /*room 1*/
 
 .prints{
 
 }
 
+.aligncenter{
+	align-items:center;
+}
+
+
 #room1prints{
 	position:fixed;
-	background: linear-gradient(180deg, #ECDA9A 9.03%, #D96727 25.48%, #FFB511 46.05%, #ECDA9A 61.47%, #B04F19 99.45%);	
-	top:0;
+background: linear-gradient(180deg, #ECDA9A 9.03%, #D96727 25.48%, #FFB511 46.05%, #ECDA9A 61.47%, #B04F19 99.45%), #C4C4C4;	top:0;
 	left:0;
 	width:100vw;
 	height:100vh;
@@ -658,7 +696,7 @@ transform: rotate(-1.5deg);
 }
 
 #room1zines{
-background: linear-gradient(180deg, #D6C0F8 18.23%, #E6FFFA 100%);
+background: linear-gradient(180deg, #D6C0F8 53.13%, #E6FFFA 100%);;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
 	width:100vw;
 	height:auto;
@@ -678,8 +716,8 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
 }
 
 .product{
-	width:11vw;
-	height:auto;
+/*	width:11vw;
+*/	height:auto;
 }
 
 .product img{
@@ -701,11 +739,10 @@ top:0;
 	width:100vw;
 	height:100vh;
 	z-index:-2;
-background: radial-gradient(100% 100% at 100% 4.83%, #F5C3C3 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #9CBCB6 15.65%, #9D7AD2 42.59%, #FFB511 57.04%, #DADE2B 71.79%, #9D7AD2 100%);
-}
+background: linear-gradient(180deg, #779AE5 0%, #D0C4EC 98.44%);}
 
 #room2zines{
-	background: linear-gradient(180deg, #FFABBA 33.55%, #FFD986 51.56%, #D6C0F8 78.36%, #E6FFFA 100%), #FFFFFF;
+background: linear-gradient(180deg, #DBD0FD 1.56%, #7FF35D 84.91%);
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 	width:100vw;
 	height:35vh;
@@ -723,10 +760,11 @@ top:0;
 	width:100vw;
 	height:100vh;
 	z-index:-2;
-background: linear-gradient(180deg, #FF48B0 33.55%, #399CF3 71.24%, #D6C0F8 78.36%, #64FF21 85.48%);}
+background: radial-gradient(100% 100% at 100% 4.83%, #F5C3C3 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #9CBCB6 15.65%, #9D7AD2 42.59%, #FFB511 57.04%, #DADE2B 71.79%, #9D7AD2 100%);
+}
 
 #room3zines{
-background: radial-gradient(100% 100% at 100% 4.83%, #F5C3C3 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #9CBCB6 15.65%, #9D7AD2 42.59%, #FFB511 57.04%, #DADE2B 71.79%, #9D7AD2 100%);
+background: linear-gradient(180deg, #FFABBA 33.55%, #FFD986 51.56%, #D6C0F8 78.36%, #E6FFFA 100%);
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 	width:100vw;
 	height:35vh;
@@ -744,11 +782,11 @@ top:0;
 	width:100vw;
 	height:100vh;
 	z-index:-2;
-	background: linear-gradient(180deg, #ECDA9A 9.03%, #D96727 25.48%, #FFB511 46.05%, #ECDA9A 61.47%, #B04F19 99.45%);	
+background: linear-gradient(180deg, #ECDA9A 9.03%, #D96727 25.48%, #FFB511 46.05%, #ECDA9A 61.47%, #B04F19 99.45%), #C4C4C4;
 }
 
 #room4zines{
-background: radial-gradient(100% 100% at 100% 4.83%, #F5C3C3 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #9CBCB6 15.65%, #9D7AD2 42.59%, #FFB511 57.04%, #DADE2B 71.79%, #9D7AD2 100%);
+background: linear-gradient(180deg, #11133E 1.56%, #20276F 63.54%, #B2B4C5 100%);
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 	width:100vw;
 	height:35vh;
@@ -766,10 +804,33 @@ top:0;
 	width:100vw;
 	height:100vh;
 	z-index:-2;
-background: linear-gradient(180deg, #FF48B0 33.55%, #399CF3 71.24%, #D6C0F8 78.36%, #64FF21 85.48%);}
+background: linear-gradient(180deg, #E2F8A7 0%, #FFCECE 33.33%, #BF8F6D 72.4%), #C4C4C4;
+}
 
 #room5zines{
-	background: linear-gradient(180deg, #ACD1F3 0%, #C2BEDF 40.1%, #8BACEC 70.31%, #6287E4 90.1%, #C2BEDF 96.88%);
+	 background:linear-gradient(180deg, #6691D6 1.56%, #B3B8ED 63.54%, #FFD382 100%);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	width:100vw;
+	height:35vh;
+	z-index:10;
+	margin-top:5%;
+	padding-top:2%;
+}
+
+/*room 6*/
+
+#room6prints{
+	position:fixed;
+top:0;
+	left:0;
+	width:100vw;
+	height:100vh;
+	z-index:-2;
+background: linear-gradient(180deg, #FF48B0 33.55%, #399CF3 71.24%, #D6C0F8 78.36%, #C8B0C3 85.48%);
+}
+
+#room6zines{
+background: radial-gradient(100% 100% at 100% 4.83%, #F5C3C3 0%, rgba(255, 255, 255, 0) 100%), linear-gradient(180deg, #9CBCB6 15.65%, #9D7AD2 42.59%, #FFB511 71.35%, #C6C85C 91.15%);
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 	width:100vw;
 	height:35vh;
@@ -929,6 +990,14 @@ body{
 	margin-bottom: 10vh;
 }
 
+.go-to{
+	margin-right: 0vw !important;
+}
+
+.live{
+	margin-left: 0vw !important;
+}
+
 .desktop-visibility{
 	visibility:hidden;
 }
@@ -960,6 +1029,9 @@ body{
 	flex-direction:row;
 }
 
+#room{
+}
+
 .product{
 	width:84vw;
 	margin-left:6vw;
@@ -967,6 +1039,7 @@ body{
 	margin-right:auto;
 	height:auto;
 }
+
 
 #room1zines{
 	margin-bottom:25%;
@@ -992,8 +1065,9 @@ body{
 
 /*directory */
 
-.linksvg{
-	width:2vw;
+.linksvg,
+.doorsvg{
+	width:3vw;
 }
 
 .directory-container{
@@ -1014,6 +1088,7 @@ body{
 .event-right{
 	margin-left: 0;
 	margin-top:2vh;
+	width:100%;
 }
 
 .schedule-container{

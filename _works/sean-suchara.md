@@ -1,13 +1,16 @@
 ---
 layout: county 
 code: sean-suchara
+room: rumble-room
+room_name: Rumble Room
+roomtype: rumble-room-print
+order: 4
+imgsize: m
 participant: Sean Suchara
 email: seansuchara@gmail.com
 artist: Sean Suchara
 title: Percolator
-room: 
-type: Print
-room: room3print
+type: print
 artisturl: http://seansuchara.info/
 publisher: 
 publisherurl: 
