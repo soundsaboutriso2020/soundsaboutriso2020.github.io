@@ -12,6 +12,7 @@ publisher: Authorized to Work in the US Press
 publisherurl: https://www.instagram.com/authorizedtowork/
 howpurchase: Online Shop
 producturl: https://authorizedtowork.us/shop/drums-on-paper-collectors-edition/
+imgsrc: /img/products/DrumsOnPaper-AuthorizedToWork01.jpg
 img1: DrumsOnPaper-AuthorizedToWork01.jpg
 img2: DrumsOnPaper-AuthorizedToWork02.jpg
 img3: 

@@ -12,6 +12,7 @@ publisher:
 publisherurl: 
 howpurchase: Online Shop
 producturl: https://aarati.bigcartel.com/product/after-image-couple-standing
+imgsrc: /img/products/AfterImage-AaratiAkkapeddi01.jpg
 img1: AfterImage-AaratiAkkapeddi01.jpg
 img2: AfterImage-AaratiAkkapeddi02.jpg
 img3: AfterImage-AaratiAkkapeddi03.jpg

@@ -12,6 +12,7 @@ publisher:
 publisherurl: 
 howpurchase: I don't have a method of sale and would like to list the item on lucky risograph/zine hug's website
 producturl: https://luckyrisograph.press/store
+imgsrc: /img/products/CarCrash-GraceRitchie01.jpg
 img1: CarCrash-GraceRitchie01.jpg
 img2: CarCrash-GraceRitchie02.jpg
 img3: 

@@ -12,6 +12,7 @@ publisher: Hi-Bred
 publisherurl: 
 howpurchase: Online Shop
 producturl: https://www.hi-bred.net/shop/women-with-figs-risograph-print
+imgsrc: /img/products/WomenWithFigs-Hi-Bred01.jpg
 img1: WomenWithFigs-Hi-Bred01.jpg
 img2: WomenWithFigs-Hi-Bred02.jpg
 img3: WomenWithFigs-Hi-Bred03.jpg

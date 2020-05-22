@@ -12,6 +12,7 @@ publisher:
 publisherurl: 
 howpurchase: I don't have a method of sale and would like to list the item on lucky risograph/zine hug's website
 producturl: https://www.instagram.com/cristhian.sabogal/
+imgsrc: /img/products/EarthLayers-CristhianSabogal01.jpg
 img1: EarthLayers-CristhianSabogal01.jpg
 img2: EarthLayers-CristhianSabogal02.jpg
 img3: 
