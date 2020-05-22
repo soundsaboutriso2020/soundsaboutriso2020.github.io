@@ -18,6 +18,7 @@ ABOUT
 RISO
 <img src="{{site.baseurl}}/img/gif/4.gif">
 ONLINE
+<img src="{{site.baseurl}}/img/gif/6.gif">
 </div>          
 
 <span class="courier"> You’ve landed on sounds about riso .online - thank you for joining us  ੈ✩‧₊<br><br></span>
