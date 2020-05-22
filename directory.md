@@ -4,7 +4,7 @@
 
 layout: directory
 title: Directory
-next: /room-1
+next: /solarium
 
 ---
 

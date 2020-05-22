@@ -4,7 +4,7 @@
 
 layout: interviews
 title: Interview Palace
-next: /room-1
+next: /solarium
 
 ---
 
