@@ -271,7 +271,32 @@ nav a{
 	margin-top:0.5vh;
 }
 
+
 /*BACKGROUND COLORS */
+
+/* interviews pg */
+
+.interviews-page {
+/*  position:fixed;
+*/  top:0px;
+  left:0px;
+  height:100%;
+  width:100%;
+  
+  /*Fallback if gradeints don't work */
+  background: #9b59b6;
+  /*Linear gradient... */
+  background: 
+    radial-gradient(
+     at center, #09783c, #a9e0df
+    );
+}
+
+/*interview page */
+
+.interview-page{
+	background-color: #A5B3E3;
+}
 
 /* event bg */
 
@@ -476,6 +501,68 @@ box-shadow: 10px 10px 50px rgba(164, 27, 133, 0.5);
 	fill:red;
 }
 
+/*interviews page */
+
+#interview{
+	color: #fff;
+}
+.interview-container{
+	text-align:center;
+	line-height: 2;
+	width:35vw;
+	margin: 0 auto 25vh auto;
+	color:#FFFFFF;
+}
+
+#james1{
+	width:20vw;
+}
+
+.interview-container a{
+	color:#fff;
+	font-family: "Courier New", Courier, monospace;
+	font-weight: bold;
+	text-transform:uppercase;
+}
+
+.interview-container svg{
+	fill:#fff;
+}
+
+
+.url:hover{
+	color: red !important;
+	fill:red !important;
+}
+
+/* interview page */
+
+.interviewh1{
+	font-size:1.5em;
+}
+
+.qa{
+	margin: 10vh 0;
+	width:80vw;
+}
+
+.question{
+margin: 0 0 5vh 0;
+transform: rotate(-1.5deg);
+font-size: 1.25em;
+}
+
+.answer{
+	font-size:1.5em;
+	font-family: "Courier New", Courier, monospace;
+	width:600px;
+}
+
+.qa-images{
+	width:30%;
+	margin-left:10vw;
+}
+
 /* product page */
 
 .product-container{
@@ -678,11 +765,6 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 	padding-top:2%;
 }
 
-/* interview styles */
-
-.qa-images{
-	width:20vw;
-}
 
 
 /* modal mobile*/
@@ -711,7 +793,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   	padding-bottom:3vh;
   }
 
-.hello{
+.bottom-margin{
 	    	  	margin-bottom:15vh;
 }
 
@@ -847,6 +929,51 @@ body{
 .button-container{
 }
 
+/*interviews page */
+
+.interview-container{
+	text-align:center;
+	line-height: 2;
+	width:90vw;
+	margin: 0 auto 25vh auto;
+	color:#FFFFFF;
+}
+
+#james1{
+	width:60vw;
+}
+
+
+/* interview page */
+
+
+
+.interviewh1{
+	font-size:1.5em;
+}
+
+.qa{
+	margin: 10vh 0;
+	width:96vw;
+}
+
+.question{
+margin: 0 0 5vh 0;
+transform: rotate(-1.5deg);
+font-size: 1.25em;
+}
+
+.answer{
+	font-size:1em;
+	font-family: "Courier New", Courier, monospace;
+	width:auto;
+}
+
+.qa-images{
+	width:96vw;
+	margin-left:0;
+	margin-top:10vh;
+}
 
 }
 

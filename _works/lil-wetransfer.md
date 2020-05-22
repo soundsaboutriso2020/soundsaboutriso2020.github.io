@@ -5,6 +5,7 @@ participant: Lil WeTransfer
 email: jefeingold@gmail.com
 artist: Lil WeTransfer
 title: We Are Us. Who Are You? 
+room: 
 type: Print
 room: room2print
 artisturl: https://lilwe.online/
@@ -20,8 +21,9 @@ img5:
 img6: 
 year: 2020
 price: 10
-desc: 4 color risograph print, designed by Lil WeTransfer studio (Julia Feingold & Logan Heffernan) 
+desc: 3 color risograph print, designed by Lil WeTransfer studio (Julia Feingold & Logan Heffernan) 
 size: 11" x 17"
 color: Flo Pink, Federal Blue, Kelly Green, & Violet
 specs: 
+temp_notes: 
 ---

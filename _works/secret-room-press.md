@@ -5,6 +5,7 @@ participant: Secret Room Press
 email: SecretRoomPress@gmail.com
 artist: Secret Room
 title: Secret Rag 3-Pack
+room: 
 type: zine
 room: room4zine
 artisturl: http://secretroompress.com
@@ -24,4 +25,5 @@ desc: Secret Rag is our quarterly-ish showcase of fun art, comics, and activitie
 size: 11" x 17"
 color: cornflower, melon, orchid
 specs: Super fun, cool to read, makes you cool to share with your friends.
+temp_notes: 
 ---

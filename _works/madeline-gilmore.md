@@ -5,6 +5,7 @@ participant: Madeline Gilmore
 email: gilmore.maddie@gmail.com
 artist: Chuck Kuan, Ritu Ghiya, Madeline Gilmore, and Daniel Hardisty
 title: Ring & Tuscany
+room: 
 type: Print
 room: room3print
 artisturl: https://www.instagram.com/volumepoetry/
@@ -24,4 +25,5 @@ desc: A collaboration between Volume magazine and lucky risograph, this edition 
 size: 10.5 x 3.75 in (x2)
 color: mint, yellow, fluo pink, fluo orange
 specs: 
+temp_notes: would look better with just 1 of the prints as the thumbnail -- right now image is too small to see either
 ---

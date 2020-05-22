@@ -5,6 +5,7 @@ participant: Amanda Chung
 email: 
 artist: Amanda Chung
 title: 
+room: 
 type: 
 room: 
 artisturl: 
@@ -24,4 +25,5 @@ desc:
 size: 
 color: 
 specs: 
+temp_notes: 
 ---

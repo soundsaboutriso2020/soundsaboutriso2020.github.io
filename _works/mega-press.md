@@ -5,6 +5,7 @@ participant: Mega Press/Panayiotis Terzis
 email: panterzis@gmail.com
 artist: Various Artists2
 title: An Unknown Power
+room: 
 type: zine
 room: room2zine
 artisturl: http://www.mega-press.us/
@@ -24,4 +25,5 @@ desc: Androgynous angelic beings emerge from blinding white light. A commanding 
 size: 7.87" × 10.2" × .5"
 color: Black, Fluorescent Pink, Yellow, Blue, Cornflower, Bright Red, Metallic Gold, Light Teal, Violet, Orange, Green
 specs: Contributors include, in order of appearance- Robert Beatty, HOPE, Drew Miller, Lando, Baptiste Virot, Brie Moreno, Bluetooth, Matt Lock, Ron Rege Jr., Ben Marcus, Jinhee Han, Juli Majer & Cristian Hernandez, Enormous Face/Kalan Sherrard, Joel Skavdahl/Seagull Invasion, Lilli Carre, Kari Cholnoky, Margot Ferrick, Leon Sadler, Panayiotis Terzis, Nichole Shinn, Hayley Dawn Miur
+temp_notes: 
 ---

@@ -5,6 +5,7 @@ participant: Zampa Club/Elizabeth Goodpseed
 email: zampaaa.club@gmail.com
 artist: Elizabeth Goodspeed 
 title: Jello
+room: 
 type: Print
 room: room5print
 artisturl: http://elizabethgoodspeed.com/
@@ -24,4 +25,5 @@ desc: A print highlighting the peculiarity and ever-changing depictions of jello
 size: 9” x 12”
 color: fluo pink, yellow, black, and mint
 specs: 
+temp_notes: 
 ---

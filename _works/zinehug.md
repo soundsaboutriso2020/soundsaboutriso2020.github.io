@@ -5,6 +5,7 @@ participant: Zinehug
 email: 
 artist: Zinehug
 title: 
+room: 
 type: 
 room: 
 artisturl: 
@@ -24,4 +25,5 @@ desc:
 size: 
 color: 
 specs: 
+temp_notes: 
 ---

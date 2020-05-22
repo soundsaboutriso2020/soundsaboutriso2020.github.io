@@ -5,6 +5,7 @@ participant: Secret Riso Club
 email: secretrisoclub@gmail.com
 artist: Gonzalo Guerrero
 title: Action
+room: 
 type: Print
 room: room3print
 artisturl: https://www.instagram.com/secret_riso_club/?hl=en
@@ -24,4 +25,5 @@ desc: Action poster is an experimentation with gradients, printed using a CYMK s
 size: 11" x 17"
 color: Bright Red, Yellow, Medium Blue, Black
 specs: 
+temp_notes: 
 ---

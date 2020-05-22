@@ -5,6 +5,7 @@ participant: Perfectly Acceptable Press
 email: info@perfectly-acceptable.com
 artist: Daria Tessler
 title: Loop of the Sun
+room: 
 type: zine
 room: room3zine
 artisturl: http://www.animalsleepstories.com
@@ -24,4 +25,5 @@ desc: Daria Tessler presents "An Ancient Egyptian Creation Myth As Pieced Togeth
 size: 10" x 13"
 color: Light Teal, Fluorescent Pink, Yellow, Black
 specs: Spiral bound; laser cut, letterpress printed covers
+temp_notes: 
 ---

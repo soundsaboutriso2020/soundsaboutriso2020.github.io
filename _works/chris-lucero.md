@@ -5,6 +5,7 @@ participant: Chris Lucero
 email: 
 artist: Chris Lucero
 title: 
+room: 
 type: 
 room: 
 artisturl: 
@@ -24,4 +25,5 @@ desc:
 size: 
 color: 
 specs: 
+temp_notes: 
 ---

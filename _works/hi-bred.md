@@ -5,6 +5,7 @@ participant: Hi-Bred
 email: ian@hi-bred.net
 artist: Ian Mackay
 title: Women with figs
+room: 
 type: Print
 room: room1print
 artisturl: https://www.hi-bred.net/
@@ -12,7 +13,6 @@ publisher: Hi-Bred
 publisherurl: 
 howpurchase: Online Shop
 producturl: https://www.hi-bred.net/shop/women-with-figs-risograph-print
-imgsrc: /img/products/WomenWithFigs-Hi-Bred01.jpg
 img1: WomenWithFigs-Hi-Bred01.jpg
 img2: WomenWithFigs-Hi-Bred02.jpg
 img3: WomenWithFigs-Hi-Bred03.jpg
@@ -25,4 +25,5 @@ desc: This 3-color risograph print is part of my Neu Renaissance series.
 size: 11" x 11"
 color: Yellow, fluorescent pink, blue
 specs: Printed on Cougar Natural 80 lb. paper; edition of 100; signed and numbered by the artist.
+temp_notes: 
 ---

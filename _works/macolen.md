@@ -5,6 +5,7 @@ participant: Macolen
 email: hola@macolen.com
 artist: Alejandra Ballesteros
 title: Amanecer / Atardecer
+room: 
 type: Print
 room: room2print
 artisturl: https://www.instagram.com/aleebaes/
@@ -12,7 +13,7 @@ publisher: MACOLEN & KEVELYN
 publisherurl: https://www.instagram.com/_macolen/
 howpurchase: Online Shop
 producturl: https://tienda.macolen.com/product/alejandra-ballesteros
-img1: AtardecerAmanecer-Macolen
+img1: AtardecerAmanecer-Macolen.jpg
 img2: 
 img3: 
 img4: 
@@ -24,4 +25,5 @@ desc: Amazing illustration by Alejandra Ballesteros, a Mexican artist. One of ma
 size: 11" x 11"
 color: Yellow, Bright Red, Medium blue, Black
 specs: your wildest dreams, Made with love
+temp_notes: 
 ---

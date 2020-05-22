@@ -5,6 +5,7 @@ participant: Sean Suchara
 email: seansuchara@gmail.com
 artist: Sean Suchara
 title: Percolator
+room: 
 type: Print
 room: room3print
 artisturl: http://seansuchara.info/
@@ -24,4 +25,5 @@ desc: ~sounds of coffee percolating~
 size: 8.5" x 11"
 color: Cornflower, Black, Pink & Melon
 specs: 
+temp_notes: 
 ---

@@ -1,28 +1,39 @@
 <!DOCTYPE html>
-<html lang="en-ca" id="html">
+<html lang="en-ca" id="html" class="interviews-page">
 
 {% include head.html %}
 
-
-<body onload="setInterval(step,100)">
+<script>
+  $(document).mousemove(function(event) {
+  windowWidth = $(window).width();
+  windowHeight = $(window).height();
+  
+  mouseXpercentage = Math.round(event.pageX / windowWidth * 100);
+  mouseYpercentage = Math.round(event.pageY / windowHeight * 100);
+  
+  $('.interview-page').css('background', 'radial-gradient(at ' + mouseXpercentage + '% ' + mouseYpercentage + '%, #09783c, #a9e0df)');
+});
+</script>
+<body>
 
 <html>
   <body>
 {% include fair-nav.html %}
     {% include modal.html %}    <div class="space"></div>
 
+    <div class="interview-container">
 
-		<div >
-			Interview
-		</div>
+		<div class="courier" id="interview">Interviews</div> <br><br>
 
+   {% include interviews.svg %} <br><br>
 	{% assign interviews = site.interviews | sort: 'participant' %}
   {% for book in interviews %}
 
-    	<a href="{{site.baseurl}}{{book.url}}">{{book.participant}} {% include linksvg.html %}
-    	</a>
+    	<a href="{{site.baseurl}}{{book.url}}" class="url">{{book.participant}} {% include linksvg.html %}
+    	</a> / 
 
   {% endfor %}
+</div>
 
 {% include footer.html %}
 

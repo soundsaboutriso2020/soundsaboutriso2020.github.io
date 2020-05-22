@@ -5,6 +5,7 @@ participant: Riso Hell
 email: risohellpress@gmail.com
 artist: Brandon Bandy
 title: Teenage Witch
+room: 
 type: zine
 room: room3zine
 artisturl: http://brandonbandy.com
@@ -24,4 +25,5 @@ desc: Artist book by Brandon Bandy exploring the continuation and recycling of i
 size: 7" x 8.5"
 color: Black, Orchid, Blue, Aqua, Kelly Green, Yellow, Orange, Red, Bubble Gum, Fluo Pink
 specs: 44 pages
+temp_notes: 
 ---

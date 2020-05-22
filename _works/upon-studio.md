@@ -5,6 +5,7 @@ participant: Upon Studio
 email: hey@upon.studio
 artist: Ivy Zheyu Chen
 title: Smiley
+room: 
 type: zine
 room: room4zine
 artisturl: https://upon.studio/
@@ -24,4 +25,5 @@ desc: Smiley, a bit creepy, isn't it?
 size: 8.3'' x 5.4''
 color: yellow, black
 specs: 
+temp_notes: 
 ---

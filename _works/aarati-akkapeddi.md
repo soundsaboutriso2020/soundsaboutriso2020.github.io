@@ -5,6 +5,7 @@ participant: Aarati Akkapeddi
 email: aarati.akkapeddi@gmail.com
 artist: Aarati Akkapeddi
 title: After Image - Couple Standing
+room: 
 type: Print
 room: room1print
 artisturl: http://aarati.me/
@@ -12,7 +13,6 @@ publisher:
 publisherurl: 
 howpurchase: Online Shop
 producturl: https://aarati.bigcartel.com/product/after-image-couple-standing
-imgsrc: /img/products/AfterImage-AaratiAkkapeddi01.jpg
 img1: AfterImage-AaratiAkkapeddi01.jpg
 img2: AfterImage-AaratiAkkapeddi02.jpg
 img3: AfterImage-AaratiAkkapeddi03.jpg
@@ -25,4 +25,5 @@ desc: Gold Risograph (on matte black paper) print of computationally averaged si
 size: 9" x 12"
 color: Metallic Gold
 specs: 
+temp_notes: 
 ---

@@ -5,6 +5,7 @@ participant: Issue Press
 email: info@issue.press
 artist: Clay Hickson
 title: Every Good Boy Deserves Fudge
+room: 
 type: zine
 room: room2zine
 artisturl: https://instagram.com/clayhickson
@@ -24,4 +25,5 @@ desc: Every Good Boy Deserves Fudge is the culmination of a multi-year explorati
 size: 10" x 8"
 color: Aqua, Fluorescent Orange, Fluorescent Pink, Fluorescent Red, Fluorescent Yellow, Orchid
 specs: 
+temp_notes: 
 ---

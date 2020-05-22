@@ -5,6 +5,7 @@ participant: Bekzin
 email: bekzin@bekzin.com
 artist: Bekzin
 title: The book of Avocado Toast
+room: 
 type: zine
 room: room1zine
 artisturl: https://instagram.com/bekzinart
@@ -24,4 +25,5 @@ desc: A short story about what ‘avocado toast means’ had become for the arti
 size: 4" x 6"
 color: Fluorescent Pink, Yellow, Black, Teal
 specs: 4x6 in, 24pages with cover digital, 4 color Risograph
+temp_notes: 1. description? may need to adjust wording. 2. only 1 image showing up 3. table image could maybe be cropped
 ---

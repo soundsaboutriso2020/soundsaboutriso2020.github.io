@@ -5,6 +5,7 @@ participant: Woolly Press
 email: info@woollypress.com
 artist: Colin Sutherland
 title: That's Better
+room: 
 type: zine
 room: room5zine
 artisturl: http://www.colinsutherland.com/
@@ -24,4 +25,5 @@ desc: That’s Better is a beautiful children’s book written and illustrated b
 size: 5" x 11"
 color: sunflower, blue, light lime, black
 specs: 
+temp_notes: 
 ---

@@ -5,6 +5,7 @@ participant: Tiny Splendor
 email: info@tinysplendor.com
 artist: Max Stadnik
 title: Hot Dog
+room: 
 type: Print
 room: room4print
 artisturl: https://www.instagram.com/tinysplendor/
@@ -24,4 +25,5 @@ desc: Hot Dogs & Apple Pie
 size: 11" x 17"
 color: yellow, pink, red, green, aqua, blue & black
 specs: 
+temp_notes: 
 ---

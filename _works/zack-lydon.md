@@ -5,6 +5,7 @@ participant: Zack Lydon
 email: 
 artist: Zack Lydon
 title: 
+room: 
 type: 
 room: 
 artisturl: 
@@ -24,4 +25,5 @@ desc:
 size: 
 color: 
 specs: 
+temp_notes: 
 ---

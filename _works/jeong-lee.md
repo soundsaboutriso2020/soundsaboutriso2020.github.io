@@ -5,6 +5,7 @@ participant: Jeong Lee
 email: yjn0al@gmail.com
 artist: jeong lee
 title: sweet dreams of passion thru the night
+room: 
 type: Print
 room: room2print
 artisturl: http://jeonglee.space
@@ -24,4 +25,5 @@ desc: "I want to get into motion, A better devotion, So I can make it through th
 size: 4.25" x 5.5"
 color: cornflower / fluorescent pink / yellow
 specs: 
+temp_notes: 
 ---

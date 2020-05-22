@@ -5,6 +5,7 @@ participant: Min Heo
 email: heejeminheo@gmail.com
 artist: Min Heo
 title: Emotional Support System
+room: 
 type: Print
 room: room3print
 artisturl: https://www.minstudio.us
@@ -24,4 +25,5 @@ desc: Hugging bunnies in a warm embrace :)
 size: 8.125" x 8.125"
 color: Yellow/Black
 specs: Pages- 104 Edition of 500 with 25 printer's proofs. Color may vary depending on screen.
+temp_notes: 
 ---

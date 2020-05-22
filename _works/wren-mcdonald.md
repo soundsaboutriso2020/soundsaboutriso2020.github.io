@@ -5,6 +5,7 @@ participant: Wren McDonald
 email: wrenxmcdonald@gmail.com
 artist: Wren McDonald
 title: Targeted Advertising
+room: 
 type: Print
 room: room4print
 artisturl: https://wrenmcdonald.com/
@@ -24,4 +25,5 @@ desc: Risograph print of a busy dystopian city overrun with ads.
 size: 11" X 15.3"
 color: Blue, fluorescent pink, and yellow
 specs: 
+temp_notes: 
 ---

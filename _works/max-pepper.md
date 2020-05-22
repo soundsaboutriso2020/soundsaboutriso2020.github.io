@@ -5,6 +5,7 @@ participant: Max Pepper
 email: maxwellpepper@gmail.com
 artist: Max Pepper
 title: Idols
+room: 
 type: zine
 room: room2zine
 artisturl: https://www.instagram.com/maxwellpepper/
@@ -24,4 +25,5 @@ desc: 32 risograph-printed pages of masks, totems, and statuettes in a variety o
 size: 5" x 7"
 color: Various- Black ink with cornflower blue, green, purple, pink, red, yellow, and orange.
 specs: Made with lots of care and love. Please enjoy! 
+temp_notes: current product url goes to store home page. this links to actual product- https://maxpepper.storenvy.com/products/29768398-idols 
 ---

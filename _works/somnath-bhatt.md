@@ -5,6 +5,7 @@ participant: Somnath Bhatt
 email: somnath@somnathbhatt.com
 artist: Somnath Bhatt
 title: Radiant Being
+room: 
 type: Print
 room: room4print
 artisturl: https://www.instagram.com/m0henjodaro/?hl=en
@@ -12,7 +13,7 @@ publisher:
 publisherurl: https://www.instagram.com/m0henjodaro/?hl=en
 howpurchase: I don't have a method of sale and would like to list the item on lucky risograph/zine hug's website
 producturl: https://www.instagram.com/m0henjodaro/?hl=en
-img1: RadiantBeing-SomnathBhatt.png
+img1: RadiantBeing-SomnathBhatt.jpg
 img2: 
 img3: 
 img4: 
@@ -24,4 +25,5 @@ desc: A drawing of a being.
 size: 11" x 17"
 color: Yellow, Blue, Black, Red ( but we can reduce to Yellow and black ) 
 specs: 
+temp_notes: 
 ---

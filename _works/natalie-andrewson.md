@@ -5,6 +5,7 @@ participant: Natalie Andrewson
 email: natalieandrewson@gmail.com
 artist: Natalie Andrewson
 title: Little Fantasy World' Print
+room: 
 type: Print
 room: room3print
 artisturl: https://www.instagram.com/natandrewson/
@@ -24,4 +25,5 @@ desc: An improvised drawing featuring fun fantasy creatures interacting.
 size: 8.5"  x 11"
 color: Fluorescent Pink, Yellow, Medium Blue
 specs: 
+temp_notes: 
 ---

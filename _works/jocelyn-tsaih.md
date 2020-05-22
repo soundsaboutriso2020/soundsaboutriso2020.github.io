@@ -5,6 +5,7 @@ participant: Jocelyn Tsaih
 email: jocelyntsaih@gmail.com
 artist: Jocelyn Tsaih
 title: Belonging
+room: 
 type: zine
 room: room2zine
 artisturl: http://www.instagram.com/jocelyntsaih
@@ -24,4 +25,5 @@ desc: A collection of text and illustrations by Jocelyn Tsaih, based on the subj
 size: 7.75” x 10.5”
 color: Mint, Bright Red, Melon, Cornflower, and Black
 specs: 44 pages, edition of 100
+temp_notes: 
 ---

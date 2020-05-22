@@ -1,10 +1,11 @@
 ---
 layout: county 
 code: nichole-shinn
-participant: Nichole Shinn
+participant: website url doesn't go anywhere?
 email: nshinn42@gmail.com
 artist: Days Like Pronoia
 title: Nichole Shinn
+room: 
 type: zine
 room: room3zine
 artisturl: https://www.nicholeshinn.com
@@ -24,4 +25,5 @@ desc: Days Like Pronoia is a collection of digital drawings and poems accumulate
 size: 8"x10"
 color: Cornflower, Florescent Pink, Yellow, Black, Copper
 specs: 
+temp_notes: 
 ---

@@ -5,6 +5,7 @@ participant: Neta Bomani
 email: netanyabomani@gmail.com
 artist: mariame kaba and neta bomani
 title: Groundhog Day–The Killing of Bonita Carter
+room: 
 type: zine
 room: room3zine
 artisturl: http://usprisonculture.com
@@ -24,4 +25,5 @@ desc: “Groundhog Day– The Killing of Bonita Carter” excavates part of the 
 size: 4.25" x 11"
 color: Brown and green
 specs: 
+temp_notes: I believe it's "Survived + Punished" not "Survived + Punish"  https://survivedandpunished.org/
 ---

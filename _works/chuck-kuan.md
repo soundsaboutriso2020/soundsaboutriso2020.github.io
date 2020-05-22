@@ -5,6 +5,7 @@ participant: Chuck Kuan
 email: 
 artist: Chuck Kuan
 title: 
+room: 
 type: 
 room: 
 artisturl: 
@@ -24,4 +25,5 @@ desc:
 size: 
 color: 
 specs: 
+temp_notes: 
 ---

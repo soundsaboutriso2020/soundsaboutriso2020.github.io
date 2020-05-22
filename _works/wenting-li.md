@@ -5,6 +5,7 @@ participant: Wenting Li
 email: wenting.draws@gmail.com
 artist: Wenting Li 
 title: Our Lady
+room: 
 type: zine
 room: room5zine
 artisturl: https://www.wentingli.com/
@@ -24,4 +25,5 @@ desc: 2 friends come across a giant lady in the sand. Is she a sign, or somethin
 size: 3.5" x 5.25" 
 color: Turquoise + Brown
 specs: Read the entire comic online here! https://www.wentingli.com/our-lady
+temp_notes: 
 ---

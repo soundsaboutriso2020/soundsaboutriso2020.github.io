@@ -5,6 +5,7 @@ participant: Gender Fail
 email: genderfailproject@gmail.com
 artist: Liz Barr
 title: Body Works
+room: 
 type: zine
 room: room1zine
 artisturl: https://www.instagram.com/lizbarrrr/?hl=en
@@ -24,4 +25,5 @@ desc: Body Works considers the different ways we maintain and modify our bodies 
 size: 5" x 7"
 color: Bright Red
 specs: Perfect bound, 66 pages, edition of 250
+temp_notes: 
 ---

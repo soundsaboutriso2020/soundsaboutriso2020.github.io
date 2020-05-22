@@ -5,6 +5,7 @@ participant: Kevin VQ Dam
 email: kevin@kevinvqdam.com
 artist: Kevin VQ Dam
 title: Sriracha
+room: 
 type: Print
 room: room2print
 artisturl: https://www.kevinvqdam.com
@@ -24,4 +25,5 @@ desc: A full color piece from my risograph zine "You Are A Vase Now", a lighthea
 size: 8.5" x 11"
 color: Bright Red, Kelly Green, Yellow
 specs: 
+temp_notes: 
 ---

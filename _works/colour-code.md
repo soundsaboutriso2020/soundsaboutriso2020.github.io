@@ -5,6 +5,7 @@ participant: Colour Code
 email: info@colourcodeprinting.com
 artist: Juli Majer
 title: Stone/Star Bloom/Loop
+room: 
 type: zine
 room: room1zine
 artisturl: https://www.instagram.com/julimajer/
@@ -24,4 +25,5 @@ desc: Drawings by Juli Majer, Sun/Unranus/Neptune/Moon in Capricorn, Sagittarius
 size: 6.5" X 9"
 color: Aqua, Yellow, Fluorescent Red & Black.
 specs: 16 pages,, Edition of 400.
+temp_notes: 
 ---
