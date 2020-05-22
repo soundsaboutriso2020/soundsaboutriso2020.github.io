@@ -782,6 +782,7 @@ body{
     height:10vh;
     padding:3vh 2vw;
     	  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.4);
+    	  	margin-bottom:5vh;
   }
 
   .hi:hover{color:red;}
