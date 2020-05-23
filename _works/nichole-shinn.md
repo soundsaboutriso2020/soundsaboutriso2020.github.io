@@ -16,7 +16,7 @@ artisturl: http://nicholeshinn.com/
 publisher: TXTBooks
 publisherurl: https://www.txtbooks.us 
 howpurchase: Paypal
-producturl: https://www.paypal.com/webapps/shoppingcart?mfid=1590126173136_e27e9c4a04c23&flowlogging_id=e27e9c4a04c23#/checkout/shoppingCart
+producturl: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8V4B5WXHFMXPY
 img1: DaysLikePronoia-NicholeShinn01.png
 img2: DaysLikePronoia-NicholeShinn02.png
 img3: 
