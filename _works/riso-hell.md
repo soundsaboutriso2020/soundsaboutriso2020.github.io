@@ -28,5 +28,6 @@ desc: Artist book by Brandon Bandy exploring the continuation and recycling of i
 size: 7" x 8.5"
 color: Black, Orchid, Blue, Aqua, Kelly Green, Yellow, Orange, Red, Bubble Gum, Fluo Pink
 specs: 44 pages
+alttext: Teenage Witch, a zine by Brandon Bandy published by Riso Hell.
 temp_notes: 
 ---

@@ -26,7 +26,7 @@ next: /moon-room
 
 <div class="zines room1 flex-row space-around aligncenter">
   {% for post in room1zine %}
-   <div class="zine product hvr-buzz {{post.imgsize}}">
+   <div class="zine product hvr-hang {{post.imgsize}}">
   	 <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/products/{{post.img1}}"></a>
 </div>
   {% endfor %}

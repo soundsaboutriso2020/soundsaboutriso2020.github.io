@@ -28,5 +28,6 @@ desc: An improvised drawing featuring fun fantasy creatures interacting.
 size: 8.5"  x 11"
 color: Fluorescent Pink, Yellow, Medium Blue
 specs: 
+alttext: Little Fantasy World, a print by Natalie Andrewson.
 temp_notes: 
 ---

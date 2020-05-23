@@ -15,7 +15,7 @@ artisturl: https://www.kevinvqdam.com
 publisher: 
 publisherurl: https://www.instagram.com/kevinvqdam/
 howpurchase: Online Shop
-producturl: https://luckyrisograph.press/
+producturl: https://luckyrisograph.press/store/
 img1: Sriracha-KevinVQDam.png
 img2: 
 img3: 
@@ -28,5 +28,6 @@ desc: A full color piece from my risograph zine "You Are A Vase Now", a lighthea
 size: 8.5" x 11"
 color: Bright Red, Kelly Green, Yellow
 specs: 
+alttext: Sriracha, a print by Kevin VQ Dam.
 temp_notes: 
 ---

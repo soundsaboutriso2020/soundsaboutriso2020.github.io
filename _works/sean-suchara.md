@@ -28,5 +28,6 @@ desc: ~sounds of coffee percolating~
 size: 8.5" x 11"
 color: Cornflower, Black, Pink & Melon
 specs: 
+alttext: Percolator, a print by Sean Suchara.
 temp_notes: 
 ---

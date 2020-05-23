@@ -24,10 +24,10 @@ imgq4_1:
 imgq4_2: 
 imgq4_3: 
 imgq4_4: 
-q5: 
+q5: No, i'm a terrible printer. 
 imgq5: 
 q6: 
 imgq6: 
-q7: 
+q7: Since this is a risograph related project, I want to reinforce that I see risograph and risograph printing is a means to create my projects. In the risograph community, I see an emphasis on process rather than the content being produced. As someone who comes from a printmaking background, I would often feel frustrated by the emphasis on the printing process rather than the work being created. This, of course is not necessarily a bad thing  and that loving the process of printing can be a very beautiful thing. As an artist I gravitate to project that are fueled by intention rather than process and I don't see that enough in the riso community sometimes. I don't identity as a risograph printer but an artist who uses risograph to produce my project. To me its a tool, an imperfect beautiful tool. 
 imgq7: 
 ---

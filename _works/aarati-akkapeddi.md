@@ -17,8 +17,8 @@ publisherurl:
 howpurchase: Online Shop
 producturl: https://aarati.bigcartel.com/product/after-image-couple-standing
 img1: AfterImage-AaratiAkkapeddi01.jpg
-img2: AfterImage-AaratiAkkapeddi02.jpg
-img3: AfterImage-AaratiAkkapeddi03.jpg
+img2: 
+img3: 
 img4: 
 img5: 
 img6: 
@@ -28,5 +28,6 @@ desc: Gold Risograph (on matte black paper) print of computationally averaged si
 size: 9" x 12"
 color: Metallic Gold
 specs: 
+alttext: After Image - Couple Standing, a print by Aarati Akkapeddi.
 temp_notes: 
 ---

@@ -4,8 +4,8 @@ code: chris-lucero
 room: palm-room
 layout: interview
 participant: Chris Lucero
-email: luce.chri.0@gmail.com
-q1: Mint & Flo. Orange
+email: lucechri.0@gmail.com
+q1: Mint & Flo. Orange/Violet
 imgq1_1: 
 imgq1_2: 
 img1_3: 
@@ -19,7 +19,7 @@ q3: I usually just do the entire sketching, and brainstorming process digitally.
 imgq3: 
 imgq3_2: 
 imgq3_3: 
-q4: I just really like snow monkeys and thought- what would they do in front of an abandoned car? And after thinking about it for a while I decided to try and draw it.
+q4: Old Man Days is a series I started 4 years ago. I was feeling bored out of my mind at the time and started channeling it all by drawing a full-page layout of an old man doing mundane activities. It evolved into a series of zines exploring this character's everyday life. The print series is a compilation of all the full-page layouts created for each zine's inner cover.
 imgq4_1: 
 imgq4_2: 
 imgq4_3: 

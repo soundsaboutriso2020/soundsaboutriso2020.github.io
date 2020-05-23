@@ -28,5 +28,6 @@ desc: Cynthia Alfonso’s The One Who Weeps is a visual examination of the cycle
 size: 7.25" x 10"
 color: Red, Black, Aqua, Yellow
 specs: 48 pages, perfect bound, soft-touch laminate on cover 
+alttext: The One Who Weeps, a zine by Cynthia Alfonso.
 temp_notes: 
 ---

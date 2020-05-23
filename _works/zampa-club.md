@@ -12,7 +12,7 @@ artist: Elizabeth Goodspeed
 title: Jello
 type: print
 artisturl: http://elizabethgoodspeed.com/
-publisher: Lucky Risograph & Zampa Club
+publisher: lucky risograph + Zampa Club
 publisherurl: https://zampaclub.smvi.co/
 howpurchase: Online Shop
 producturl: https://zampa.bigcartel.com/product/jello
@@ -28,5 +28,6 @@ desc: A print highlighting the peculiarity and ever-changing depictions of jello
 size: 9” x 12”
 color: fluo pink, yellow, black, and mint
 specs: 
+alttext: Jello, a print by Elizabeth Goodspeed .
 temp_notes: 
 ---

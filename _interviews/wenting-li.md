@@ -19,7 +19,7 @@ q3: a lot of my personal work come from my sketchbook drawings, often inspired b
 imgq3: 
 imgq3_2: 
 imgq3_3: 
-q4: our lady' started as a different zine i was trying to draw, and i doodled a giant lady on the beach next to a spread of frustrated planning in my sketchbook. then i decided the giant lady was way more interesting and that became the story instead. i think a lot of what interests me narratively is about the ways we are close to each other and how these relationships are shaped. even literal shapes. maybe it’s a negative shape. or it’s something growing into another. maybe some of what is going on is unknowable. a cool thing about drawing, which i think isn't as easy to do with text, is how you can say just enough without have to say everything. , 
+q4: Our Lady started as a different zine i was trying to draw, and i doodled a giant lady on the beach next to a spread of frustrated planning in my sketchbook. then i decided the giant lady was way more interesting and that became the story instead. i think a lot of what interests me narratively is about the ways we are close to each other and how these relationships are shaped. even literal shapes. maybe it’s a negative shape. or it’s something growing into another. maybe some of what is going on is unknowable. a cool thing about drawing, which i think isn't as easy to do with text, is how you can say just enough without have to say everything. , 
 imgq4_1: 
 imgq4_2: 
 imgq4_3: 

@@ -8,7 +8,7 @@ order: 5
 imgsize: s
 participant: TXTbooks
 email: txtbooks.us@gmail.com
-artist: Sally Thurer, Scott Gelber, Mitchell Lyne, Luiza Dale, Mel Nguyen, Paige Landesberg, Jacob Simon, Benfield, Gabriella Cossens
+artist: Sally Thurer, Scott Gelber, Mitchell Lyne, Luiza Dale, Mel Nguyen, Paige Landesberg, Jacob Simon, Benfield, & Gabriella Cossens
 title: TXTreader Volume 2
 type: zine
 artisturl: http://www.txtbooks.us/txtreader-2
@@ -28,5 +28,6 @@ desc: TXTreader aims to give a platform to errant thoughts, dumb jokes, and ****
 size: 5" x 7.5"
 color: 9 colors total
 specs: 152 Pages, 9 Color Risograph., Multiple paper stocks., Open-spine perfect bind on stapled signatures., First Edition 300
+alttext: TXTreader Volume 2, a zine by Sally Thurer, Scott Gelber, Mitchell Lyne, Luiza Dale, Mel Nguyen, Paige Landesberg, Jacob Simon, Benfield, & Gabriella Cossens published by TXTbooks.
 temp_notes: 
 ---

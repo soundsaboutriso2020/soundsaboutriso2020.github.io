@@ -8,7 +8,7 @@ order: 2
 imgsize: l
 participant: Authorized to Work
 email: cemkocyildirim@gmail.com
-artist: Various Artists - Full list on website
+artist: Various Artists
 title: Drums on Paper - Collector's Edition
 type: print
 artisturl: https://authorizedtowork.us 
@@ -28,5 +28,6 @@ desc: Drums on Paper – Collector’s Edition includes 17 risograph prints from
 size: 11" x 14" each
 color: Yellow, Bright Red, Fluorescent Pink, Metallic Gold, Steel, Black, Teal, Indigo
 specs: All prints in the set are in a limited edition of 30.
+alttext: Drums on Paper - Collector's Edition, a print by Various Artists published by Authorized to Work in the US Press.
 temp_notes: 
 ---

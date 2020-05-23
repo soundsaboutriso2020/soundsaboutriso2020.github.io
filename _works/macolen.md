@@ -12,7 +12,7 @@ artist: Alejandra Ballesteros
 title: Amanecer / Atardecer
 type: print
 artisturl: https://www.instagram.com/aleebaes/
-publisher: MACOLEN & KEVELYN
+publisher: Macolen & Kevelyn
 publisherurl: https://www.instagram.com/_macolen/
 howpurchase: Online Shop
 producturl: https://tienda.macolen.com/product/alejandra-ballesteros
@@ -28,5 +28,6 @@ desc: Amazing illustration by Alejandra Ballesteros, a Mexican artist. One of ma
 size: 11" x 11"
 color: Yellow, Bright Red, Medium blue, Black
 specs: your wildest dreams, Made with love
+alttext: Amanecer / Atardecer, a print by Alejandra Ballesteros published by Macolen & Kevelyn.
 temp_notes: 
 ---

@@ -16,7 +16,7 @@ publisher: Zine Hug
 publisherurl: http://zinehug.com
 howpurchase: Online Shop
 producturl: http://zinehug.storenvy.com/products/30329470-p-s-distant-summer
-img1: DistantSummer_AlexBarsky - Zine Hug.jpg
+img1: DistantSummer-AlexBarsky.jpg
 img2: 
 img3: 
 img4: 
@@ -28,5 +28,6 @@ desc: This postcard was created for Zine Hug's Postcards for Solidarity project,
 size: 4" x 6"
 color: Mint, Bright Red, Black
 specs: 
+alttext: Distant Summer, a print by Alex Barsky published by Zine Hug.
 temp_notes: 
 ---

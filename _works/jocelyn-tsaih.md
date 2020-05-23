@@ -14,7 +14,7 @@ type: zine
 artisturl: http://www.instagram.com/jocelyntsaih
 publisher: Zinehug
 publisherurl: https://www.zinehug.com/
-howpurchase: Online Shop
+howpurchase: Direct Message on Social Media Platform
 producturl: https://www.zinehug.com/Belonging
 img1: Belonging-JocelynTsaih01.jpg
 img2: Belonging-JocelynTsaih02.jpg
@@ -28,5 +28,6 @@ desc: A collection of text and illustrations by Jocelyn Tsaih, based on the subj
 size: 7.75” x 10.5”
 color: Mint, Bright Red, Melon, Cornflower, and Black
 specs: 44 pages, edition of 100
+alttext: Belonging, a zine by Jocelyn Tsaih published by Zinehug.
 temp_notes: 
 ---

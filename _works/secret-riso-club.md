@@ -28,5 +28,6 @@ desc: Action poster is an experimentation with gradients, printed using a CYMK s
 size: 11" x 17"
 color: Bright Red, Yellow, Medium Blue, Black
 specs: 
+alttext: Action, a print by Gonzalo Guerrero published by Secret Riso Club.
 temp_notes: 
 ---

@@ -15,8 +15,8 @@ artisturl: https://www.instagram.com/m0henjodaro/?hl=en
 publisher: 
 publisherurl: https://www.instagram.com/m0henjodaro/?hl=en
 howpurchase: Online Shop
-producturl: https://luckyrisograph.press/store/radiant-being
-img1: RadiantBeing-SomnathBhatt.jpg
+producturl: https://luckyrisograph.press/store/wave-shrine
+img1: WaveShrine-SomnathBhatt.jpg
 img2: 
 img3: 
 img4: 
@@ -28,5 +28,6 @@ desc: A drawing of a being.
 size: 11" x 17"
 color: Yellow, Blue, Black, Red ( but we can reduce to Yellow and black ) 
 specs: 
+alttext: Wave / Shrine, a print by Somnath Bhatt.
 temp_notes: 
 ---

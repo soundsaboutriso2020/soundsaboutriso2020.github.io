@@ -28,5 +28,6 @@ desc: Hot Dogs & Apple Pie
 size: 11" x 17"
 color: yellow, pink, red, green, aqua, blue & black
 specs: 
+alttext: Hot Dog, a print by Max Stadnik published by Tiny Splendor .
 temp_notes: 
 ---

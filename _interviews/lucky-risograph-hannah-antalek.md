@@ -3,7 +3,7 @@ layout: county
 code: lucky-risograph-hannah-antalek
 room: moon-room
 layout: interview
-participant: Hannah Antalek
+participant: 
 email: 
 q1: 
 imgq1_1: 

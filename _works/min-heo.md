@@ -24,9 +24,10 @@ img5:
 img6: 
 year: 2020
 price: 15
-desc: Hugging bunnies in a warm embrace :) 
+desc: Hugging bunnies in a warm embrace &#58;) 
 size: 8.125" x 8.125"
 color: Yellow/Black
 specs: Pages- 104 Edition of 500 with 25 printer's proofs. Color may vary depending on screen.
+alttext: Emotional Support System, a print by Min Heo.
 temp_notes: 
 ---

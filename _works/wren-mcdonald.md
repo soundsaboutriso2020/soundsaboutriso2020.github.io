@@ -28,5 +28,6 @@ desc: Risograph print of a busy dystopian city overrun with ads.
 size: 11" X 15.3"
 color: Blue, fluorescent pink, and yellow
 specs: 
+alttext: Targeted Advertising, a print by Wren McDonald.
 temp_notes: 
 ---

@@ -14,7 +14,7 @@ type: zine
 artisturl: http://www.jamesbascara.com
 publisher: 
 publisherurl: 
-howpurchase: DM on Instagram
+howpurchase: Direct Message on Social Media Platform
 producturl: https://www.instagram.com/james.bascara/
 img1: Flan-JamesBascara01.jpg
 img2: Flan-JamesBascara02.jpg
@@ -28,5 +28,6 @@ desc: Sharing dessert (Includes recipe for leche flan)
 size: 8.5" x 2.5"
 color: gold
 specs: 
+alttext: Flan, a zine by James Bascara.
 temp_notes: 
 ---

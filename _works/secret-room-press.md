@@ -20,7 +20,7 @@ img1: SecretRag3Pack-SecretRoom01.png
 img2: SecretRag3Pack-SecretRoom02.png
 img3: SecretRag3Pack-SecretRoom03.png
 img4: SecretRag3Pack-SecretRoom04.png
-img5: 
+img5: SecretRag3Pack-SecretRoom05.png
 img6: 
 year: 2019
 price: 5
@@ -28,5 +28,6 @@ desc: Secret Rag is our quarterly-ish showcase of fun art, comics, and activitie
 size: 11" x 17"
 color: cornflower, melon, orchid
 specs: Super fun, cool to read, makes you cool to share with your friends.
+alttext: Secret Rag 3-Pack, a zine by Secret Room published by Secret Room Press.
 temp_notes: 
 ---

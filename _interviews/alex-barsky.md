@@ -3,7 +3,7 @@ layout: county
 code: alex-barsky
 room: solarium
 layout: interview
-participant: 
+participant: Alex Barsky
 email: 
 q1: 
 imgq1_1: 

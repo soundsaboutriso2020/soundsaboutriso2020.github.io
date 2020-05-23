@@ -28,5 +28,6 @@ desc: That’s Better is a beautiful children’s book written and illustrated b
 size: 5" x 11"
 color: sunflower, blue, light lime, black
 specs: 
+alttext: That's Better, a zine by Colin Sutherland.
 temp_notes: 
 ---

@@ -16,7 +16,7 @@ publisher: lucky risograph + zine hug
 publisherurl: soundaboutriso.online
 howpurchase: Online Shop
 producturl: http://zinehug.storenvy.com/products/30324424-sounds-about-riso-online-print-by-james-bascara
-img1: 
+img1: SoundsAboutRisoOnline-JamesBascara01.jpg
 img2: 
 img3: 
 img4: 
@@ -28,5 +28,6 @@ desc: This print is a phenakistascope illustrated and animated by James Bascara.
 size: 11" x 14.5"
 color: federal blue/orange and cornflower/gold
 specs: 
+alttext: sounds about riso .online, a print by James Bascara published by lucky risograph + zine hug.
 temp_notes: 
 ---

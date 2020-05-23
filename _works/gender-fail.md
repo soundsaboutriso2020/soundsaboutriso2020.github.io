@@ -28,5 +28,6 @@ desc: Body Works considers the different ways we maintain and modify our bodies 
 size: 5" x 7"
 color: Bright Red
 specs: Perfect bound, 66 pages, edition of 250
+alttext: Body Works, a zine by Liz Barr published by GenderFail.
 temp_notes: 
 ---

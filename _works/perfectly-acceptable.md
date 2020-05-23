@@ -28,5 +28,6 @@ desc: Daria Tessler presents "An Ancient Egyptian Creation Myth As Pieced Togeth
 size: 10" x 13"
 color: Light Teal, Fluorescent Pink, Yellow, Black
 specs: Spiral bound; laser cut, letterpress printed covers
+alttext: Loop of the Sun, a zine by Daria Tessler published by Perfectly Acceptable Press.
 temp_notes: 
 ---

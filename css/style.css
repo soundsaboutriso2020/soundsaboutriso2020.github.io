@@ -997,6 +997,10 @@ body{
 	margin-bottom: 10vh;
 }
 
+#mobilelogo{
+	width:10vw;
+}
+
 .go-to{
 	margin-right: 0vw !important;
 }

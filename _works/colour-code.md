@@ -28,5 +28,6 @@ desc: Drawings by Juli Majer, Sun/Unranus/Neptune/Moon in Capricorn, Sagittarius
 size: 6.5" X 9"
 color: Aqua, Yellow, Fluorescent Red & Black.
 specs: 16 pages,, Edition of 400.
+alttext: Stone/Star Bloom/Loop, a zine by Juli Majer published by Colour Code.
 temp_notes: 
 ---

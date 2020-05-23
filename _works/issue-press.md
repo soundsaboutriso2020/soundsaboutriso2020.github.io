@@ -28,5 +28,6 @@ desc: Every Good Boy Deserves Fudge is the culmination of a multi-year explorati
 size: 10" x 8"
 color: Aqua, Fluorescent Orange, Fluorescent Pink, Fluorescent Red, Fluorescent Yellow, Orchid
 specs: 
+alttext: Every Good Boy Deserves Fudge, a zine by Clay Hickson published by Issue Press.
 temp_notes: 
 ---

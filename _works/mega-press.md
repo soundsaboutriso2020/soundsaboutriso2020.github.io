@@ -28,5 +28,6 @@ desc: Androgynous angelic beings emerge from blinding white light. A commanding 
 size: 7.87" × 10.2" × .5"
 color: Black, Fluorescent Pink, Yellow, Blue, Cornflower, Bright Red, Metallic Gold, Light Teal, Violet, Orange, Green
 specs: Contributors include, in order of appearance- Robert Beatty, HOPE, Drew Miller, Lando, Baptiste Virot, Brie Moreno, Bluetooth, Matt Lock, Ron Rege Jr., Ben Marcus, Jinhee Han, Juli Majer & Cristian Hernandez, Enormous Face/Kalan Sherrard, Joel Skavdahl/Seagull Invasion, Lilli Carre, Kari Cholnoky, Margot Ferrick, Leon Sadler, Panayiotis Terzis, Nichole Shinn, Hayley Dawn Miur
+alttext: An Unknown Power, a zine by Various Artists published by Mega Press.
 temp_notes: 
 ---

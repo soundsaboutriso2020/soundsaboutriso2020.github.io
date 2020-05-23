@@ -3,7 +3,7 @@ layout: county
 code: sounds-about-riso-online
 room: palm-room
 layout: interview
-participant: James Bascara
+participant: 
 email: 
 q1: 
 imgq1_1: 

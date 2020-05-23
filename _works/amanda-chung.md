@@ -16,8 +16,8 @@ publisher:
 publisherurl: 
 howpurchase: Online Shop
 producturl: https://luckyrisograph.press/store/handle-with-care
-img1: handlewithcare_amandachung-1.png
-img2: handlewithcare_amandachung-2.png
+img1: HandleWithCare-AmandaChung01.png
+img2: HandleWithCare-AmandaChung02.jpg
 img3: 
 img4: 
 img5: 
@@ -28,5 +28,6 @@ desc: 3-color risograph comic cover printed on vellum with iridescent flakes
 size: 5.5" x 7.75"
 color: Flourescent Pink, yellow, cornflower
 specs: 
+alttext: Handle With Care, a zine by Amanda Chung.
 temp_notes: 
 ---

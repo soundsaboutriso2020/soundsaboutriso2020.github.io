@@ -28,5 +28,6 @@ desc: 2 friends come across a giant lady in the sand. Is she a sign, or somethin
 size: 3.5" x 5.25" 
 color: Turquoise + Brown
 specs: Read the entire comic online here! https://www.wentingli.com/our-lady
+alttext: Our Lady, a zine by Wenting Li .
 temp_notes: 
 ---

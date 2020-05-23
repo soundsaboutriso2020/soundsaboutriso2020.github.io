@@ -28,5 +28,6 @@ desc: Urgency Reader 2 is a risograph-printed assemblage of work produced during
 size: 9" x 12"
 color: black, burgundy, purple, teal, fluorescent pink
 specs: 
+alttext: Urgency Reader 2, a zine by Paul Soulellis (editor) & 110 contributors published by Queer.Archive.Work.
 temp_notes: 
 ---

@@ -28,5 +28,6 @@ desc: 16 page Risograph zine about communication in relationships
 size: 5" x 7.25"
 color: Black and Blue
 specs: Above in the 'link to where product is sold' won't let me just put in my email so I put my website
+alttext: Okay Okay, a zine by Rose Wong.
 temp_notes: 
 ---

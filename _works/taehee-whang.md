@@ -28,5 +28,6 @@ desc: A triptych prints of mysteriou summer beach night scene. Binded with riso 
 size: 23" x 10.5"
 color: Federal blue& gray
 specs: 
+alttext: Spicy XXXX 짬찌 맵다 , a print by Taehee Whang.
 temp_notes: 
 ---

@@ -8,14 +8,14 @@ order: 3
 imgsize: s
 participant: Neta Bomani
 email: netanyabomani@gmail.com
-artist: Mariame Kaba and Neta Bomani
+artist: Mariame Kaba & Neta Bomani
 title: Groundhog Day–The Killing of Bonita Carter
 type: zine
 artisturl: http://usprisonculture.com
 publisher: Irrelevant Press
 publisherurl: http://irrelevantpress.com
-howpurchase: Email screenshot of donation to Survived & Punish mutual aid fund for digital download
-producturl: Venmo @netabomani 
+howpurchase: Email screenshot of donation to Survived & Punished mutual aid fund for digital download
+producturl: venmo.com/netabomani 
 img1: BonitaCarter-NetaBomani01.jpg
 img2: BonitaCarter-NetaBomani02.png
 img3: 
@@ -28,5 +28,6 @@ desc: “Groundhog Day– The Killing of Bonita Carter” excavates part of the 
 size: 4.25" x 11"
 color: Brown and green
 specs: 
-temp_notes: I believe it's "Survived + Punished" not "Survived + Punish"  https://survivedandpunished.org/
+alttext: Groundhog Day–The Killing of Bonita Carter, a zine by Mariame Kaba & Neta Bomani published by Irrelevant Press.
+temp_notes: 
 ---

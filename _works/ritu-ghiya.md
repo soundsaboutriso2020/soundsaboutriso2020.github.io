@@ -28,5 +28,6 @@ desc: Based on text from Whatsapp messages that circulate around India, which my
 size: 
 color: Fluo Pink, Black, Yellow, Cornflower
 specs: 
+alttext: Feeling Better, a print by Ritu Ghiya.
 temp_notes: 
 ---

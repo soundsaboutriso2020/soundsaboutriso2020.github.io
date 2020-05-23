@@ -28,5 +28,6 @@ desc: 2 color print on black and fluorescent green paper printed with Lucky Riso
 size: 11" x 8.5"
 color: Fluorescent Orange and Violet
 specs: 
+alttext: Car Crash, a print by Grace Ritchie.
 temp_notes: 
 ---

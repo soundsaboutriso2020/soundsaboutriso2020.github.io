@@ -8,7 +8,7 @@ order: 3
 imgsize: m
 participant: Small Editions
 email: hannah@smalleditions.nyc
-artist: Adrienne Bennett, Alli Gelles, Anna Gregor, Charles O'Leary, Dane Mainella, Emmet Elliott, Helen Galioto, Hiram Trejo, Jordan Delzell, Kaiyu Huang, Lily Hyde, Matias Botero, Morgan Hayes, Ren Schwarz, Sahar Sephadari, Sam Margevicius, Summer Krounbi
+artist: Adrienne Bennett, Alli Gelles, Anna Gregor, Charles O'Leary, Dane Mainella, Emmet Elliott, Helen Galioto, Hiram Trejo, Jordan Delzell, Kaiyu Huang, Lily Hyde, Matias Botero, Morgan Hayes, Ren Schwarz, Sahar Sephadari, Sam Margevicius, & Summer Krounbi
 title: lōkē magazine vol.2 
 type: zine
 artisturl: https://www.instagram.com/lowkey_editions/
@@ -28,5 +28,6 @@ desc: lōkē magazine is a journal of interdisciplinary works in progress across
 size: 5.5" x 8.5"
 color: Green, Yellow, Fluorescent Pink, Cornflower, Blue, Black
 specs: Adrienne Bennett, Alli Gelles, Anna Gregor, Charles O'Leary, Dane Mainella, Emmet Elliott, Helen Galioto, Hiram Trejo, Jordan Delzell, Kaiyu Huang, Lily Hyde, Matias Botero, Morgan Hayes, Ren Schwarz, Sahar Sephadari, Sam Margevicius, Summer Krounbi
+alttext: lōkē magazine vol.2 , a zine by Adrienne Bennett, Alli Gelles, Anna Gregor, Charles O'Leary, Dane Mainella, Emmet Elliott, Helen Galioto, Hiram Trejo, Jordan Delzell, Kaiyu Huang, Lily Hyde, Matias Botero, Morgan Hayes, Ren Schwarz, Sahar Sephadari, Sam Margevicius, & Summer Krounbi published by lōkē editions.
 temp_notes: 
 ---

@@ -12,10 +12,10 @@ artist: Chuck Kuan
 title: No Sweat
 type: print
 artisturl: https://instagram.com/duckduck.chuck
-publisher: Lucky Risograph
-publisherurl: luckyrisograph.press
+publisher: lucky risograph
+publisherurl: https://luckyrisograph.press/
 howpurchase: Online Shop
-producturl: 
+producturl: https://luckyrisograph.press/store/no-sweat-print
 img1: NoSweat-ChuckKuan.jpg
 img2: 
 img3: 
@@ -23,10 +23,11 @@ img4:
 img5: 
 img6: 
 year: 2020
-price: 
-desc: 
-size: 
-color: 
+price: 15
+desc: 3 color risograph print.
+size: 5.5" x 7"
+color: Yellow, Bright Red, Blue
 specs: 
+alttext: No Sweat, a print by Chuck Kuan published by lucky risograph.
 temp_notes: 
 ---

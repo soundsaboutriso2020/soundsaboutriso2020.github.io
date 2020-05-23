@@ -15,7 +15,7 @@ artisturl: http://www.timpeacock.com
 publisher: 
 publisherurl: 
 howpurchase: Online Shop
-producturl: timpeacock.storenvy.com
+producturl: http://timpeacock.storenvy.com/products/28974352-village-print
 img1: Village-TimPeacock.jpg
 img2: 
 img3: 
@@ -28,5 +28,6 @@ desc: Village, 3 color risograph print
 size: 8.5" x 11"
 color: Red, Yellow, Black
 specs: You can use website or insta or both, whatever it seems the trend is. 
+alttext: Village, a print by Tim Peacock.
 temp_notes: url not linking to store
 ---

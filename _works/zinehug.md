@@ -16,8 +16,8 @@ publisher: Zine Hug
 publisherurl: http://zinehug.com
 howpurchase: Online Shop
 producturl: http://zinehug.storenvy.com/products/24257808-executive-information-packet-journal
-img1: ExecutiveInformationPacketJournal_BenjyBrooke_ZineHug.png
-img2: ExecutiveInformationPacketJournal_BenjyBrooke_ZineHug02.png
+img1: ExecutiveInformationPacketJournal-ZineHug01.jpg
+img2: ExecutiveInformationPacketJournal-ZineHug02.jpg
 img3: 
 img4: 
 img5: 
@@ -28,5 +28,6 @@ desc: A guidebook to the rest stops on the information super highway.
 size: 7" x 10"
 color: Federal Blue
 specs: 2nd printing, edition of 200
+alttext: Executive Information Packet Journal, a zine by Zine Hug.
 temp_notes: 
 ---

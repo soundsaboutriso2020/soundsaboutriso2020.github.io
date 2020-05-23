@@ -28,5 +28,6 @@ desc: "I want to get into motion, A better devotion, So I can make it through th
 size: 4.25" x 5.5"
 color: cornflower / fluorescent pink / yellow
 specs: 
+alttext: Sweet Dreams Of Passion Thru The Night, a print by Jeong Lee.
 temp_notes: 
 ---

@@ -28,5 +28,6 @@ desc: Days Like Pronoia is a collection of digital drawings and poems accumulate
 size: 8"x10"
 color: Cornflower, Florescent Pink, Yellow, Black, Copper
 specs: 
+alttext: Nichole Shinn, a zine by Days Like Pronoia published by TXTBooks.
 temp_notes: 
 ---

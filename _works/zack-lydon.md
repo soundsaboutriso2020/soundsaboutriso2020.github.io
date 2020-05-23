@@ -16,7 +16,7 @@ publisher: Zine Hug
 publisherurl: http://zinehug.com
 howpurchase: Online Shop
 producturl: http://zinehug.storenvy.com/products/30331144-p-s-special-delivery
-img1: SpecialDelivery_ZackLydon.png
+img1: SpecialDelivery-ZackLydon.jpg
 img2: 
 img3: 
 img4: 
@@ -28,5 +28,6 @@ desc: This postcard was created for Zine Hug's Postcards for Solidarity project,
 size: 4" x 6"
 color: Mint, Sunflower, Fluorescent Pink, Black
 specs: 
+alttext: Special Delivery, a print by Zack Lydon.
 temp_notes: 
 ---

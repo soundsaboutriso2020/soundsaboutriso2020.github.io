@@ -8,7 +8,7 @@ order: 2
 imgsize: m
 participant: Irrelevant Press
 email: irrelpress@gmail.com
-artist: Wei Keong Tan and Mollie Underwood
+artist: Wei Keong Tan & Mollie Underwood
 title: Between Us Two
 type: zine
 artisturl: http://www.irrelevantpress.com
@@ -28,5 +28,6 @@ desc: Visual poem with photography from Singapore-based artist Wei Keong Tan and
 size: 7'' x 8.5'' 
 color: black, medium blue and red.
 specs: 
+alttext: Between Us Two, a zine by Wei Keong Tan & Mollie Underwood published by Irrelevant Press.
 temp_notes: 
 ---

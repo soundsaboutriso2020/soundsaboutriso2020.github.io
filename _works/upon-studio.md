@@ -17,8 +17,8 @@ publisherurl: https://www.instagram.com/upon.studio/
 howpurchase: Online Shop
 producturl: https://luckyrisograph.press/store/smiley
 img1: Smiley-UponStudio01.png
-img2: 
-img3: 
+img2: Smiley-UponStudio02.png
+img3: Smiley-UponStudio03.png
 img4: 
 img5: 
 img6: 
@@ -28,5 +28,6 @@ desc: Smiley, a bit creepy, isn't it?
 size: 8.3'' x 5.4''
 color: yellow, black
 specs: 
+alttext: Smiley, a zine by Ivy Zheyu Chen.
 temp_notes: 
 ---

@@ -16,7 +16,7 @@ publisher: Zine Hug
 publisherurl: http://zinehug.com
 howpurchase: Online Shop
 producturl: http://zinehug.storenvy.com/products/29304643-our
-img1: KevinLi_OurPrint.png
+img1: KevinLi-Our.jpg
 img2: 
 img3: 
 img4: 
@@ -28,5 +28,6 @@ desc:
 size: 
 color: 
 specs: 
+alttext: Our, a print by Kevin Li.
 temp_notes: 
 ---
