@@ -847,8 +847,8 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 .fundraiser-page{
 	background: linear-gradient(180deg, #ACD1F3 0%, #C2BEDF 40.1%, #8BACEC 70.31%, #6287E4 90.1%, #C2BEDF 96.87%), #C4C4C4;
-/*	height:100vh;
-*/}
+	height:100%;
+}
 
 .fundraiser-left a,
 .fundraiser-right a{
@@ -927,10 +927,11 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 .hi{
 	  text-transform: uppercase;
+	  font-weight: bold;
   font-family: "Courier New", Courier, monospace;
   box-shadow: 10px 10px 50px gold;
-  background-color: green !important;
-    color:white;
+   background-color: lavender !important;
+    color:#000;
     border-radius:0px !important;
     border-width:0px;
     height:10vh;
@@ -1002,6 +1003,10 @@ body{
 
 .live{
 	margin-left: 0vw !important;
+}
+
+.dropbtn, .b3glow{
+	background-color: lavender !important;
 }
 
 .desktop-visibility{
