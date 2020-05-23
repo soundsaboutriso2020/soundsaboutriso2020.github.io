@@ -14,15 +14,17 @@
 
 			<div class="back-to flex-row">
 				<div class="link1">
+				<a href="{{site.baseurl}}/interviews" class="margin-right" >{% include linksvg.html %}  Back to all interviews </a> / 
+
 				<a href="{{site.baseurl}}/{{page.room}}" class="margin-right" >{% include linksvg.html %}  Go to Room </a> / 
 				<a href="{{site.baseurl}}/works/{{page.code}}" class="margin-left"> {% include linksvg.html %}  Go to Artist's Piece  </a>
 				</div>
 			</div>
 
 <div class="qa">
-<div class="q1 question fs125">What's your favorite riso color or color combo? </div>
+{% if page.q1 %}<div class="q1 question fs125">What's your favorite riso color or color combo? </div>{% endif %}
 <div class="flex-row">
-<div class="a1 answer fs15">{{page.q1}}</div>
+{% if page.q1 %}<div class="a1 answer fs15">{{page.q1}}</div>{% endif %}
 <div class="qa-images">
 {% if page.imgq1_1 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq1_1}}">{% endif %}
 {% if page.imgq1_2 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq1_2}}">{% endif %}
@@ -32,7 +34,7 @@
 </div>
 
 <div class="qa">
-<div class="q2 question fs125">Share 1-3 things about your technical process.  (ie. how do you color separate?, how do you decide which colors, binding method, or paper to use?, is your process traditional, digital, or both?, if it's collaborative what does the back and forth look like?)</div>
+{% if page.q2 %}<div class="q2 question fs125">Share 1-3 things about your technical process.  (ie. how do you color separate?, how do you decide which colors, binding method, or paper to use?, is your process traditional, digital, or both?, if it's collaborative what does the back and forth look like?)</div>{% endif %}
 <div class="flex-row">
 <div class="a2 answer fs15">{{page.q2}}</div>
 <div class="qa-images">
@@ -46,7 +48,7 @@
 </div>
 
 <div class="qa">
-<div class="q3 question fs125">Share 1-3 things about your creative/conceptualizing process. </div>
+{% if page.q3 %}<div class="q3 question fs125">Share 1-3 things about your creative/conceptualizing process. </div>{% endif %}
 <div class="flex-row">
 <div class="a3 answer fs15">{{page.q3}}</div>
 <div class="qa-images">
@@ -58,8 +60,8 @@
 </div>
 
 <div class="qa">
-<div class="q4 question fs125">What did you have on your mind when you were working on this project/piece (or in general)?  (ie. Does your work (this or other) relate to a particular current movement or concept?)
-</div>
+{% if page.q4 %}<div class="q4 question fs125">What did you have on your mind when you were working on this project/piece (or in general)?  (ie. Does your work (this or other) relate to a particular current movement or concept?)
+</div>{% endif %}
 <div class="flex-row">
 <div class="a4 answer fs15">{{page.q4}}</div>
 <div class="qa-images">
@@ -72,8 +74,8 @@
 </div>
 
 <div class="qa">
-<div class="q5 question fs125">Do you have any risograph-related tips and tricks you'd like to share?
-</div>
+{% if page.q5 %}<div class="q5 question fs125">Do you have any risograph-related tips and tricks you'd like to share?
+</div>{% endif %}
 <div class="flex-row">
 <div class="a5 answer fs15">{{page.q5}}</div>
 <div class="qa-images">
@@ -83,10 +85,10 @@
 </div>
 
 <div class="qa">
-<div class="q6 question fs125">If you would like to include your own Q&A that you would like to share or re-word any of these questions in a different way, add it below -
-</div>
+{% if page.q6 %} <div class="q6 question fs125">If you would like to include your own Q&A that you would like to share or re-word any of these questions in a different way, add it below -
+</div>{% endif %}
 <div class="flex-row">
-<div class="a6 answer fs15">{{page.q4}}</div>
+<div class="a6 answer fs15">{{page.q6}}</div>
 <div class="qa-images">
 {% if page.imgq6 %}<img src="{{site.baseurl}}/img/interviews/{{page.imgq6}}">{% endif %}
 </div>
@@ -94,8 +96,8 @@
 </div>
 
 <div class="qa">
-<div class="q7 question fs125">What is something that you would like to say to anyone reading this right now?
-</div>
+{% if page.q7 %} <div class="q7 question fs125">What is something that you would like to say to anyone reading this right now?
+</div>{% endif %}
 <div class="flex-row">
 <div class="a7 answer fs15">{{page.q7}}</div>
 <div class="qa-images">

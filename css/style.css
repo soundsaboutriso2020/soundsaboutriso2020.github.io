@@ -288,6 +288,7 @@ nav a{
 
 .logo-text{
 	margin-top:0.5vh;
+	font-size:1.15em;
 }
 
 
@@ -502,7 +503,6 @@ overflow-y: scroll;
 
 .column1, .column2, .column3{
 	width:30vw;
-	margin-right:3vw;
 }
 
 .linksvg{
@@ -511,6 +511,10 @@ overflow-y: scroll;
 
 .doorsvg{
 	width:2vw;
+}
+
+.directory-container a:hover{
+	color:red;
 }
 
 .linksvg:hover{
@@ -656,24 +660,24 @@ transform: rotate(-1.5deg);
 /*product size */
 
 .s{
-width: 9vw;
+width: 8vw;
 }
 
 .m{
-	width: 12vw;
+	width: 10vw;
 }
 
 .l{
-	width: 15vw;
+	width: 12vw;
 
 }
 
 .xl{
-	width: 18vw;
+	width: 15vw;
 }
 
 .xxl{
-	width:20vw;
+	width:18vw;
 }
 /*room 1*/
 
@@ -846,10 +850,12 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 /*	height:100vh;
 */}
 
+.fundraiser-left a,
 .fundraiser-right a{
 	    color: #FF48B0;
 }
 
+.fundraiser-left a:hover,
 .fundraiser-right a:hover{
 	color:red;
 }
