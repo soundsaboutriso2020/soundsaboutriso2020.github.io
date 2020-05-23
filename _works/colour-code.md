@@ -10,6 +10,7 @@ participant: Colour Code
 email: info@colourcodeprinting.com
 artist: Juli Majer
 title: Stone/Star Bloom/Loop
+redirect: 
 type: zine
 artisturl: https://www.instagram.com/julimajer/
 publisher: Colour Code

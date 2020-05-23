@@ -10,6 +10,7 @@ participant: Jeong Lee
 email: yjn0al@gmail.com
 artist: Jeong Lee
 title: Sweet Dreams Of Passion Thru The Night
+redirect: 
 type: print
 artisturl: http://jeonglee.space
 publisher: 

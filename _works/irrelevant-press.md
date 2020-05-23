@@ -10,6 +10,7 @@ participant: Irrelevant Press
 email: irrelpress@gmail.com
 artist: Wei Keong Tan & Mollie Underwood
 title: Between Us Two
+redirect: 
 type: zine
 artisturl: http://www.irrelevantpress.com
 publisher: Irrelevant Press

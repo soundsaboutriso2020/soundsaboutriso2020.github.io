@@ -10,6 +10,7 @@ participant: Zine Hug
 email: zinehug@gmail.com
 artist: Kevin Li
 title: Our
+redirect: /interviews/zinehug/
 type: print
 artisturl: https://fanlink.to/OuR
 publisher: Zine Hug
@@ -22,11 +23,11 @@ img3:
 img4: 
 img5: 
 img6: 
-year: 
+year: 2019
 price: 35
-desc: 
-size: 
-color: 
+desc: Photographed by Kevin Li and printed in CMYK
+size: 8.25" x 10.25"
+color: Cornflower, Fluo Pink, Yellow, Black
 specs: 
 alttext: Our, a print by Kevin Li.
 temp_notes: 

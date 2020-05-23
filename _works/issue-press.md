@@ -10,6 +10,7 @@ participant: Issue Press
 email: info@issue.press
 artist: Clay Hickson
 title: Every Good Boy Deserves Fudge
+redirect: 
 type: zine
 artisturl: https://instagram.com/clayhickson
 publisher: Issue Press

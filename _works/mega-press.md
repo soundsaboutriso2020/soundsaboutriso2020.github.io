@@ -10,6 +10,7 @@ participant: Mega Press/Panayiotis Terzis
 email: panterzis@gmail.com
 artist: Various Artists
 title: An Unknown Power
+redirect: 
 type: zine
 artisturl: http://www.mega-press.us/
 publisher: Mega Press

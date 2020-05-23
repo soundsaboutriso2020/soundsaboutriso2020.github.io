@@ -10,6 +10,7 @@ participant: Queer.Archive.Work
 email: queer.archive.work@gmail.com
 artist: Paul Soulellis (editor) & 110 contributors
 title: Urgency Reader 2
+redirect: 
 type: zine
 artisturl: https://soulellis.com/work/urgencyreader2/index.html
 publisher: Queer.Archive.Work

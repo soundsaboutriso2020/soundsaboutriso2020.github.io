@@ -10,6 +10,7 @@ participant: Rose Wong
 email: rosewongart@gmail.com
 artist: Rose Wong
 title: Okay Okay
+redirect: 
 type: zine
 artisturl: http://www.rosewongart.com
 publisher: 

@@ -10,8 +10,9 @@ participant: Chris Lucero
 email: lucechri.0@gmail.com
 artist: Chris Lucero
 title: Old Man Days Print Series
+redirect: 
 type: print
-artisturl: lucerochris.com
+artisturl: https://lucerochris.com/
 publisher: 
 publisherurl: https://www.parttimepigeon.com/
 howpurchase: Online Shop

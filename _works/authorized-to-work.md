@@ -10,6 +10,7 @@ participant: Authorized to Work
 email: cemkocyildirim@gmail.com
 artist: Various Artists
 title: Drums on Paper - Collector's Edition
+redirect: 
 type: print
 artisturl: https://authorizedtowork.us 
 publisher: Authorized to Work in the US Press

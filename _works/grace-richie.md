@@ -10,6 +10,7 @@ participant: Grace Ritchie
 email: gritchie@mica.edu
 artist: Grace Ritchie
 title: Car Crash
+redirect: 
 type: print
 artisturl: https://www.instagram.com/lastplacegrace/
 publisher: 

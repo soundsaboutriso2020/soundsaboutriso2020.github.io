@@ -10,6 +10,7 @@ participant: Max Pepper
 email: maxwellpepper@gmail.com
 artist: Max Pepper
 title: Idols
+redirect: 
 type: zine
 artisturl: https://www.instagram.com/maxwellpepper/
 publisher: Max Pepper

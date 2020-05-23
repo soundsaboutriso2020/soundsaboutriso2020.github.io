@@ -10,6 +10,7 @@ participant: Zack Lydon
 email: zlydon@gmail.com
 artist: Zack Lydon
 title: Special Delivery
+redirect: 
 type: print
 artisturl: http://zacklydon.com
 publisher: Zine Hug

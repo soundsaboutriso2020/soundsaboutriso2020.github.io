@@ -10,6 +10,7 @@ participant: Lil WeTransfer
 email: jefeingold@gmail.com
 artist: Lil WeTransfer
 title: We Are Us. Who Are You?
+redirect: 
 type: print
 artisturl: https://lilwe.online/
 publisher: 

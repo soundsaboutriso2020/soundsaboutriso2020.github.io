@@ -10,6 +10,7 @@ participant: Zampa Club/Elizabeth Goodpseed
 email: zampaaa.club@gmail.com
 artist: Elizabeth Goodspeed 
 title: Jello
+redirect: 
 type: print
 artisturl: http://elizabethgoodspeed.com/
 publisher: lucky risograph + Zampa Club

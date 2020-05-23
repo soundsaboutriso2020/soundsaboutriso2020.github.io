@@ -10,6 +10,7 @@ participant: lucky risograph
 email: luckyrisograph@gmail.com
 artist: Hannah Antalek
 title: Inside Joke
+redirect: 
 type: zine
 artisturl: https://www.hannahantalek.com/
 publisher: lucky risograph

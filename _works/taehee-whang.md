@@ -10,6 +10,7 @@ participant: Taehee Whang
 email: taehee.whang@gmail.com
 artist: Taehee Whang
 title: Spicy XXXX 짬찌 맵다 
+redirect: 
 type: print
 artisturl: http://taehee-whang.com/
 publisher: 

@@ -10,6 +10,7 @@ participant: Wenting Li
 email: wenting.draws@gmail.com
 artist: Wenting Li 
 title: Our Lady
+redirect: 
 type: zine
 artisturl: https://www.wentingli.com/
 publisher: Pindot Press 

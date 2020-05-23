@@ -10,6 +10,7 @@ participant: TXTbooks
 email: txtbooks.us@gmail.com
 artist: Sally Thurer, Scott Gelber, Mitchell Lyne, Luiza Dale, Mel Nguyen, Paige Landesberg, Jacob Simon, Benfield, & Gabriella Cossens
 title: TXTreader Volume 2
+redirect: 
 type: zine
 artisturl: http://www.txtbooks.us/txtreader-2
 publisher: TXTbooks

@@ -10,6 +10,7 @@ participant: sounds about riso .online
 email: soundsaboutriso@gmail.com
 artist: James Bascara
 title: sounds about riso .online
+redirect: 
 type: print
 artisturl: http://www.jamesbascara.com/
 publisher: lucky risograph + zine hug

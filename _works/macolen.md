@@ -10,6 +10,7 @@ participant: Macolen
 email: hola@macolen.com
 artist: Alejandra Ballesteros
 title: Amanecer / Atardecer
+redirect: 
 type: print
 artisturl: https://www.instagram.com/aleebaes/
 publisher: Macolen & Kevelyn

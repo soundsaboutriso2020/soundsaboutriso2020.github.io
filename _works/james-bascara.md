@@ -10,6 +10,7 @@ participant: James Bascara
 email: jbascara@gmail.com
 artist: James Bascara
 title: Flan
+redirect: /index
 type: zine
 artisturl: http://www.jamesbascara.com
 publisher: 

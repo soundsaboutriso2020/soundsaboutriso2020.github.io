@@ -10,6 +10,7 @@ participant: Min Heo
 email: heejeminheo@gmail.com
 artist: Min Heo
 title: Emotional Support System
+redirect: 
 type: print
 artisturl: https://www.minstudio.us
 publisher: 

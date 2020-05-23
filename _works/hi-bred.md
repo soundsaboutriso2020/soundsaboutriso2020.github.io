@@ -10,6 +10,7 @@ participant: Hi-Bred
 email: ian@hi-bred.net
 artist: Ian Mackay
 title: Women With Figs
+redirect: 
 type: print
 artisturl: https://www.hi-bred.net/
 publisher: Hi-Bred

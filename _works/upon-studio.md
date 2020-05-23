@@ -10,6 +10,7 @@ participant: Upon Studio
 email: hey@upon.studio
 artist: Ivy Zheyu Chen
 title: Smiley
+redirect: 
 type: zine
 artisturl: https://upon.studio/
 publisher: UPON

@@ -10,6 +10,7 @@ participant: Aarati Akkapeddi
 email: aarati.akkapeddi@gmail.com
 artist: Aarati Akkapeddi
 title: After Image - Couple Standing
+redirect: 
 type: print
 artisturl: http://aarati.me/
 publisher: 

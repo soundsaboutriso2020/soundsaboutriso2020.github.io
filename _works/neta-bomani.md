@@ -10,6 +10,7 @@ participant: Neta Bomani
 email: netanyabomani@gmail.com
 artist: Mariame Kaba & Neta Bomani
 title: Groundhog Day–The Killing of Bonita Carter
+redirect: 
 type: zine
 artisturl: http://usprisonculture.com
 publisher: Irrelevant Press

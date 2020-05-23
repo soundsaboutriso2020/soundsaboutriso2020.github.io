@@ -10,6 +10,7 @@ participant: Madeline Gilmore
 email: gilmore.maddie@gmail.com
 artist: Chuck Kuan, Ritu Ghiya, Madeline Gilmore, & Daniel Hardisty
 title: Ring & Tuscany
+redirect: 
 type: print
 artisturl: https://www.instagram.com/volumepoetry/
 publisher: lucky risograph

@@ -10,6 +10,7 @@ participant: Jocelyn Tsaih
 email: jocelyntsaih@gmail.com
 artist: Jocelyn Tsaih
 title: Belonging
+redirect: 
 type: zine
 artisturl: http://www.instagram.com/jocelyntsaih
 publisher: Zinehug

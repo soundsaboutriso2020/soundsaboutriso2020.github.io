@@ -10,6 +10,7 @@ participant: Tim Peacock
 email: peacockdraws@gmail.com
 artist: Tim Peacock
 title: Village
+redirect: 
 type: print
 artisturl: http://www.timpeacock.com
 publisher: 

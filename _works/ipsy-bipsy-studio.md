@@ -10,6 +10,7 @@ participant: Ipsy Bipsy Studio
 email: ipsybipsystudio@gmail.com
 artist: Erica Federhen 
 title: We Share Our Mother's Health
+redirect: 
 type: print
 artisturl: https://www.ipsybipsystudio.com/
 publisher: 

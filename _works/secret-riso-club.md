@@ -10,6 +10,7 @@ participant: Secret Riso Club
 email: secretrisoclub@gmail.com
 artist: Gonzalo Guerrero
 title: Action
+redirect: 
 type: print
 artisturl: https://www.instagram.com/secret_riso_club/?hl=en
 publisher: Secret Riso Club

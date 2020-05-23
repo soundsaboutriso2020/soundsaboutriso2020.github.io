@@ -10,6 +10,7 @@ participant: Cristhian Sabogal
 email: sabogalcc@gmail.com
 artist: Cristhian Sabogal
 title: Earth Layers
+redirect: 
 type: print
 artisturl: https://www.instagram.com/cristhian.sabogal/
 publisher: 

@@ -10,6 +10,7 @@ participant: Perfectly Acceptable Press
 email: info@perfectly-acceptable.com
 artist: Daria Tessler
 title: Loop of the Sun
+redirect: 
 type: zine
 artisturl: http://www.animalsleepstories.com
 publisher: Perfectly Acceptable Press

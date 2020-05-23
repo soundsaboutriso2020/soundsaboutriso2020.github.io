@@ -10,6 +10,7 @@ participant: Wren McDonald
 email: wrenxmcdonald@gmail.com
 artist: Wren McDonald
 title: Targeted Advertising
+redirect: 
 type: print
 artisturl: https://wrenmcdonald.com/
 publisher: 

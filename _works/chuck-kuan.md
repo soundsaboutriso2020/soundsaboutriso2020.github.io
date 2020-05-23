@@ -10,6 +10,7 @@ participant: Chuck Kuan
 email: chuck.kuan@gmail.com
 artist: Chuck Kuan
 title: No Sweat
+redirect: 
 type: print
 artisturl: https://instagram.com/duckduck.chuck
 publisher: lucky risograph

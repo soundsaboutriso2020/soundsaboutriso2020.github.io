@@ -10,6 +10,7 @@ participant: Kevin VQ Dam
 email: kevin@kevinvqdam.com
 artist: Kevin VQ Dam
 title: Sriracha
+redirect: 
 type: print
 artisturl: https://www.kevinvqdam.com
 publisher: 

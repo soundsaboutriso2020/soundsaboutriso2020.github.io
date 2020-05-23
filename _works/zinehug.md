@@ -10,6 +10,7 @@ participant: Zinehug
 email: zinehug@gmail.com
 artist: Zine Hug
 title: Executive Information Packet Journal
+redirect: /interviews/zinehug/
 type: zine
 artisturl: http://benjybrooke.com
 publisher: Zine Hug

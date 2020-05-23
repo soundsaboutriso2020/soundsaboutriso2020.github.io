@@ -10,6 +10,7 @@ participant: Tiny Splendor
 email: info@tinysplendor.com
 artist: Max Stadnik
 title: Hot Dog
+redirect: 
 type: print
 artisturl: https://www.instagram.com/tinysplendor/
 publisher: Tiny Splendor 

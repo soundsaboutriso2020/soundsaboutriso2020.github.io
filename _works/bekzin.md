@@ -10,6 +10,7 @@ participant: Bekzin
 email: bekzin@bekzin.com
 artist: Bekzin
 title: The Book of Avocado Toast
+redirect: 
 type: zine
 artisturl: https://instagram.com/bekzinart
 publisher: 

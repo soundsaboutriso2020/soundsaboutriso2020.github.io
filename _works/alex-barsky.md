@@ -10,6 +10,7 @@ participant: Alex Barsky
 email: abarsky10@gmail.com
 artist: Alex Barsky
 title: Distant Summer
+redirect: 
 type: print
 artisturl: https://abarsky.com
 publisher: Zine Hug

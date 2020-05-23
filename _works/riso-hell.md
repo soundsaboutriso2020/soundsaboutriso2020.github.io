@@ -10,6 +10,7 @@ participant: Riso Hell
 email: risohellpress@gmail.com
 artist: Brandon Bandy
 title: Teenage Witch
+redirect: 
 type: zine
 artisturl: http://brandonbandy.com
 publisher: Riso Hell

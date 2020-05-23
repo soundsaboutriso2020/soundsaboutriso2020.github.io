@@ -10,6 +10,7 @@ participant: Sean Suchara
 email: seansuchara@gmail.com
 artist: Sean Suchara
 title: Percolator
+redirect: 
 type: print
 artisturl: http://seansuchara.info/
 publisher: 

@@ -10,6 +10,7 @@ participant: Cold Cube Press
 email: coldcubepress@gmail.com
 artist: Cynthia Alfonso
 title: The One Who Weeps
+redirect: 
 type: zine
 artisturl: http://www.coldcubepress.com/shop/the-one-who-weeps-cynthia-alfonso
 publisher: 

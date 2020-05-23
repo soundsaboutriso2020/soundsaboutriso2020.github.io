@@ -10,6 +10,7 @@ participant: Secret Room Press
 email: SecretRoomPress@gmail.com
 artist: Secret Room
 title: Secret Rag 3-Pack
+redirect: 
 type: zine
 artisturl: http://secretroompress.com
 publisher: Secret Room Press

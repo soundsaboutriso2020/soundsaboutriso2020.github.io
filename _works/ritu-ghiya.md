@@ -10,12 +10,13 @@ participant: Ritu Ghiya
 email: ritughiya@gmail.com
 artist: Ritu Ghiya
 title: Feeling Better
+redirect: 
 type: print
 artisturl: https://www.ritu.online/
 publisher: 
 publisherurl: 
-howpurchase: Email
-producturl: mailto:ritughiya@gmail.com?subject=Sounds About Riso .Online Print Purchase
+howpurchase: Direct Message on Social Media Platform
+producturl: https://www.instagram.com/rituqhiya/
 img1: FeelingBetter-RituGhiya01.png
 img2: 
 img3: 

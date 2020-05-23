@@ -10,6 +10,7 @@ participant: Woolly Press
 email: info@woollypress.com
 artist: Colin Sutherland
 title: That's Better
+redirect: 
 type: zine
 artisturl: http://www.colinsutherland.com/
 publisher: Woolly Press

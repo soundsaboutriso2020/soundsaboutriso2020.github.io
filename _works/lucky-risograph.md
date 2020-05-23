@@ -10,6 +10,7 @@ participant: lucky risograph
 email: luckyrisograph@gmail.com
 artist: Jonathan Dedecker
 title: Jonathan 1993
+redirect: /interviews/lucky-risograph
 type: zine
 artisturl: http://jonathandedecker.org/
 publisher: lucky risograph

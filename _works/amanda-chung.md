@@ -10,6 +10,7 @@ participant: Amanda Chung
 email: hi.amdachu@gmail.com
 artist: Amanda Chung
 title: Handle With Care
+redirect: 
 type: zine
 artisturl: https://www.instagram.com/amdachu/
 publisher: 

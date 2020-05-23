@@ -10,6 +10,7 @@ participant: Gender Fail
 email: genderfailproject@gmail.com
 artist: Liz Barr
 title: Body Works
+redirect: 
 type: zine
 artisturl: https://www.instagram.com/lizbarrrr/?hl=en
 publisher: GenderFail

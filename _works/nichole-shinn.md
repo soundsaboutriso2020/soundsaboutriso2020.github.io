@@ -10,6 +10,7 @@ participant: Nichole Shinn
 email: nshinn42@gmail.com
 artist: Days Like Pronoia
 title: Nichole Shinn
+redirect: 
 type: zine
 artisturl: http://nicholeshinn.com/
 publisher: TXTBooks

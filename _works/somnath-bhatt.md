@@ -10,6 +10,7 @@ participant: Somnath Bhatt
 email: somnath@somnathbhatt.com
 artist: Somnath Bhatt
 title: Wave / Shrine
+redirect: 
 type: print
 artisturl: https://www.instagram.com/m0henjodaro/?hl=en
 publisher: 
