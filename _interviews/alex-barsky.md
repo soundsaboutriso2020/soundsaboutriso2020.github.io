@@ -6,7 +6,7 @@ layout: interview
 participant: Alex Barsky
 email: abarsky10@gmail.cl 
 q1: Right now I am using Mint and Bright Red for everything.  Those are my '20 summa colors
-imgq1_1: DistantSummer_AlexBarsky - Zine Hug.jpg
+imgq1_1: AlexBarsky_Q1.jpg
 imgq1_2: 
 img1_3: 
 q2: I have some thematic areas I often explore like humanity's relationship with nature and questioning if it's possible for them to live in harmony, or if it's even possible for humans to live in harmony with one another. I feel that I tell the same story over and over again with a different cast of characters, which is basically a person or people trying to come to terms with the bad parts of their own natures and how that affects the ecoystems surrounding them.

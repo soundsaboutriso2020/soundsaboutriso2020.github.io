@@ -1,11 +1,11 @@
 ---
 layout: county 
-code: ritu-ghiya
-room: angel-wing
+code: chuck-kuan
+room: rumble-room
 layout: interview
-participant: Ritu Ghiya
+participant: Chuck Kuan
 email: 
-q1: 
+q1: TBD
 imgq1_1: 
 imgq1_2: 
 img1_3: 

@@ -15,7 +15,7 @@ next: /interviews
 <div class="prints room5 flex-row space-around aligncenter">
   {% for post in room5print %}
   <div class="print product hvr-hang {{post.imgsize}}">
-  	 <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/products/{{post.img1}}"></a>
+  	 <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/products/{{post.img1}}" alt="{{post.alttext}}"></a>
 </div>
   {% endfor %}
 </div>
@@ -27,7 +27,7 @@ next: /interviews
 <div class="zines room5 flex-row space-around aligncenter">
   {% for post in room5zine %}
    <div class="zine product hvr-bob {{post.imgsize}}">
-  	 <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/products/{{post.img1}}"></a>
+  	 <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/products/{{post.img1}}" alt="{{post.alttext}}"></a>
 </div>
   {% endfor %}
 </div>

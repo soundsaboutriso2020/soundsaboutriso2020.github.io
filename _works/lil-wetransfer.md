@@ -12,7 +12,7 @@ artist: Lil WeTransfer
 title: We Are Us. Who Are You?
 redirect: 
 type: print
-artisturl: https://lilwe.online/
+artisturl: lilwe.online
 publisher: 
 publisherurl: 
 howpurchase: Online Shop

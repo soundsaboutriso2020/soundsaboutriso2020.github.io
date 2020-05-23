@@ -1,11 +1,11 @@
 ---
 layout: county 
-code: taehee-whang
-room: moon-room
+code: madeline-gilmore
+room: solarium
 layout: interview
-participant: Taehee Whang
+participant: Madeline Gilmore
 email: 
-q1: 
+q1: TBD
 imgq1_1: 
 imgq1_2: 
 img1_3: 

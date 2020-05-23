@@ -15,7 +15,7 @@ next: /angel-wing
 <div class="prints room2 flex-row space-around aligncenter">
   {% for post in room2print %}
   <div class="print product hvr-hang {{post.imgsize}}">
-  	 <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/products/{{post.img1}}"></a>
+  	 <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/products/{{post.img1}}" alt="{{post.alttext}}"></a>
 </div>
   {% endfor %}
 </div>
@@ -26,7 +26,7 @@ next: /angel-wing
 <div class="zines room2 flex-row space-around aligncenter">
   {% for post in room2zine %}
    <div class="zine product hvr-bob {{post.imgsize}}">
-  	 <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/products/{{post.img1}}"></a>
+  	 <a href="{{site.baseurl}}{{post.url}}"><img src="{{site.baseurl}}/img/products/{{post.img1}}" alt="{{post.alttext}}"></a>
 </div>
   {% endfor %}
 </div>

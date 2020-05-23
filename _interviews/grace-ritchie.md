@@ -1,6 +1,6 @@
 ---
 layout: county 
-code: grace-richie
+code: grace-ritchie
 room: wild-berry-room
 layout: interview
 participant: Grace Ritchie
@@ -9,7 +9,7 @@ q1: Federal Blue, Flo Pink, Yellow
 imgq1_1: 
 imgq1_2: 
 img1_3: 
-q2: My process always starts traditionally, usually with pencil thumbnails then ink or marker. I often trace parts of sketches on durlar and scan them into photoshop where I put them together into a full piece. This allows me to redraw an element easily until I'm happy with it as well as shift or resize anything thats out of place. When its formatted how I want digitally I can move to printing., , I usually color without specific riso colors in mind then separate the finished image with black and white adjustment layers and clipping masks. This allows me to easily manipulate the colors in the image and test which riso colors will look best for the print. 
+q2: My process always starts traditionally, usually with pencil thumbnails then ink or marker. I often trace parts of sketches on durlar and scan them into photoshop where I put them together into a full piece. This allows me to redraw an element easily until I'm happy with it as well as shift or resize anything thats out of place. When its formatted how I want digitally I can move to printing.<br> I usually color without specific riso colors in mind then separate the finished image with black and white adjustment layers and clipping masks. This allows me to easily manipulate the colors in the image and test which riso colors will look best for the print. 
 imgq2_1: 
 imgq2_2: 
 imgq2_3: 
