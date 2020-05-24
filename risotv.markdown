@@ -18,6 +18,8 @@ event4-time: "12:30-1PM EST"
 event4-name: "Artists’ Lunch with Rose Wong & Thomas Colligan"
 event5-time: "2-3:30PM EST"
 event5-name: "Color Separation Anxiety: File prep with lucky risograph's Amanda Chung & Chuck Kuan"
+event6-time: "5-6PM EST"
+event6-name: "soundsaboutriso .online after party with DJ Vanessa Castro"
 
 ---
 
