@@ -89,6 +89,7 @@ box-shadow: 5px 5px 50px gold;
 .flex-row{
 	display:flex;
 	flex-direction:row;
+	align-items:flex-start;
 }
 
 .space-around{
@@ -117,8 +118,8 @@ box-shadow: 5px 5px 50px gold;
 }
 
 .b3glow{
-	box-shadow: 5px 5px 50px #15C4FB;
-
+/*	box-shadow: 5px 5px 50px #15C4FB;
+*/
 }
 
 .dotted:hover{
