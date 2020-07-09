@@ -391,8 +391,7 @@ background-color: #DEE6E4;}
 /* event page */
 
 .event-right{
-	margin-left: 2vw;
-	height: 80vh;
+	margin: 1vh 0 0 4vw;
 	width:40vw;
 }
 
@@ -401,8 +400,9 @@ background-color: #DEE6E4;}
 }
 
 .schedule-container{
-	height:30vh;
-		padding: 1vh 1vw;
+	height:60vh;
+	width:25vw;
+		padding: 2vh 2vw;
 }
 
 .events-page h1{
@@ -410,7 +410,6 @@ background-color: #DEE6E4;}
 }
 
 .events{
-	margin-right:10vw;
 	line-height:30px;
 }
 
@@ -994,6 +993,10 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 
 .desktop{display:none;}
 .mobile{display:block;}
+
+.schedule-container{
+	width:98%;
+}
 
 .space{
 	height:12vh;
