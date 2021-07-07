@@ -58,6 +58,10 @@ Zine Hug × 奥奇漫画 O.Q Comics”
 </div>
 <style>
 
+  body{
+  overflow-y:hidden;
+  }
+
   .seashell{
         position: absolute;
     top: 1vh;
@@ -168,6 +172,7 @@ background-color: #F1EFE2;
 
 /* Modal Content/Box */
 .modal-content {
+
       margin: 2vh auto;
 background-color: #F1EFE2; 
 max-width: 1100px;/* Could be more or less, depending on screen size */
@@ -186,7 +191,7 @@ color: #565852;
     padding: 1vh 6vw 3vh 6vw;
   }
 .bigger{
-    font-family: Arial Rounded MT Std;
+    font-family: "Arial-Rounded";
 font-size: 18px;
 font-style: normal;
 font-weight: 500;
@@ -198,7 +203,7 @@ letter-spacing: 0.055em;
 
 .smaller{
     margin-bottom: 2%;
-    font-family: Arial Rounded MT Std;
+    font-family: "Arial-Rounded";
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -210,7 +215,7 @@ letter-spacing: 0.055em;
 
 .smallest{
     margin-top: 2%;
-    font-family: Arial Rounded MT Std;
+    font-family: "Arial-Rounded";
     font-size: 13px;
     font-style: normal;
     font-weight: 500;
@@ -242,10 +247,11 @@ letter-spacing: 0.055em;
   .modal-content{
     margin: 2vh 2vw 0vh 2vw;
         height: 95vh;
+            margin: 2vh 2vw 5vh 2vw;    border: 15px solid #ADD735;
   }
 
   .modal-inner {
-    padding: 1vh 3vw 3vh 3vw;
+    padding: 1vh 3vw 20vh 3vw;
   }
 
   .smaller{
@@ -259,12 +265,12 @@ letter-spacing: 0.055em;
   .abc-room {
     display: flex;
     flex-wrap: wrap;
-        width: 90%;
-    margin: 5% 5% 0 5%;
+        width: 100%;
+        margin:0;
   }
 
   .abc-room img {
-    max-width: 90%;
+    max-width: 100%;
     margin-bottom:10%;
   }
 }

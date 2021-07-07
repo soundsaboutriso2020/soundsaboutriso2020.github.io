@@ -3,6 +3,12 @@
     src: url("/fonts/AUTHENTIC-Sans.otf") format("opentype");
 }
 
+@font-face {
+    font-family: 'Arial-Rounded';
+    src: url("/fonts/arial-rounded-mt-std.otf") format("opentype");
+}
+
+
 body{
     font-family: 'Authentic-Sans';
     font-size:14px;
