@@ -1007,6 +1007,12 @@ body{
 	margin-bottom: 10vh;
 }
 
+.roomlink{
+	    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
 #mobilelogo{
 	width:10vw;
 }
