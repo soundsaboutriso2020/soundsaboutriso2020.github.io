@@ -186,6 +186,31 @@ font-size:14px;    border: 25px solid #ADD735;
     flex-direction: column;
 }
 
+/* directory scrollbar settings */
+
+.modal-inner::-webkit-scrollbar{
+    -webkit-appearance: none;
+}
+
+.modal-inner::-webkit-scrollbar:vertical{
+    width: 10px;
+}
+
+.modal-inner::-webkit-scrollbar:horizontal{
+    height: 10px;
+}
+
+.modal-inner::-webkit-scrollbar-thumb{
+    border-radius: 8px;
+    border: 2px solid #b4b5b1; /* should match background, can't be transparent */
+    background-color: #b4b5b1;
+}
+
+.modal-inner::-webkit-scrollbar-track {
+    border: 2px solid #b4b5b1; /* should match background, can't be transparent */
+}
+
+
 .modal-inner{
     height: auto;
     overflow-y: scroll;
