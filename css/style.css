@@ -4,8 +4,14 @@
 }
 
 @font-face {
-    font-family: 'Arial-Rounded';
-    src: url("/fonts/arial-rounded-mt-std.otf") format("opentype");
+  font-family: 'Arial-Rounded';
+  src: url('/fonts/ArialRoundedMTStd.eot');
+  src: url('/fonts/ArialRoundedMTStd.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/ArialRoundedMTStd.ttf') format('truetype'),
+        url('/fonts/ArialRoundedMTStd.otf') format('opentype');
+
+  font-weight: normal;
+  font-style: normal;
 }
 
 
